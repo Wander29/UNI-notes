@@ -8,7 +8,7 @@ RETI LAB a.a. 2020/21 							Venturi Ludovico
 
 # RMI 
 
-Remote Method Invocation
+Remote Method Invocation.
 
 ## RMI Callbacks
 
