@@ -8,7 +8,7 @@ RETI LAB a.a. 2020/21 							Venturi Ludovico
 
 # RMI 
 
-Remote Method Invocation.
+Remote Method Invocation
 
 ## RMI Callbacks
 
@@ -189,21 +189,20 @@ Method TWO executing
 ...
 ```
 
-Da questo esempio si può concludere che i metodi vengono invocati concorrentemente, anche se le richieste vengono dallo stesso client (thread diversi).
+Da questo esempio si può concludere che **i metodi vengono invocati concorrentemente, anche se le richieste vengono dallo stesso client** (thread diversi).
 
 
 
 ### Passaggio di Parametri
 
-tipi di entità che possono essere passate tra il client ed il server (e come valori di ritorno):
+I tipi di entità che possono essere passate tra il client ed il server (e come valori di ritorno) sono:
 
 - tipi di dati **primitivi**, passati per *valore*
 - oggetti remoti, passati tramite *stub* (riferimento)
 - oggetti locali **serializzabili**, per valore utilizzando la *serializzazione*
 
-Anche
-
-
+**Un oggetto remoto non ha bisogno di essere serializzato per essere passato come parametro.**
+Se un oggetto contiene al suo interno un altro oggetto, quest'ultimo dovrà implementare `Remote` o `Serializable`.
 
 
 
