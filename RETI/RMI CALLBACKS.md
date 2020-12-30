@@ -12,6 +12,39 @@ Remote Method Invocation
 
 ## RMI Callbacks
 
+```mermaid
+classDiagram
+	class ClientInterface{
+		<<interface>>
+		+notifyEvent()
+	}
+	
+	class ServerInterface{
+		<<interface>>
+		+registerForCallback()
+		+unregisterForCallback()
+		+doCallbacks()
+	}
+	
+	
+	
+	class ServerInterfaceImpl{ }
+	
+	class ClientInterfaceImpl{ }
+	
+	class MainServer { }
+	
+	class MainClient { }
+	
+	ServerInterface<--ServerInterfaceImpl
+	ServerInterfaceImpl<--MainServer
+	ClientInterface<--ClientInterfaceImpl
+	ClientInterfaceImpl<--MainClient
+	
+	ClientInterface<..MainServer
+	
+```
+
 ### Interfacce
 
 ```java
@@ -203,6 +236,10 @@ I tipi di entità che possono essere passate tra il client ed il server (e come 
 
 **Un oggetto remoto non ha bisogno di essere serializzato per essere passato come parametro.**
 Se un oggetto contiene al suo interno un altro oggetto, quest'ultimo dovrà implementare `Remote` o `Serializable`.
+
+
+
+
 
 
 
