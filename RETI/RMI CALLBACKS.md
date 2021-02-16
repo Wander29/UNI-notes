@@ -32,9 +32,13 @@ classDiagram
 	
 	class ClientInterfaceImpl{ }
 	
-	class MainServer { }
+	class MainServer { 
+		<<main>>
+	}
 	
-	class MainClient { }
+	class MainClient { 
+		<<main>>
+	}
 	
 	ServerInterface<--ServerInterfaceImpl
 	ServerInterfaceImpl<--MainServer
