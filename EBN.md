@@ -241,7 +241,139 @@ l'essere solida o liquida è una proprietà emergente delle molecole d'acqua. Le
  ## Gli elementi chimici della vita e l'acqua
 
 ## Il carbonio e le piccole molecole organiche
+
+chimica organica
+
+Berzelius:
+
+chimica organica si fondò sul vitalismo. 
+Rivoluzione 1953: si possono produrre composti organici 
+
+la coscienza deriva da proprietà meccanicistiche?
+
+Carbonio, riesce a formare delle catene lunghe e stabili. Anche il silicio, ma meno lunghe (4-5 atomi), dopo diventa instabile e tende a rompersi. Parlando di singoli atomi
+
+non sono idrofile, non vanno d'accordo con l'acqua, non possono formare legami idrogeno
+
+*fullereni*
+
+Giulio Natta, Nobel, velocizza polimeri. Polipropilene, così lunghe queste catene che non ce ne liberiamo più
+
+2021: nella placenta ci troviamo particelle di microplastica. Nutriamo di plastica anche i nostri embrioni.
+
+chimica organica è la chimica del carbonio in pratica.
+
+gruppi funzionali:
+
+- gruppo 
+
 ## Le macromolecole della vita: carboidrati, lipidi, proteine, acidi nucleici (DNA e RNA)
+
+le cellule sono un continuo laboratorio
+
+4  classi di macromolecole:
+carboidrati, lipidi, proteine, acidi nucleici
+
+l'efficienza è venuta strada facendo con l'evoluzione
+
+**Polimeri:** sequenza di monomeri.
+Con un piccolo di numero di monomeri posso comporre 
+
+### Carboidrati
+
+- **monosaccaridi**
+
+zuccheri e loro polimeri
+i nostri neuroni vanno a glucosio
+
+- **disaccaridi**
+
+é difficile dire se un pezzo di cervello, dei neuroni in sè, siano vivi o no
+
+- polisaccaridi
+
+amido nei vegetali
+Glicogeno nel nostro corpo, fegato (100g) e tessuto muscolare(3-400g)
+
+cellulosa è il materiale organico più presente sulla Terra. Non è digeribile, solo alcuni batteri
+
+
+
+### lipidi
+
+non sono idrofile. non sono polimeri in genere
+**trigliceridi**
+
+Sono depositi di energia, doppio di ernergia rispetto a glicogeno/amido. Vari kg nel corpo. Funzione protettiva e termoisolante.
+
+Autopsie su ebrei morti rivelò che grasso intorno a occhi e reni non viene mai usato, è troppo importante
+
+- fosfolipidi
+
+cellule emarginate. 
+
+*?posso usare per la membrana cellulare?*
+Materiale impermeabile, "cappotto" delle cellule.
+Doppio strato fosfolipidico
+
+- **steroidi**
+
+il colesterolo è il precursore degli steroidi , ormoni steroidei
+
+### Proteine
+
+molecole più importanti per costruire la vita
+
+polipeptide: polimero di ammonoacidi
+
+amminoacido: gruppo carbossilico e gruppo amminico
+
+legame peptidico
+
+lisozima: nelle lacrime, ci aiuta ad uccidere i batteri. formato da 129 amminoacidi, legati fra di loro da legami peptidici
+
+trucco: raggomitolare proteina così da poterci costruire "nano-forchettine" molecolari. ripieghiamo proteine
+
+emoglobina: proteina di 4 polipeptidi ripiegata
+
+collageno: proteina fibrosa
+
+? cosa determina la conformazione di una proteina? 
+la sequenza dei suoi amminoacidi
+"droghette"
+
+sostanze (farmaci) possono rompere legami proteine e creare altri legami => modifiche ai neuroni, forme..
+
+se sostituisco un amminoacido con un altro?
+i ripiegamenti possono risultare alterati, con funzioni alterate, se la sostituizione produce una notevole alterazione delle interazioni
+
+es: anemia falciforme: 1 solo amminoacido di differenza, tra glutammato e valina
+
+elettronegatività, nube elettronica, polarità..
+
+siamo in grado di produrre 80.000/90.000 proteine diverse
+Tante funzioni!
+Struttura secondaria e terziaria il ripiegamento
+
+### Acidi nucleici
+
+chi determina la sequenza amminoacidica (str. primaria) delle proteine?
+Info contenute nei geni
+
+Geni costituiti da DNA. DNA = materiale genetico che gli organismi ereditano dai loro genitori.
+
+A 100 proteine non corrispondono 100 geni.
+I geni sono circa 30.000.
+
+- DNA, RNA
+
+acidi nucleici: polimeri di nucleotidi
+
+nucleotide: zuchero, gruppo fosfato e base azotata
+
+zucchero -> ribosio: ha 5 atomi di carbonio
+
+la sequenza di basi azotate determina la sequenza degli amminoacidi
 
  ## I componenti cellulari: membrana plasmatica, nucleo, mitocondri, ribosomi...
  ## La cellula e l'energia, metabolismo cellulare, respirazione cellulare.
