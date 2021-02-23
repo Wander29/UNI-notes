@@ -348,7 +348,7 @@ I 6 gruppi funzionali più importanti nella chimica della vita sono tutti *idrof
 
 
 
-## Le macromolecole della vita: carboidrati, lipidi, proteine, acidi nucleici (DNA e RNA)
+## Le macromolecole della vita
 
 > EBG: cap 3,4
 
@@ -508,7 +508,7 @@ Anche nel Covid-19 ci sono le proteine (la cosiddetta proteina *spike*):
 
 <img src="https://news.dartmouth.edu/sites/dart_news.prod/files/styles/slide/public/news/images/coronavirus-1024x576.jpg?itok=SE9_dHar" alt="New Taskforce, Website to Share COVID-19 Updates With ..." style="zoom: 25%;" />
 
-Le parti rosse sono le proteine, la sfera bianca è composta di lipidi.
+Le parti rosse sono le proteine, la sfera bianca è composta da lipidi.
 
 **Struttura di una proteina**
 Le proteine sono le molecole più complesse strutturalmente. 
@@ -547,86 +547,159 @@ Ad esempio qui si viene a formare una molecole di acqua all'unione del gruppo ca
 
 Lo scheletro della catena carboniosa è N-C-C, come avevamo visto il carbonio consente la creazione di catene lunghe e stabili. Notare che le catene laterali sono libere.
 
-lisozima: nelle lacrime, ci aiuta ad uccidere i batteri. formato da 129 amminoacidi, legati fra di loro da legami peptidici
+*lisozima*: è un polipeptide, è un piccolo enzima che attacca la parete cellulare dei batteri si trova ad esempio nelle lacrime, ci aiuta ad uccidere i batteri. É formato da 129 amminoacidi, legati fra di loro da legami peptidici:
+<img src="https://giubilesiassociati.com/wp-content/uploads/2020/03/lisozima.jpg" alt="Il lisozima: un potente antimicrobico naturale" style="zoom:33%;" />
 
-trucco: raggomitolare proteina così da poterci costruire "nano-forchettine" molecolari. ripieghiamo proteine
+Il trucco consiste nel raggomitolare gli amminoacidi così da poterci costruire "nano-forchettine" molecolari. 
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210223093251454.png" alt="image-20210223093251454" style="zoom:50%;" />
 
-emoglobina: proteina di 4 polipeptidi ripiegata
+Ci sono proteine *globulari* (lisozima), *fibrose* (collageno) oppure *molto raggomitolate* (emoglobina, formata da 4 polipeptidi).
 
-collageno: proteina fibrosa
+La conformazione di una proteina è determinata dalle sequenza dei suoi amminoacidi (cosiddetta *struttura primaria*). 
 
-? cosa determina la conformazione di una proteina? 
-la sequenza dei suoi amminoacidi
-"droghette"
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210223093819511.png" alt="image-20210223093819511" style="zoom: 50%;" />
 
-sostanze (farmaci) possono rompere legami proteine e creare altri legami => modifiche ai neuroni, forme..
+La striscia viola è lo scheletro del polipeptide, come si può notare i gruppi variabili liberi formano dei legami fra di loro che danno una forma al polipeptide.
+Il demiurgo utilizza il carbonio per comporre catene lunghe e stabili e successivamente usa delle molecole come gli amminoacidi con un gruppo laterale libere per consentire
 
-se sostituisco un amminoacido con un altro?
-i ripiegamenti possono risultare alterati, con funzioni alterate, se la sostituizione produce una notevole alterazione delle interazioni
+Questi legami possono venire spezzati, ad esempio assumendo nicotina, *qualche droghetta, un po' di cocaina,* qualche farmaco (es. valium) queste vanno ad interagire con le proteine che stanno sulla membrana dei neuroni. La presenza di queste sostanze può rompere questi legami e crearne di altri, modificando la forma e di conseguenza modificando la funzione.
 
-es: anemia falciforme: 1 solo amminoacido di differenza, tra glutammato e valina
+*?Se sostituisco un amminoacido con un altro?*
+Alcuni amminoacidi sono polari, alcuni acidi ecc.. quindi i ripiegamenti possono risultare alterati, con funzioni alterate, se la sostituizione produce una notevole alterazione delle interazioni fra i gruppi R. Si ottiene quindi una proteina alterata, con funzioni alterate. 
 
-elettronegatività, nube elettronica, polarità..
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210223095618281.png" alt="image-20210223095618281" style="zoom:50%;" />
 
-siamo in grado di produrre 80.000/90.000 proteine diverse
-Tante funzioni!
-Struttura secondaria e terziaria il ripiegamento
+*es: anemia falciforme dei globuli rossi: 1 solo amminoacido di differenza, tra glutammato e valina*
+La differenza fra glutammato e valina è nel gruppo laterale, il primo è polare, il secondo no, di conseguenza non può formare legami idrogeno.
+
+Una chiave di lettura fondamentale è l'elettronegatività, il pensare alla nube elettronica, alla polarità...
+
+I veri utensili molecolari sono proprio le proteine, siamo in grado di produrre 80.000/90.000 proteine diverse, svolgono tante funzioni.
+Struttura secondaria e terziaria sono relative ai ripiegamenti tridimensionali.
 
 ### Acidi nucleici
 
-chi determina la sequenza amminoacidica (str. primaria) delle proteine?
-Info contenute nei geni
+*? Chi determina la sequenza amminoacidica (struttura primaria) delle proteine?*
+La sequenza è determinata dalle info contenute nei *geni*, i quali sono costituiti da *DNA*.
 
-Geni costituiti da DNA. DNA = materiale genetico che gli organismi ereditano dai loro genitori.
+Il *DNA* è il materiale genetico che gli organismi ereditano dai loro genitori, esso impartisce le direttive per la propria replicazione. 
+Dirige anche la sintesi dell'RNA e attraverso questo controlla la sintesi delle proteine.
+Nella struttura del DNA sono programmate tutte le attività cellulari.
 
-A 100 proteine non corrispondono 100 geni.
-I geni sono circa 30.000.
+Si pensava che un gene codificasse una proteina cioè che a 100 proteine corrispondessero 100 geni. Si è visto che non è così, sono circa 30.000.
 
-- DNA, RNA
+Gli acidi nucleici sono DNA ed RNA. Essi sono polimeri di *nucleotidi*.
+Un ***nucleotide*** è formato da una 
 
-acidi nucleici: polimeri di nucleotidi
+- base azotata
+- uno zucchero pentoso, il *ribosio* (ha 5 atomi di carbonio) nell'RNA,  *desossiribosio* nel DNA
+- un gruppo fosfato (O4P)
 
-nucleotide: zuchero, gruppo fosfato e base azotata
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210223111306466.png" alt="image-20210223111306466" style="zoom:50%;" />
 
-zucchero -> ribosio: ha 5 atomi di carbonio
+RNA: acido *ribonucleico*, DNA: acido *desossiribonucleico*.
 
-la sequenza di basi azotate determina la sequenza degli amminoacidi
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210223111444165.png" alt="image-20210223111444165" style="zoom:50%;" />
+
+Le basi azotate sono anelli in cui è presente carbonio e azoto, *Citosina (C), Timina(T) Uracile(U)*. Le basi azotate si dividono in *pirimidine *(un anello) e *purine* (due anelli):
+
+- *pirimidine*
+  - Citosina, C
+  - Timina, T (nel DNA)
+  - Uracile U (nell'RNA)
+- *purine*
+  - Adenina A
+  - Guarina G
+
+Nello scheletro del polinucleotide ci accorgiamo che solo gli zuccheri e i gruppi fosfati fanno parte della catena, le basi azotate *sporgono*, come per le proteine i gruppi *variabili*.
+
+L'informazione contenuta in ogni gene è determinato dalle sequenze delle quattro basi azotate.
+La sequenza di basi azotate determina la sequenza degli amminoacidi (struttura primaria) e quindi la funzione delle proteine.
+
+Nel caso dell'*anemia falciforme* vuol dire che è presente una base azotata che codifica una valina al posto del glutammato.
+
+Per proteggere  l'informazione del DNA si viene a formare una doppia elica, con scheletro *zucchero-fosfato* all'esterno e basi azotate all'interno, vengono così a formarsi legami idrogeno.
+
+<img src="https://fisiologicamente.altervista.org/wp-content/uploads/2016/10/dna-rna.jpg" alt="Biologia | Gli acidi nucleici: DNA e RNA | Fisiologicamente" style="zoom:50%;" />
+
+Gli accoppiamenti seguono delle *regole* precise: GC, AT/AU.
+Quando una cellula si prepara per dividersi i due filamenti della doppia elica si separano, ed ognuno di essi serve da stampo per il nuovo filamento.
+
+
+
+### Riassunto concetti
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210223114606524.png" alt="image-20210223114606524" style="zoom: 50%;" />
+
+Molecole vincenti:
+*carboidrati* C H O
+*lipidi* C H
+*proteine* C H O N (anche azoto, permette lo scheletro CCN)
+*acidi nucleici* C H O N P (anche fosforo)
+
+Catene molecolari con trucco dei gruppi laterali
+Ciò è una *logica a posteriori*
+
+Trucchi vincenti:
+molecole stabili -> polimeri
+gruppi laterali
+legami deboli per consolidare
 
  ## La cellula e la sua struttura
 
-La cellula è la più piccola unità in grado di vivere.
-Definizione di vita:
+La cellula è la più piccola unità in grado di vivere. Per poter fare questa affermazione abbiamo prima bisogno di definire cosa intendiamo per vita.
+Diciamo che un essere è vivente quando presenta:
 
-- organizzazione, complessità
-- metabolismo, saper scomporre sostanze e ricostruirne
-- omeostasi, rimanere uguali a sè stessi nel tempo
-- interazione con l'ambiente esterno
-- adatammento
-- crescita
-- riproduzione
+- *organizzazione, complessità*
+- *metabolismo*, saper scomporre sostanze e ricostruirne
+- *omeostasi*, rimanere uguali a sè stessi nel tempo
+- *interazione* con l'ambiente esterno
+- *adatammento*
+- *crescita*
+- *riproduzione*
 
 Senza queste proprietà è difficile parlare di vita.
-Organsimi unicellulari e pluricellulari. Un problema che nasce è la *coordinazione*.
 
-Cellule *procariotiche* (batteri, più semplici) ed eucariotiche (protisti, piante, funghi, animali)
-Si somigliano per molte cose ma si differenziano per dimensioni (1-10 micron procariotiche, mentre 10-100 micron) Una cellula di 50 micron devo metterne 20 in fila per fare 1 millimetro.
+Le cellule sono autosufficienti e possiamo associare loro la metfaore della *casa*.
+Ci sono organsimi *unicellulari* e *pluricellulari*. Un problema che nasce da questi ultimi è la *coordinazione* dell'insieme di cellule.
 
-Un'altra differenza sono gli scompartimenti divisi da membrane.
+Gli esseri viventi si classificano tassonomicamente in due domini: *eucarioti* e *procarioti*. 
+Gli eucarioti (*dal greco eu «buono» e káryon «nucleo»*) costituiscono il dominio più complesso e includono cinque regni: piante, funghi, animali, protisti e cromisti. 
+I procarioti (*dal greco pro «prima» e karyon «nucleo»*) includono due regni, Archaea e Bacteria, e sono caratterizzati dall'essere privi di un sistema endomembranoso; in particolare mancano di un nucleo strutturato, al contrario degli eucarioti.
 
-Le cellule nervose hanno dei prolungamenti, fino ad 1 metro (filamenti dal midollo spinale al piede).
-Esiste un limite inferiore alle dimensioni di una cellula, il volume occupato dalla complessità necessaria per la vita della cellula occupa una minima quantità di DNA e altre sostanze.
-Esiste anche un limite superiore.
+Le cellule procariotiche ed eucariotiche si somigliano per molti aspetti:
+
+- membrana plasmatica, organuli, cromosomi, geni, DNA, ribosomi
+
+Ma si differenziano per: 
+
+- *dimensioni*, 1-10 micron procariotiche, mentre 10-100 micron per le eucariotiche 
+- scomparti delimitati da membrane (assenti nelle procariotiche)
+
+Per fare 1 millimetro, acendo cellule di 50 micron, devo metterne 20 in fila.
+
+Le cellule nervose hanno dei prolungamenti, fino ad 1 metro (filamenti dal midollo spinale al piede), e anche le cellule muscolari possono essere molto più lunghe di 100 micron.
+
+Esiste un *limite inferiore* alle dimensioni di una cellula ovvero il volume occupato dalla complessità necessaria per la vita della cellula occupa dalla minima quantità di DNA e altre sostanze tali da assicurare sopravvivenza e riproduzione.
+Esiste anche un limite superiore, un rapporto volume/siperificie. troppo grande non consente scambi sufficienti con l'esterno.
+
+Organismi più grandi => maggior numero di cellule (non cellule più grandi).
 
 ### Cellula animale
 
+<img src="https://www.chimica-online.it/biologia/immagini/cellula-eucariota.jpg" alt="Protisti" style="zoom:67%;" />
+
 **Membrana plasmatica**
-Useremo un doppio strato delle macro-molecole fosfolipidiche. La membrana plasmatica è l'impermeabile delle cellule
+Useremo un doppio strato delle macro-molecole fosfolipidiche. 
+La membrana plasmatica è l'*impermeabile* delle cellule.
 
 **Nucleo**
-
-Involucro nucleale, cromatina e nucleolo
+É composto dall'involucro nucleale, cromatina e nucleolo.
 Il DNA è contenuto principalmente qui dentro, ed una piccola parte nei mitocondri.
-Ci sono dei pori, permettono un passaggio di  qualcosa
+
+<img src="https://tse4.mm.bing.net/th?id=OIP.-PkPayAuNJAUonhPVP6R6gHaEY&pid=Api" alt="La cellula eucariote vegetale – Esposizione Scienze 2017 ..."  />
+
+L'involucro nucleare è formato da una doppia membrana (ognuna formata da un doppio strato lipidico con proteine) ed è perforato da *pori*. Attraverso questi possono transitare alcune proteine.
 Il DNA è associato a delle proteine. La cromatina ha un aspetto a filamento, perchè è così filamentoso? É un ricettario, chiuso non si riesce a leggerlo. Il DNA è tutto sfilacciato perchè deve poter essere letto. In un momento in cui la lettura non si può fare il ricettario verrà compattato -> cromosomi.
 Cromosomi (compatti) e cromatina (sfilacciato)
 
@@ -701,6 +774,8 @@ L'ossigeno arriva nei mitocondri. Il vero utilizzo dell'ossigeno avviene nei mit
 Autofagia e longevità, dipende dai mitocondri, si influenzano e in qualche modo si ha un ottimo.
 I mitocondri sono i radiatori/ la caldaia delle cellule.
 Sono i mitocondri a bruciare l'ossigeno e lo varie sostanze.
+
+L'avvenelamento da cianuro avviene proprio nei mitocondri.
 
 **Citoscheletro**
 La membrana non è rigida. Fornisce un supporto meccanico alla cellula. Manca la parete delle cellule vegetali.
@@ -787,9 +862,191 @@ Una singola quantità di ATP non aumenta l'energia. Servono tante molecole di AT
 
 *Partiremo dalla singola cellula per  arrivare fino all'organismo completo. Parleremo perciò di DNA, di  embrione, di cellule staminali.*
 
- ## Divisione cellulare: mitosi e meiosi
+É ipotizzato su come può essera avvenuto.
+Dobbiamo poter moltiplicare le cellule, divisione cellulare -> mitosi
+cellule figlio devono rimanere connesse e cooperare, altirmenti non formeremmo un organismo
+l'organismo deve essere capac edi riprodursi e poter trasmettere alle prossime generazioni. 
+Inventare nuovi oggetti, qalcuno sarà vincente e si conseerverà
 
-## DNA, RNA, proteine
+C'è una predisposizione della natura a creare macro-strutture più complesse
+
+Incontri fortuiti?
+Vari tentativi per costruire organismi pluricellulari
+
+Volvox, alghe unicellulari, quelle che sporcano di verde le pareti degli acquari. Hanno le capacità dia ggregarsi per formare colonie, non è permanente come invece l'unione degli organismi pluricellulari
+
+> Mitosi deriva dal greco mìtos, "filo": nome dovuto all'aspetto filiforme dei cromosomi durante la profase. 
+>
+> Meiosi: dal greco *méiōsis*, diminuzione
+
+ ## Mitosi, divisione cellulare
+
+**Ciclo cellulare**
+Il perpetuarssi della vita si basa sulla riproduzione delle cellule, o divsione. 
+Il corso inizia con la divisione di una cellula genitrice e termina con la divisione in due cellule figlie
+
+La divisione cellulare partecipa a 
+
+- riproduzione
+- crescita/sviluppo, al rinnovamento/riparazione.
+
+I gemelli omozigoti, uno si può chiedere dove la coscienza nasce.
+
+Le cellule hanno coscienza?
+
+Neuroni e cellule muscolari dell'adulto non si dividono, sarebbe stato vantaggioso.
+I neuroni usano il glucosio come combustibile, usano sempre ossigeno. Un danno cerebrale non può essere riparato come invece una ferita. 
+
+Leibniz, è il migliore dei mondi possibili, forse si poteva fare meglio il cervello? blasfemia
+
+Ciclo cellulare, 4 fasi
+
+- G1, growth 1, la cellula cresce
+- S, sintesi del DNA, ogni cellula dovrà avere una copia completa del DNA della cellula genitrice, non può essere diviso a metà fra le 2 cellule figlie
+- G2, crescita completa
+- M, la cellula si divide 
+
+***genoma***: indica patrimonio complessivo del DNA di una cellula
+I genomi di cellule procariotiche (no compartimenti) in genere hanno una sola molecola di DNA.
+I genomi di cellulle eucariotiche, in genere più molecole di DNA
+
+1,1 metri di DNA, 23 cromosomi, corredo aploide
+2,2 metri di DNA, 46 cromosomi, corredo diploide
+
+La cromatina, DNA+proteine si è duplicata nell'interfase G2, il centrosoma si è duplicato
+Profase, il DNA si 
+
+Prometafase, alcuni microtubuli si 
+L'involucro nucleare si frammenta. Il grado di compattamento
+
+Cromatidi
+
+Metafase, piastra metafasica, disposizione a una apsecie di equatore, il fuso mitotico è formato dai microtubuli
+
+*? perchè fuso?*
+Un attrezzo che veniva usato per filare la lana, molti anni fa. Fuso orario perchè hanno forma a fuso. Sono meridiani.
+
+Anafase, i cromosomi migrano verso i 2 poli. I cromatidi che prima erano uniti si separano. Mano a mano che il cromosoma si sposta sul binario
+
+La cellula ricicla sempre. 
+
+Telofase e Citocinesi alla fine si riforma, i cromosomi perdono la loro compattezza tornando pian piano alla cromatina.
+
+*William Paley*, per dimostrare l'esistenza di Dio. 
+Negli US, da qualche anno, ci sono vari movimenti creazionisti, contrari all'evoluzione.
+DNA, RNA, proteine
+
+Ci sono cellule che non obbediscono a questi meccanismi di regolazione?
+neuroni e cellulari muscolari non si dividono.
+
+Le cellule tumorali ignorano i normali segnali che regolano il ciclo cellulare.
+
+Quanto a lungo vivono le cellule? Gli organismi cellulari, spore anche decenni
+
+Negli organismi pluricellulari, le singole cellule muoiono , l'organismo sopravvive. 
+Globuli bianchi ogni 2 giorni, dell'intestino ogni 7 giorni, ogni 20 giorni la pelle. La maggior quantità di polvere la creiamo noi stessi.
+le cellule cerebrali non le cambiamo, si modificano, la neurogenesi è molto scarsa. Noi perdiamo una cellula al secondo (misurazioni indirette, circa, misurando densità)
+
+## Meiosi, riproduzione del DNA
+
+La trasmissione dei caratteri ereditari dai genitori ai figli si basa sulla trasmissione dei geni.
+i geni sono le unità ereditarie. 
+L'uomo ha 46 cromosomi, ogni cromosoma è una singola molecola di DNA compressissima. 
+Un gene è un segmento del DNA, una ricetta del ricettario.
+
+**Riproduzione asessuata**
+Un solo genitore, eucariote unicellulare che si riproduce per mitosi
+Si dà origine a un clone, individui geneticamente identici.
+
+**Riproduzione sessuata**
+I figli differiscono sia tra loro che rispetto ai genitori
+Il vantaggio è che eventuali errori non si perpetuino. Si spera che non tutte e due le copie delle ricette siano sbagliate.
+
+Cellule riprodutive/gameti: spermatozooi, ovuli
+Cellule somatiche: tutte le altre
+Tutte le cellule sono diploidi ad eccezione di quelle somatiche.
+
+Per guardari i cromosmi, il momento migliore è nelle metafase, con il massim compattamento disposta all'equatore. Cerco di bloccare questo processo, bloccando la mitosi in questa fase.
+Usando la colchicina che danneggia i microtubuli (non hanno più i binari così i cromosomi si bloccano). Si osservano le coppie dei cromosomi, 23 coppie, 
+
+La 23° coppia sono i romosomi X,Y
+Il numero di basi è il più lungo, ha 245 mln di basi di nucleotidi.
+I cromosomi non hanno tutti la stessa forma
+
+Vantaggio: danneggiamento di uno dei cromosomi 
+cromosomi sessuali femmina 2X, nell'uomo XY, le altre 22 coppie sono *autosomi*
+
+centrometri, diploide (formati da coppie)
+
+cellula aploide, gamete, con un solo corredo cromosomico. Tutte le cellule somatiche ne hanno 46.
+
+## Ciclo biologico dell'uomo
+
+Mitosi per sviluppo, meiosi per riproduzione.
+
+gameti aploidi, spermatozoo e ovulo. Persone contaminate da molti pesticidi hanno pochi spermatozoi e si muovono poco
+
+***zigote***: cellula uovo fecondata
+
+Lo zigote avrà 46 cromosomi. Poi che succede? sviluppo embrionale => mitosi e sviluppo
+Un individuo produce gameti ma questi conterranno solo 23 cromosomi, il corredo diploide deve spezzarsi in un corredo aploide.
+Dimezzamento intelligente, meiosi. 
+
+*?Qual è il momento in cui nasce la coscienza?* Non lo sa nessuno.
+
+Mitosi per sviluppo, meiosi per riproduzione.
+Gli altri organismi si riproducono come l'uomo?
+
+Muschio, organismo pluricellulare diploide e aploide. Siamo fortunati come umani poichè se esistessero organismi aploidi dotati di coscienza sarebbe u problema.
+
+La capacità di memorizzare è presente anche nelle piante, il compito che deve fare.
+
+**Meiosi**
+É preceduta
+
+Ogni cromosoma è formato da 2 cromatidi, separando i cromatidi fratelli.
+Si fanno 2 divisioni: separo prima gli omologhi, poi i fratelli. Perchè 2? 
+La cellula fa sempre una duplicazione del DNA, sia che faccia mitosi che meiosi.
+Non si poteva fare una meiosi con 1 sola divisione? per la cellula sarebbe un grosso compito. La cellula ha già scritto come compito di duplicare il DNA per riprodursi
+perchè non ha inventato un nuovo modo? magari la avrebbe complicata molto
+
+Appaiamento degli omologhi
+Come si riconoscono i cromosomi? è stupefacente, lo fanno
+
+Meiosi I e Meiosi II, la seconda è molto simile alla mitosi.
+
+**Mitosi e meiosi a confronti**
+Con la meiosi si dimezzano i cromosomi, ottengo 4 cellule figlie, che <u>non sono</u> il clone della cellula madre. Si ha un mescolamento dei cromosomi materni e paterni.
+La cellula duplica sempre i cromosomi. 
+
+Il cariotipo viene effettuato tramite un accoppiamento manuale, mentre in natura nella piastra metafasica cioò avviene naturalmente.
+
+Mitosi -> 2 celluli diploidi identiche
+Meiosi -> 4 cellule aploidi identiche
+
+### Origini della variabilità genetica
+
+I 3 meccanismi con cui c'è variabilità genetica sono questi:
+
+**Assortimento indipentende dei cromosomi omologhi**
+Il fatto che nella piastra metafasica si dispongano.. Con 2 cromosomi ho 4 possibili combinazioni:
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210223153042547.png" alt="image-20210223153042547" style="zoom:50%;" />
+
+Con 23 cromosomi si hanno più di 8 mln di possibili gameti per la madre e per il padre.
+
+**Crossing over**
+molto poetico. I cromosomi omologhi formano una tetrade (4 cromatidi) nelle parti blu-rosse si scambiano, un taglia-e-cuci del DNA. Si ottengono cromosomi che hanno un po' di DNA materno e un po' materno.
+
+nella nostra specie si verificano 2 o 3 scambi per ogni
+
+I cromosomi si sono uniti
+Stanno all'interno della stessa cellula
+Il vero matrimonio dei geni comincia quando i cromosomi di madre e padre si rimescolano
+
+**Fecondazione causale**
+
+**Mutazione**
 
 ## Batteri e virus
 

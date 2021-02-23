@@ -55,6 +55,12 @@ prendiamo per buona la definizione di kurzweil, 1990:
 *arte di creare macchine che svolgono funzioni che richiedono intelligenza quando svolte da esseri umani*
 
 ?*cosa vuol dire intelligente?*
+Definizione di intelligenza, che piace a me:
+
+> The role of intelligence is to determine the positive and negative potential of an event or factor which could have both positive and negative results. It is the role of intelligence, with the full awareness that is provided by education, to judge accordingly utilize the potential for one's own benefit or well-being.
+>
+> -Dalai Lama (*The heart of the Buddha's path*)
+
 è una qualità intrinseca o un comportamento?
 
 che tipi di capacità?
@@ -339,6 +345,189 @@ Si tengono
 Un nodo rimane foglia (rimane nella *frontiera*) fintanto che non si decide di espanderlo. 
 
 # Risoluzione dei problemi come ricerca
+
+**Problem solving agent, search, **
+In questo capitolo si considera un particolare tipo di agente *con obiettivo*, l'agente *problem-solving*. Essi pianificano in anticipo una sequenza di azioni che portano ad uno stato obiettivo. Il processo computazionale sottostante è chiamato *ricerca*.
+Usa rappresentazioni **atomiche**, stati del mondo considerati come un'unità.
+
+**Informed algorithms, uninformed algorithms**
+Distinguiamo fra gli algoritmi con informazioni, dove l'agente può stimare la distanza dell'obiettivo, da quelli senza informazioni, dove questa stima non è disponibile.
+
+**Goal formulation, Problem formulation**
+
+**Search, solution, execution**
+
+**Open loop, closed loop**
+
+Uno nodo n è una struttura dati:
+
+```pseudocode
+struct node {
+	padre
+}
+frontiera = coda %lista dei nodi in attesa di essere espansi
+```
+
+Diversi tipi di strategie di ricerca: 
+
+- FIFO -> BF (Breadth First)
+- LIFO -> DF (Depth First)
+- Coda con priorità -> UC e altri successivi, dopo l'inserimento c'è un riordinamento
+
+## Strategie non informate
+
+Per valutarle terremo conto di:
+
+- completezza: se esiste una soluzione, trova sempre la soluzione
+- ottimalità: trova la soluzione migliore, con consto minore
+- complessità in tempo
+- complessità in spazio
+
+### Ricerca in ampiezza (BF)
+
+Esplora il grafo dello spazio degli stati a livelli progressivi di stessa profondità.
+
+```python
+def breadth_first_search(problem): """Ricerca-grafo in ampiezza"""
+	explored = [] # insieme degli stati gia' visitati (implementato come una lista)
+    node = Node(problem.initial_state) 
+    
+    	# il costo del cammino e' inizializzato nel costruttore del nodo
+    if problem.goal_test(node.state):
+    	return node.solution(explored_set = explored)
+    
+    frontier = FIFOQueue() # la frontiera e' una coda FIFO
+    frontier.insert(node)
+    
+    while not frontier.isempty(): # seleziona il nodo per l'espansione
+        node = frontier.pop()
+        explored.append(node.state) # inserisce il nodo nell'insieme dei nodi esplorati
+        
+        for action in problem.actions(node.state):
+        	child_node = node.child_node(problem,action)
+        if (child_node.state not in explored) 
+        	and (not frontier.contains_state(child_node.state)):
+                if problem.goal_test(child_node.state):
+                	return child_node.solution(explored_set = explored)
+       	 	# se lo stato non e' uno stato obiettivo allora inserisci il nodo nella frontiera
+       		frontier.insert(child_node)
+    return None # in questo caso ritorna con fallimento
+
+```
+
+Una volta generati i nodi sono *goal-tested*.
+Non partiamo conoscendo gli stati, quindi non ci segniamo lo stato *esplorato* nelle informazioni dei nodi.
+
+**Analisi di complessità**
+**b** = fattore di ramificazione, *branching* (numero max di successori)
+**d** = profondità del nodo obiettivo più superficiale (la prima che troviamo va bene)
+**m** = lunghezza massima dei cammini nello spazio degli stati (nel caso dovessimo andare lunghi)
+
+| completezza | tempo    | spazio   | ottimalità                                          |
+| ----------- | -------- | -------- | --------------------------------------------------- |
+| completa    | $O(b^d)$ | $O(b^d)$ | ottima se gli operatori hanno tutti lo stesso costo |
+
+Complessita nel tempo: nodi generati, ogni livello 
+Il numero dei nodi cresce esponenzialmente.
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210223163857970.png" alt="image-20210223163857970" style="zoom: 25%;" />
+
+La memoria è il fatto più incisivo, ingestibile.
+
+### Ricerca in profondità (DF)
+
+LIFO, mette i successori in testa alla lista.
+Esplora il grafo dello spazio degli stati scavando in profondità. Quando sto ad un certo nodo, so che ho scoperto
+Notare che possiamo dimenticare rami completamente esplorati. 
+
+**versione su albero, Analisi complessità**
+
+| completo                                       | ottimo | tempo                                  | spazio   |
+| ---------------------------------------------- | ------ | -------------------------------------- | -------- |
+| no, ci si può infilare <br />in possibili loop |        | $O(b^m)$ che può essre<br />> $O(b^d)$ | $O(b*m)$ |
+
+**visita a grafo**
+Si perdono i vantaggi della memoria, si torna da b*m a tutti i possibili stati, DF diventa così completa (se lo spazio degli stato è finito). Resta *non completa* in spazi infiniti.
+
+**versione ricorsiva**
+Realizzato da un algortimo ricorsivo con backtracking. É ancora più efficiente in occupazione di memoria, mantiente solo il cammino corrente.
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210223165319883.png" alt="image-20210223165319883" style="zoom:33%;" />
+
+``` python
+def recursive _depth_first_search(problem, node):
+"""Ricerca in profondita' ricorsiva """
+# controlla se lo stato del nodo e' uno stato obiettivo
+if problem.goal_test(node.state):
+return node.solution()
+# in caso contrario continua
+for action in problem.actions(node.state):
+child_node = node.child_node(problem, action)
+result = recursive_depth_first_search(problem, child_node)
+if result is not None:
+return result
+return None #con fallimento
+
+```
+
+### Ricerca in profondità limitata (DL)
+
+Si va in profondità fino ad un certo livello predefinito *l*. É una ricerca *completa* per problemi in cui si conosce un limite superiore per la profondità della soluzione, completo se d<l. Non ottimale ma completo. 
+
+**analisi**
+
+|                 |            |          | spazio         |
+| --------------- | ---------- | -------- | -------------- |
+| completo se d<l | non ottimo | $O(b^l)$ | $O(b \cdot l)$ |
+
+É il miglior compromesso fra BF e DF.
+mi sono perso ID!
+
+
+Finora abbiamo assunto una ricerca in avanti, si può provare all'indietro. Si preferisce qunado l'obiettivo è chiaramente definito (theorem proving) o si possono formulare una serie limitata di ipotesi. 
+Si parte dal goal perchè lo si conosce, non si conosce il cammino.
+
+### Ricerca bidirezionale
+
+Si procede nelle due direzione fino ad incontrarsi.
+**analisi**
+
+|      |      |                    |                    |
+| ---- | ---- | ------------------ | ------------------ |
+|      |      | $O(b^\frac{d}{2})$ | $O(b^\frac{d}{2})$ |
+
+
+
+### Cammini ciclici
+
+I cammini ciclici rendono gli alberi di ricerca infiniti.
+**Ridondanze**
+Il problema si presenta anche in assenza di cicli. Su spazi di stati a grafo si generano più volte gli stessi nodi nella ricerca.
+*Visitare stati già visitati fa sprecare tempo o occupa spazio*. Ricordare gli stati già visitati occupa spazio ma ci consente di evitare di visitarli di nuovo.
+*Gli algoritmi che dimenticano la loro storia sono destinati a ripeterla*.
+
+In ordine crescente di costo e di efficacia:
+
+- *Non tornare nello stato da cui si proviene*: si elimina il genitore
+- *Non creare cammini con cicli*: si controlla che i successori non siano antenati del nodo corrente
+- Non *generare nodi con stati già visitati/esplorati*: O(s) dove s è il numero degli stati possibili
+
+Ricerca su grafo: mantiene una lista dei nodi (stati) visitati/esplorati (*lista chiusa*)
+Vorremmo un algoritmo che fa una ricerca smart, un *pruning*, non generare neanche i nodi che non portano alla soluzione. Ottimale solo se abbiamo la garanzia che il costo del nuovo cammino sia maggiore o uguale.
+
+La *frontiera* separa i nodi *esplorati* da quelli *non esplorati*.
+
+### Ricerca di costo uniforme (UC)
+
+Generalizzazione della ricerca in ampiezza (costi diversi tra passi): si sceglie il nodo di costo minore sulla frontiera
+Abbiamo 2 ingredienti principali: coda con priorita (in cima i nodi di costo minore), goal-test posticipato (tipico per coda con priorità), costa di più ma serve per l'algoritmo con priorità i nmodo da trovare ottimalità.
+
+Se incontro un nodo il cui stato è gia in frontierà con costo più alto allora il nuovo figlio è migliore.
+**Analisi costo uniforme**
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210223174327737.png" alt="image-20210223174327737" style="zoom:33%;" />
+
+
 
 ## Formulazione di problemi come ricerca in uno spazio di stati 
 
