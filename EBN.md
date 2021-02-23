@@ -54,7 +54,7 @@ Su queste osservazioni poggia le basi la teoria dell'**Emergentismo**, secondo l
 
 *? Si deve privilegiare l'analisi o la sintesi ?*
 La biologia cerca di bilanciare per tentare di comprendere come i singoli componenti siano integrati funzionalmente, integrando riduzionismo e comprensione delle proprietà emergenti.
-Senza ridurre, a causa della complessità dei componenti, non potrei comprenderli. Applicando solo la riduzione distruggerei il loro funzionamento.
+Senza ridurre, a causa della complessità dei componenti, non potrei comprenderli. Applicando solo la riduzione ignorerei il loro funzionamento emergente.
 
 Un singolo neurone non sa parlare italiano. *Le capacità di un essere umano vanno oltre le singole capacità dei pezzi di cui è composto*.
 
@@ -77,7 +77,7 @@ mitocondri senza striature.
 
 - **Diversità e unità: le 2 facce della vita sulla Terra**
 
-La biodiversità ci destabilizza, da 5 a 30 milioni di specie. In passato si parlava di *somiglianze morfologiche* per distinguere le specie, oggi la **tassonomia** (*la disciplina che si occupa della classificazione di esseri che siano viventi o anche inanimati*)  si fa tramite somiglianza di **DNA**, che ha portato a una revisione dei vecchi sistemi di classificazione.
+La biodiversità ci destabilizza, da 5 a 30 milioni di specie. In passato si parlava di *somiglianze morfologiche* per distinguere le specie, oggi la **tassonomia** (*la disciplina che si occupa della classificazione di esseri che siano viventi o anche inanimati*)  si occupa della somiglianza di **DNA**, che ha portato a una revisione dei vecchi sistemi di classificazione.
 
 Se scendiamo ai livelli bassi siamo più simili di quanto pensiamo agli altri esseri viventi, così come si somigliano tutti gli organismi.
 
@@ -143,192 +143,409 @@ Vengono prima inseriti elettroni negli orbitali a più bassa energia (quelli pi�
 
 **Elettroni di valenza**: elettroni più esterni. Determinano il comportamento chimico di un atomo. Si parla di *valence shell*.
 
-Quando un guscio di valenza con 4 orbitali contiene 8 elettroni non ve ne sono di elettroni liberi => l'atomo è **stabile**, ovvero è meno probabile che reagisca con altri atomi (es: elio, neon, argon).
+Quando un guscio di valenza con 4 orbitali contiene 8 elettroni non vi sono elettroni liberi => l'atomo è **stabile**, ovvero è meno probabile che reagisca con altri atomi (es: elio, neon, argon).
 Mentre quando un atomo ha elettroni liberi nel guscio più esterno può reagire (ovvero si può legare) con altri atomi.
 
 <img src="/home/ludo/.config/Typora/typora-user-images/image-20210216121655580.png" alt="image-20210216121655580" style="zoom: 50%;" />
-Atomi *inerti* e *reattivi*, metafora di coppie e single in cerca di comapgno.
+Atomi *inerti* e *reattivi*, metafora di coppie e single in cerca di comapgno. Gli atomi inerti sono quelli che hanno il guscio più esterno (strato di valenza) completo (*elio, neon, argon*)
 **Regola dell'ottetto**: tendenza degli atomi a formare molecole stabili così da avere 8 elettroni nel guscio più esterno.
-La stabilità può essere ottenuta sia condividendo elettroni con altri atomi sia guadagnando o perdendo uno o più elettroni.
+La stabilità può essere ottenuta sia condividendo elettroni con altri atomi sia guadagnando o perdendo uno o più elettroni. Si formano così dei legami chimici che mantengono gli atomi vicini.
 
-## Legami fra atomi 
+## Legami fra atomi
 
-legami chimici che tengono legati atomi
+I legami chimici sono (in ordine di forza): il *legame covalente*, il *legame ionico* e il legame *idrogeno*.
 
-legame *covalente*: 2 elett. di valenza fra più atomi, è il + forte
+### Legame covalente
 
-2 o più atomi tenuti insieme da legami covalenti formano una molecola. Idrogeno può unirsi solo con idrogeno.
+Un legame *covalente* prevede la compartecipazione di 2 elettroni di valenza fra più atomi ed è il tipo di legame più forte. La notazione col trattino indica una coppia di elettroni in compartecipazione. (es: H-H)
 
-H - H
+*Due o più atomi tenuti insieme da legami covalenti formano una molecola*. 
 
-compartecipazione di elettroni. Vanno a soddisfare entrambi i nuclei.
+- **Idrogeno**: quando si incontrano, due atomi di idrogeno liberi formano un singolo legame covalente
+- **Ossigeno**: due atomi di ossigeno formano una molecola mettendo ognuno in compartecipazione una coppia di elettroni di valenza: si forma così un legamo covalente doppio
+- **Acqua**: due atomi di idrogeno possono legarsi con legami covalenti a un atomo di ossigeno per produrre una molecola d'acqua
 
-ossigeno: ha 6 elettroni ne condivide 2 con un altro atomo di ossigeno.
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210218153641958.png" alt="image-20210218153641958" style="zoom:33%;" />
 
-la molecola dell'acqua è *polare*. H2O è sbilanciata verso l'ossigeno. $\delta-$ indica un accumulo di negatività in percentuale
+- **Metano**: quattro atomi di idrogeno possono soddisfare la valenza di un atomo di carobonio formando una molecola di metano
+  ![image-20210218154105239](/home/ludo/.config/Typora/typora-user-images/image-20210218154105239.png)
 
-il protone resta nell'atomo di idrogeno ma l'elettrone si sposta verso l'atomo di ossigeno
+**Elettronegatività**
 
-il metano è una molecola *non polare*. 
+La molecola dell'acqua è *polare*. Ciò vuol dire che l'atomo di ossigeno attrae molto verso di sé le due coppie di elettroni dei legami covalenti con l'idrogeno, pertanto si trovano più vicino al nucleo dell'ossigeno che a quello dell'idrogeno. 
+Di conseguenza l'atomo di ossigeno si trova ad essere un po' più carico *negativamente* e i 2 atomi di idrogeni sono un po' carichi *positivamente*.
 
-Legame *ionico*: 
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210218154548701.png" alt="image-20210218154548701" style="zoom: 67%;" />
+Nella figura si può notare come $\delta-$ indichi un accumulo di negatività in percentuale. Le 2 frecce indicano che l'ossigeno attira verso di sè le 2 coppie di elettroni. Non attrae per intero la carica dell'elettrone dell'idrogeno, solo *parzialmente*. 
+Il protone resta nell'atomo di idrogeno ma l'elettrone si sposta verso l'atomo di ossigeno.
 
-l'atomo più elettronegativo strappa completamente un elettrone al suo compagno
+Il metano è invece una molecola *apolare*. Il carbonio è un atomo più *democratico*, le coppie di elettroni sono distribuite più equamente con gli atomi di idrogeno.
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210218155312020.png" alt="image-20210218155312020" style="zoom:50%;" />
 
-squilibrio che crea il legame. catione e anione
+### Legame ionico
 
-il sodio e il cloro sono abbondanti al di fuori dei neuroni. 
+*L'atomo più elettronegativo strappa completamente un elettrone al suo compagno.*
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210218155829619.png" alt="image-20210218155829619" style="zoom:67%;" />
+Prendiamo il cloruro di sodio: l'atomo di sodio ha 1 elettrone nel suo strato di valenza mente l'atomo di cloro ne ha 7. Per *completarsi* a vicenda l'atomo di cloro strappa l'elettrone all'atomo di sodio e si trovano così bilanciati (nello sbilanciamento individuale). L'atomo di sodio assume così una carica prevalentemente positiva (*catione*) mentre quello di cloro negativa (*anione*).
 
-legame *idrogeno*: quando un atomo di idrogeno si trova fra due atomi elettronegativi vicini
+*Per la presenza delle cariche di segno opposto anioni e cationi si attraggono con una forza detta **legame ionico.***
 
-interazioni di van der Waals: formazione di regioni momentaneamente polari 
+É importante notare che il sodio e il cloro sono abbondanti al di fuori dei neuroni, sono alla base del funzionamento di essi.
 
+<u>?? Composti ionici o sali, forza dei legami ionici in aria e in acqua ??</u> 
 
+### Legame idrogeno
 
-per la vita i legami importanti sono tutti, abbiamo bisogno sia di cose rigide che trasformabili
+Un legame *idrogeno* si verifica quando un atomo di idrogeno si trova fra due atomi elettronegativi vicini.
 
+Nell'acqua gli atomi di idrogeno si trovano fra due atomi di ossigeno, che sono elettronegativamente negativi, pertanto l'idrogeno si *stabilizza* fra i 2 atomi di ossigeno.
 
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210218164804114.png" alt="image-20210218164804114" style="zoom:50%;" />
 
-funzione e forma delle molecole
+L'allineamento delle molecole d'acqua non è casuale quindi, i legami a idrogeno tendono a dare una struttura. 
 
-reazioni chimiche: continuamente, formazione e rottura dei legami chimici. C'è solo ridistribuzione di materia, nè creazione nè distruzione.
+### Interazioni di van der Waals
 
-Demiurgo (in Platone, Timeo). Demiurgo trasformatore che trasforma continuamente la materia. 
+Nelle molecole d'acqua lo sbilanciamento dovuto alla polarità è sempre presente, dato che sono molecole *polari*.
+Nelle molecole *apolari* (es. metano) si possono accumulare casualmente in modo asimmetrico gli elettroni, *formando regioni momentaneamente polari*, in particolare fra molecole (o gruppi di atomi di una stessa molecola) che si trovano a breve distanza.
+Queste regioni polari possono far sì che le molecole si stabilizzino temporaneamente, come accade per le molecole d'acqua.
 
-spore: forme di resistenza nei confronti delle situazioni sfavorevoli.
+### Conclusioni sui legami
+
+Per la vita i legami importanti sono tutti, abbiamo bisogno sia di legami rigidi e forti che di quelli più deboli.
+Abbiamo bisogno di legami covalenti per strutture rigide (ossa, capelli) con legami robusti. Molti neurotrasmettitori invece formano legami ionici e sono la base del funzionamento dei neuroni.
+
+**Funzione e forma delle molecole**
+La funzione chimica di una molecola è in relazione con la sua forma. Molecole biologiche si riconoscono l'una con l'altra se una complementarietà di forma che permetto loro la formazione di legami (ormoni, neurotrasmettitori, ...).
+
+**Reazioni chimiche**
+La formazione e la rottura dei legami chimici (che portano a modifiche della composizione della materia) vengono chiamate *reazioni chimiche*.
+La materia in una reazione chimica non viene né creata né distrutta, ma ridistribuita.
+
+Possiamo immaginare un *Demiurgo* trasformatore che trasforma continuamente la materia, piuttosto che un Demiurgo creatore. 
+
+> Il demiurgo, figura filosofica e al tempo stesso mitologica, è un essere divino, dotato di capacità creatrice e generatrice, descritto la prima volta da Platone nel Timeo.
+>
+> La figura del Demiurgo, senza il quale «è impossibile che ogni cosa abbia nascimento», non è propriamente un dio generatore come quello cristiano, ma piuttosto ordinatore: egli dà il soffio vitale a una materia informe e ingenerata che preesiste a lui.
+>
+> Fu descritto all'inizio da Platone soltanto come ipotesi cosmologica che ha carattere verosimile, cioè in forma di mito, di cui egli si serviva come in altri casi per descrivere in modo intuitivo e narrativo, anziché con una rigorosa argomentazione dimostrativa, un aspetto del suo pensiero particolarmente difficile da illustrare e comprendere.
+>
+> «Artefice e padre dell'universo», il Demiurgo è nel mito platonico una forza ordinatrice, imitatrice, plasmatrice, che vivifica la materia, dandole una forma, un ordine, e soprattutto un'Anima Mundi. 
+
+*A stati macroscopicamente diversi* come il passaggio dalla vita alla morte, dal sonno alla veglia, *si accompagna una situazione microscopica diversa.*
+
+In situazioni svantaggiose l'uomo non può resistere, ma vi sono batteri, ad esempio le *spore* che anche in situazioni sfavorevoli sono in grado di sopravvivere trasformando la materia, sono forme di resistenza nei confronti delle situazioni sfavorevoli.
 
 ---
 
 ## Acqua
 
-70-95 % di acqua formano le cellule
-Qual é la caratteristica chimica che l'ha resa così importante? *il legame idrogeno*. 
+L'acqua è per ovvie ragioni fondamentale per la vita, si sa che sulla Terra la vita ha avuto origine proprio nell'acqua per spostarsi successivamente sulla terraferma.
+Sappiamo anche che le cellule sono formate per il 70-95 % di acqua.
 
-Senza bollirebbe a -120C. l'idrogeno è allineato fra 2 rossi. 
+*?Qual é la caratteristica chimica che l'ha resa così importante?* 
+Il fatto di avere una molecola *polare* e di permettere  il formarsi di *legami idrogeno*.
 
-Il ghiaccio galleggia sull'acqua.
+Senza i legami idrogeno l'acqua bollirebbe a -120°C. Grazie all'energia (fornita ad esempio da un fornello a gas) si riesce a strappare questi legami idrogeno e a rendere queste molecole più libere così che queste possano evaporare.
 
-l'acqua quando si solidifica si espande. Se non facesse il contrario non si sarebbe creata la vita per congelamento dell'acqua.
+Descriviamo ora 2 proprietà essenziali per la vita e che derivano dal fatto che le molecole d'acqua sono polari.
 
-il ghiaccio diventa meno denso e galleggia. I legami idrogeno diventano stabili.
+### Il ghiaccio galleggia sull'acqua
 
-*omeopatia memoria acqua*
+Quasi tutte le sostanze quando si solidificano si contraggono diventando più pesanti.
+L'acqua quando si solidifica diventando ghiaccio invece si espande diventando così più leggera. 
+Se  il ghiaccio non galleggiasse non si sarebbe creata la vita per via del congelamento dell'acqua dei laghi, stagni e perfino dei mari/oceani. Invece galleggiando lo strato ghiacciato superficiale protegge l'acqua liquida dal contatto con l'aria più fredda:  l'acqua sottostante si mantiene liquida, permettendo così la vita
 
-l'acqua è essenziale per sciogliere le sostanze. 
+*?Perchè questo è dovuto alla polarità dell'acqua?*
+Nell'acqua liquida la maggior parte delle molecole risultano legate con legami idrogeno (*non tutte*) ed è importante notare che questi legami vengono continuamente rotti e riformati. 
+Quando invece l'acqua si solidifica e diventa ghiaccio *tutte* le molecole si legano fra loro con legami idrogeno formando un retacolo cristallino in cui le molecole risultano più distanti di quanto avviene nell'acqua liquida. Di conseguenza diminuisce la densità del ghiaccio rispetto all'acqua e ciò gli permette di galleggiare.
+
+```mermaid
+graph LR
+id1{{Molecola Polare}}-- Legame Idrogeno ---id2{{ghiaccio meno denso}}
+```
+
+(*omeopatia memoria acqua*)
+
+### L'acqua è il solvente della vita
+
+L'acqua è essenziale per la vita in quanto consente di sciogliere le sostanze. 
+Riprendendo il *cloruro di sodio*, se lo si immerge in acqua:
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210221162739320.png" alt="image-20210221162739320" style="zoom:50%;" />
+
+dato che l'acqua è una molecola polare, con atomi di ossigeno carichi parzialmente negativamente e quelli di idrogeno parzialmente positivamente
+
+- gli atomi di ossigeno attraggono perciò gli atomi di sodio (cationi, ioni positivi), strappandoli dal cristallo
+
+In questa maniera le molecole di acqua circondano gli atomi di sodio, con gli atomi di ossigeno più vicini ad essi e quelli di idrogeno più lontani.
+
+- gli atomi di idrogeno attraggono gli atomi di cloro (anioni, ioni negativi) , strappandoli anche in questo caso
+
+Le molecole d'acqua avvolgono così gli atomi di cloro con gli atomi di idrogeno più vicini a questi.
+*guscio di idratazione*: lo formano ad esempio le molecole d'acqua disposte intorno al sodio e al cloro ordinatamente come nel caso sopra (ne riparleremo per i neuroni).
+
+Per potersi sciogliere in acqua un composto non deve essere necessariamente di tipo ionico (un sale). É sufficiente che sulla superficie vi siano un numero sufficiente di regioni ionizzate, cioè con cariche unitare (es. cloruro di sodio) o di regioni polari, cioè con cariche parziali.
+*C'è un'attrazione reciproca fra le molecole d'acqua e qualsiasi regione ionica o polare di una molecola.*
 
 *sostanze idrofile*: tutte le sostanze che si sciolgono in acqua o che assorbono acqua (es. cotone) anche senza sciogliersi.
 
-contrario: *idrofobe*, quelle che non possiedono l'ossigeno. 
-quelle come metano/carbonio
+contrario: *sostanze idrofobe*: sostanze che si comportano come se avessero una repulsione per l'acqua; possiedono molti legami *covalenti* non polari fra atomi di carbonio e di idrogeno come i legami del metano; es. olio vegetale
 
-dicotomia: sostanze idrofobe e idrofile, cosa importante!
-vitamina A, D: si accumulano, sono idrofobe, si accumulano nel fegato
+dicotomia: sostanze idrofobe e idrofile, è un dettaglio importante! 
+*?Queste molecole sono idrofile o idrofobe?* è una domanda che ci porremo spesso nel corso.
 
-molti esploratori glaciali muoiono per questa ragione (mangiando fegato animali).
+Le vitamina A, D si accumulano dato che sono idrofobe, ad esempio si accumulano nel fegato. Molti esploratori glaciali sono morti per questa ragione (mangiando fegato animali in particolare di foche).
 
-PCB: policlorobifenilis...
-ce li ritroviamo nelle farine. si accumulano e anche nel latte materno. 
+PCB: policlorobifenili, ce li ritroviamo nelle farine, si accumulano anche nel latte materno. Casi di infertilità e alterazioni di cicli mestrauli vengono imputati all'uso dei pesticidi.
 
-casi di infertilità/ alterazioni cicli mestrauli vengono imputati all'uso dei pesticidi.
+| idrofila | molte zone ioniche o polari  |
+| -------- | ---------------------------- |
+| idrofoba | molti legami covalenti C - H |
 
-olio vegetale è idrofobo. 
-? Queste molecole sono idrofile o idrofobe?
+L'essere solida o liquida è una *proprietà emergente* delle molecole d'acqua. Le singole molecole non sono nè liquide nè solide. 
+É difficile dire se un pezzo di cervello (dei neuroni) sia vivo o no.
 
-l'essere solida o liquida è una proprietà emergente delle molecole d'acqua. Le singole molecole non sono nè liquide nè solide. 
-
-
-
- ## Gli elementi chimici della vita e l'acqua
+Quando una sostanza si scioglie in acqua si ottiene una *soluzione*. L'acqua è il *solvente*, la sostanza disciolta è il *soluto*.
 
 ## Il carbonio e le piccole molecole organiche
 
-chimica organica
+### Composti organici e chimica organica
 
-Berzelius:
+I composti *organici* contengono carbonio. La chimica organica studia i composti del carbonio.
+Berzelius, all'inizio dell '800 distinse per primo fra composti organici (prodotti <u>esclusicamente</u> da esseri viventi) e inorganici.
 
-chimica organica si fondò sul vitalismo. 
-Rivoluzione 1953: si possono produrre composti organici 
+Inizialmente la chimica organica si fondò sul *vitalismo*, ovvero la fede nell'esistenza di una forza vitale non subordinata a leggi della chimica/fisica. 
+Ci fu una rivoluzione in seguito a:
 
-la coscienza deriva da proprietà meccanicistiche?
+- sintesi in laboratorio di composti organici (acido acetico, urea) a partire da elementi chimici puri 
+- una dimostrazione di Miller del 1953 secondo la quale le ipotetiche condizioni della Terra primordiale pre-biotica erano favorevoli alla sintesi spontanea di composti organici, simulando quelle condizioni e fornendo scariche elettriche in sostituzione dei raggi solari (non c'era atmosfera che potesse indebolirli)
 
-Carbonio, riesce a formare delle catene lunghe e stabili. Anche il silicio, ma meno lunghe (4-5 atomi), dopo diventa instabile e tende a rompersi. Parlando di singoli atomi
+I fondamenti del pensiero biologico si spostarono *dal vitalismo al meccanicismo* secondo il quale tutti i fenomeni naturali, vita compresa, siano governati da leggi della chimica e della fisica, sia per sostanze organiche che inorganiche.
 
-non sono idrofile, non vanno d'accordo con l'acqua, non possono formare legami idrogeno
+*?La coscienza deriva da proprietà meccanicistiche?*
 
-*fullereni*
+Lo scheletro delle molecole organiche è formato da *catene carboniose*, cioè catene di atomi di carbonio lunghe legati fra loro da legami covalenti (singoli, doppi, tripli). Le catene sono lunghe e stabili e consentono la formazione di strutture spaziali anche complesse, come i *fullereni* (che sono valsi come Nobel per la chimica nel 1996) qui sotto:
 
-Giulio Natta, Nobel, velocizza polimeri. Polipropilene, così lunghe queste catene che non ce ne liberiamo più
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210221182120477.png" alt="image-20210221182120477" style="zoom:50%;" />
+Il carbonio è l'unico elemento che riesce a formare delle catene lunghe e stabili. Anche il silicio in realtà è simile, ma consente catene meno lunghe (4-5 atomi) dopodichè diventa instabile e la catena tende a rompersi.
 
-2021: nella placenta ci troviamo particelle di microplastica. Nutriamo di plastica anche i nostri embrioni.
+Alle catene carboniose si possono legare singoli atomi o gruppi funzionali. 
+I composti organici non sono idrofili, non vanno d'accordo con l'acqua, non possono formare legami idrogeno dato che i legami che forma il carbonio non sono polari.
 
-chimica organica è la chimica del carbonio in pratica.
+Giulio Natta, Nobel per la chimica nel 1963, ha compiuto scoperte nella tecnologia dei polimeri (per dei catalizzatori).
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210221182629575.png" alt="image-20210221182629575" style="zoom: 33%;" />
 
-gruppi funzionali:
+Il polipropilene(PP) è un polimero termoplastico, formato da catene così lunghe che non ce ne liberiamo più. 
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210221183001880.png" alt="image-20210221183001880" style="zoom:33%;" />
 
-- gruppo 
+Il *Pacific Trash Vortex*, è un'enorme isola di plastica, le stime vanno da 700.000 km² fino a più di 10 milioni di km², tra lo 0,41% e il 5,6% dell'Oceano Pacifico, l'area potrebbe contenere fino a 100 milioni di tonnellate di detriti.
+Uno studio del 2021 rivela che già nella *placenta* si trovano particelle di microplastica. Nutriamo di plastica anche i nostri embrioni.
+
+*gruppi funzionali*: il comportamento chimico di un gruppo funzionale è sempre lo stesso anche se in molecole diverse. Il numero e la disposizione di questi gruppi in una molecola organica contribuisce a determinarne le proprietà.
+
+I 6 gruppi funzionali più importanti nella chimica della vita sono tutti *idrofili*, aumentano l'idrosolubilità dei composti organici in cui sono presenti. 
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210221192001184.png" alt="image-20210221192001184" style="zoom: 67%;" />
+
+
 
 ## Le macromolecole della vita: carboidrati, lipidi, proteine, acidi nucleici (DNA e RNA)
 
-le cellule sono un continuo laboratorio
+> EBG: cap 3,4
 
-4  classi di macromolecole:
-carboidrati, lipidi, proteine, acidi nucleici
+Le cellule sono un continuo laboratorio, per tornare al concetto del Demiurgo trasformatore.
+Le cellule uniscono tra loro piccole molecole organiche formando molecole più grandi, le *macromolecole biologiche*. 
+L'efficienza è venuta strada facendo con l'evoluzione. Si sale di un livello nella gerarchia di organizzazione biologica.
 
-l'efficienza è venuta strada facendo con l'evoluzione
+Vi sono 4  classi principali di macromolecole biologiche: *carboidrati, lipidi, proteine, acidi nucleici*. Studiamo l'architettura delle macromolecole per capire meglio in che modo essa funzioni.
 
-**Polimeri:** sequenza di monomeri.
-Con un piccolo di numero di monomeri posso comporre 
+### Polimeri
+
+> Un polimero (dal greco polymerḗs, letteralmente "che ha molte parti") è una macromolecola, ovvero una molecola dall'elevato peso molecolare, costituita da un gran numero di gruppi molecolari (o unità strutturali) uguali o diversi (nei copolimeri), uniti "a catena" mediante la ripetizione dello stesso tipo di legame (covalente). 
+
+I polimeri sono una sequenza di monomeri. 
+
+>Col termine monomero (dal greco una parte) in chimica si definisce una molecola semplice dotata di gruppi funzionali tali da renderla in grado di combinarsi ricorsivamente con altre molecole (identiche a sé o reattivamente complementari a sé) a formare macromolecole. 
+>
+>Per estensione, il termine viene usato anche per identificare l'unità strutturale ripetitiva che forma un polimero (detta più propriamente "unità ripetitiva" del polimero).
+>Il processo di trasformazione del monomero a polimero si chiama polimerizzazione 
+
+Alfabeto e parole. Con un piccolo di numero di monomeri (40-50) posso comporre un'infinità di polimeri. Sono molecole a catena, formate dall'unione di subunità identiche o simili.
+Carboidrati, proteine e acidi nucleici (ma non lipidi) sono *polimeri*.
+Gli organismi utilizzano gli stessi monomeri ma li utilizzano in modo diverso.
+
+*Le differenze fra individui della stessa specie o tra specie diverse non sono dovute ai singoli monomeri ma ai polimeri (proteici).*
 
 ### Carboidrati
 
+I carboidrati sono gli zuccheri semplici e i loro polimeri.
+
 - **monosaccaridi**
-
-zuccheri e loro polimeri
-i nostri neuroni vanno a glucosio
-
+  <img src="/home/ludo/.config/Typora/typora-user-images/image-20210221194433107.png" alt="image-20210221194433107" style="zoom: 80%;" />
+  Hanno uno scheletro di carbonio con atomi O e H, in pratica è come se ogni atomo di carbonio avesse legata una molecola di acqua. Hanno legami covalenti prevalentemente singoli e alcuni doppi.
+  Si dividono in zuccheri *triosi, pentosi ed esosi* in base al numero di atomi di carbonio (rispettivamente: 3,5,6).
+Sono molecole idrofile in quanto l'ossigeno crea regioni polari ed in acqua ci sarà la possibilità per la creazione di legami idrogeno.
+  Una volta in acqua assumono una forma ad anello. Ad esempio il glucosio, uno zucchero esoso (con 6 atomi di carbonio) forma un anello con 5 atomi di C e un atomo di O (la forma reale è più simile ad una barca o una sedia dato ch il carbonio tende a formare strutture a tetraedro).
+  <img src="/home/ludo/.config/Typora/typora-user-images/image-20210222104331828.png" alt="image-20210222104331828" style="zoom:50%;" /><img src="/home/ludo/.config/Typora/typora-user-images/image-20210222104352097.png" alt="image-20210222104352097" style="zoom:33%;" />
+  
+  I nostri neuroni vanno prevalentemente a glucosio. I monosaccaridi sono *combustibili cellulari*, e per questa ragione questi zuccheri sono molecole importantissime.
+  I monosaccaridi sono monomeri e possono mettersi insieme per formare molecole più complesse:
+  
 - **disaccaridi**
+Sono formati da due zuccheri semplici (monomeri), ad esempio maltosio, saccarosio e lattosio.
+  Il *maltosio* (che si trova nella birra) è composto da due molecole di glucosio, le quali si uniscono tramite l'ossigeno, formando una molecola d'acqua:
+  <img src="/home/ludo/.config/Typora/typora-user-images/image-20210222104737718.png" alt="image-20210222104737718" style="zoom:50%;" />
+  
+  Il *lattosio* è composto da glucosio + galattosio. L'unica differenza fra glucosio e galattosio è una sistemazione differente di un atomo di ossigeno.
+  
+  <img src="/home/ludo/.config/Typora/typora-user-images/image-20210222201852842.png" alt="image-20210222201852842" style="zoom: 67%;" />
+  
+  Un'intolleranza peggiore di quella al lattosio è la *galattosemia*, l'intolleranza al galattosio, pericoloso soprattutto per i neonati. Il lattosio viene scisso in glucosio e galattosio e successivamente il galattosio dovrebbe venire trasformato in glucosio ma ciò, nei soggetti con galattosemia, non avviene.
+  
+- **polisaccaridi**
 
-é difficile dire se un pezzo di cervello, dei neuroni in sè, siano vivi o no
+  Sono polimeri di glucosio, possono essere usati come deposito di energia o come materiale da costruzione (polisaccaridi strutturali).
 
-- polisaccaridi
+  - *Amido* e *glicogeno* sono un vero e proprio deposito di energia, sono entrambi digeribili. Quando necessario il polisaccaride viene scisso nei monomeri di glucosio e utilizzato come combustibile cellulare.
 
-amido nei vegetali
-Glicogeno nel nostro corpo, fegato (100g) e tessuto muscolare(3-400g)
+  <img src="/home/ludo/.config/Typora/typora-user-images/image-20210222202759089.png" alt="image-20210222202759089" style="zoom:67%;" />
 
-cellulosa è il materiale organico più presente sulla Terra. Non è digeribile, solo alcuni batteri
+  ​	Il glicogeno si trova nel nostro corpo, nel fegato (ca. 100g) e nel tessuto muscolare (ca. 3-	400g). Durante uno sforzo prolungato scomponiamo il glicogeno nei muscoli e nel fegato.
 
+  ​	L'amido si trova nei vegetali (tuberi, patate, semi cereali); è composto da tue tipi di 		polimeri, amilosio e amilopectina.
 
+  - I polisaccaridi strutturali come la *cellulosa*  sono materiale da costruzione per la sintesi di varie strutture. 
+    La cellulosa è il materiale organico più abbondante sulla Terra, non è digeribile dall'uomo ma solo da alcuni batteri (le termiti e i ruminanti riescono a mangiare il legno perchè hanno dentro di loro questi batteri). 
+    La cellulosa forma catene lineari, dritte, mai ramificate, tenute insieme parallelamente da legami idrogeno.
+    Circa 80 molecole di cellulosa si associano a formare una microfibrilla, la principale unità strutturale della *parete delle cellule vegetali*, una struttura così rigida da consentire alle sequoie di raggiungere i 100 metri.
 
-### lipidi
+  Una piccolissima diversità nella forma (disposizione di alcune molecole) causa la differenza fra  amilosio (amido, digeribile) e cellulosa (non digeribile):
 
-non sono idrofile. non sono polimeri in genere
-**trigliceridi**
+  <img src="/home/ludo/.config/Typora/typora-user-images/image-20210222204656958.png" alt="image-20210222204656958" style="zoom:33%;" />
 
-Sono depositi di energia, doppio di ernergia rispetto a glicogeno/amido. Vari kg nel corpo. Funzione protettiva e termoisolante.
+I carboidrati sono quindi molecole vincenti, ma non troppo.
 
-Autopsie su ebrei morti rivelò che grasso intorno a occhi e reni non viene mai usato, è troppo importante
+### Lipidi
 
-- fosfolipidi
+I lipidi sono molecole non idrofile, hanno pochissime regioni polari. Non sono polimeri in genere.
 
-cellule emarginate. 
+**Grassi o trigliceridi**
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Trimyristin-3D-vdW.png/1024px-Trimyristin-3D-vdW.png" alt="img" style="zoom: 25%;" />
 
-*?posso usare per la membrana cellulare?*
-Materiale impermeabile, "cappotto" delle cellule.
-Doppio strato fosfolipidico
+I trigliceridi hanno tre acidi grassi.
+In genere i grassi animali (lardo, burro) sono saturi e quelli dei vegetali e dei pesci sono instaturi (oli). Gli acidi grassi sono una catena idrocarburica. Il glicerolo è un alcol.
+In base alla presenza di doppi legami C=C nella catena carboniosa, gli acidi grassi possono essere classificati come:
+
+- *acidi grassi saturi*: se non sono presenti doppi legami nella catena carboniosa
+- acidi grassi insaturi: se sono presenti doppi legami nella catena carboniosa; a loro volta si suddividono in:
+
+  - acidi grassi *monoinsaturi*, se è presente un solo doppio legame C=C 
+  - acidi grassi *polinsaturi*, se sono presenti due o più doppi legami C=C
+
+>La presenza di doppi legami C=C e la lunghezza della catena carboniosa influenza la temperatura di fusione e la temperatura di cristallizzazione degli acidi grassi. 
+>
+>Maggiore è la percentuale di doppi legami e più le catene carboniose risultano corte, più alta risulta la fluidità dell'acido grasso e la sua temperatura di  cristallizzazione si abbassa. 
+>
+>Il metabolismo di grassi saturi e insaturi attiva gli stessi  enzimi, e l'organismo non è in grado di regolare questa competizione  enzimatica. 
+>Pertanto, è importante mantenere l'equilibrio corretto  nell'assunzione di questi due tipi di grassi. Un sovraccarico di acidi  grassi in generale riduce la quantità di enzimi e aggrava il problema  della competizione.
+
+I doppi legami causano una "gobba".
+Le funzioni dei grassi nel nostro corpo sono:
+
+- *deposito* di energia incredibile, forniscono il doppio di energia rispetto al glicogeno/amido; ce ne sono vari kg nel corpo
+- funzione *protettiva*, ad esempio intorno all'orbita oculare e nei reni; anche in condizioni estreme di denutrizione questi grassi non vengono mai utilizzati (si è visto nelle autopsie nei campi di concentramento)
+- funzione *termoisolante*, i mammiferi marini grazie al tessuto di grasso possono sopportare basse temperature
+
+| macromolecole | kcal/g |
+| ------------- | ------ |
+| proteine      | 4,2    |
+| carboidrati   | 4,3    |
+| grassi        | 9,5    |
+
+**Fosfolipidi**
+Sono simili ai grassi, ma con *due* acidi grassi, invece di tre. Al posto del terzo acido grasso c'è un gruppo fosfato, carico negativamente.
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210222221324198.png" alt="image-20210222221324198" style="zoom: 67%;" />
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Fosfolipide.svg/800px-Fosfolipide.svg.png" alt="img" style="zoom:33%;" />
+
+In acqua i fosfolipidi si organizzano in *micelle*, cioè in aggregati che escludono le parti idrofobe dal contatto con l'acqua. Le micelle vengono *emarginate* nell'acqua non formando legami idrogeno. 
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210222221819374.png" alt="image-20210222221819374" style="zoom:33%;" />
+
+*? Posso usare i fosfolipidi per costruire la membrana cellulare?*
+Le cellule hanno bisogno di un materiale impermeabile, di un "cappotto". Immaginando di avere acqua all'esterno di essa e all'interno ho bisogno di un doppio strato impermeabile, uno esterno ed uno interno.
+Se usassi il cloruro di sodio mi si scioglierebbe subito. 
+Si può usare un doppio strato fosfolipidico.
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210222224401060.png" alt="image-20210222224401060" style="zoom:33%;" />
+
+Anche i neuroni sono dotati di questo cappotto esterno. Come fa allora una molecola ionica o polare ad attraversare questo cappotto idrofobo? lo vederemo..
 
 - **steroidi**
+  Il colesterolo è il precursore degli steroidi (ormoni steroidei).
+  <img src="/home/ludo/.config/Typora/typora-user-images/image-20210222232146876.png" alt="image-20210222232146876" style="zoom:33%;" />
 
-il colesterolo è il precursore degli steroidi , ormoni steroidei
+  Gli steroidi hanno uno scheletro carbonioso con 4 anelli fusi, variano per i gruppi funzionali che si trovano uniti a questi 4 anelli. 
+
+  > È da sottolineare che la parola "steroide" si riferisce soltanto alla struttura chimica, e non alle funzioni biologiche. Infatti, ad esempio, il testosterone migliora l'azione dell'insulina, il cortisolo la inibisce; allo stesso modo, il testosterone stimola la sintesi di massa ossea e muscolare, mentre il cortisolo la degrada. 
+
+I lipidi sono macromolecole interessanti, sono depositi di energia, svologno funzioni termoisolanti, protettive, sono usati nelle membrane cellulari e sono alla base degli steroidi. Sono anche'esse molecole vincenti.. ma non troppo.
 
 ### Proteine
 
-molecole più importanti per costruire la vita
+Le proteine sono le molecole più importanti utilizzate dal *demiurgo trasformatore* per costruire la vita. 
+Sono tante, e svolgono moltissime funzioni, ad esempio: 
 
-polipeptide: polimero di ammonoacidi
+- *collageno* ed *elastina* nei tendini e nei legamenti, 
+- *cheratina* nei peli, nelle piume, 
+- *ovalbumina* nell'albume delle uova, 
+- *caseina* nel latte, 
+- *emoglobina* nel sangue che trasporta ossigeno, 
+- *insulina* per regolare la concentrazione di glucosio nel sangue, 
+- proteine *recettoriali* nella membrana delle cellule nervose, 
+- *actina e miosina* per il movimento dei muscoli
+- *proteine di difesa*, gli anticorpi
+- *enzimi digestivi* 
 
-amminoacido: gruppo carbossilico e gruppo amminico
+Anche nel Covid-19 ci sono le proteine (la cosiddetta proteina *spike*):
 
-legame peptidico
+<img src="https://news.dartmouth.edu/sites/dart_news.prod/files/styles/slide/public/news/images/coronavirus-1024x576.jpg?itok=SE9_dHar" alt="New Taskforce, Website to Share COVID-19 Updates With ..." style="zoom: 25%;" />
+
+Le parti rosse sono le proteine, la sfera bianca è composta di lipidi.
+
+**Struttura di una proteina**
+Le proteine sono le molecole più complesse strutturalmente. 
+Una proteina è costituita da 1 o più *polipeptidi*, ripiegati e impacchettati in specifiche conformazioni.
+
+***polipeptide***: polimero di amminoacidi
+***amminoacido***: è una molecola organica contenente un gruppo *carbossilico* e gruppo *amminico*, è formato in particolare da: 
+
+- un atomo di carbonio asimmetrico a cui è legato 
+
+- un atomo di H, 
+
+- un gruppo amminico, 
+
+- un gruppo carbossilico,
+
+- un gruppo variabile R
+
+  <img src="/home/ludo/.config/Typora/typora-user-images/image-20210223000334199.png" alt="image-20210223000334199" style="zoom: 50%;" />
+
+Gli amminoacidi sono circa un 20ina, il gruppo amminico (NH_2) e quello carbossilico (CO_2H) rimangono invariati, è la R il pezzo "magico" che permette la creazione di migliaia differenti proteine. 
+Il gruppo variabile R non partecipa alla catena degli amminoacidi, è libero! In questo modo può legarsi (con qualsiasi legame: ionico, covalente, idrogeno) ad altri amminoacidi per dare una forma al polipeptide.
+
+Le proprietà fisiche e chimiche del gruppo R determinano le proprietà di un particolare amminoacido. Ve ne sono di polari e non polari, acidi e basici,  idrofobi e idrofili.
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210223091353147.png" alt="image-20210223091353147" style="zoom: 67%;" />
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210223091431406.png" alt="image-20210223091431406" style="zoom:50%;" />
+
+Il legame *peptidico* è il legame che unisce il gruppo carbossilico e il gruppo amminico di due amminoacidi. 
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210223092335440.png" alt="image-20210223092335440" style="zoom:50%;" />
+
+Ad esempio qui si viene a formare una molecole di acqua all'unione del gruppo carbossilico e amminico di due amminoacidi. Questa molecola di acqua se disperde nell'ambiente acquoso, ciò che rimane forma il legame peptidico fra due amminoacidi che rimangono legati.
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210223092552161.png" alt="image-20210223092552161" style="zoom:50%;" />
+
+Lo scheletro della catena carboniosa è N-C-C, come avevamo visto il carbonio consente la creazione di catene lunghe e stabili. Notare che le catene laterali sono libere.
 
 lisozima: nelle lacrime, ci aiuta ad uccidere i batteri. formato da 129 amminoacidi, legati fra di loro da legami peptidici
 
@@ -375,8 +592,196 @@ zucchero -> ribosio: ha 5 atomi di carbonio
 
 la sequenza di basi azotate determina la sequenza degli amminoacidi
 
- ## I componenti cellulari: membrana plasmatica, nucleo, mitocondri, ribosomi...
- ## La cellula e l'energia, metabolismo cellulare, respirazione cellulare.
+ ## La cellula e la sua struttura
+
+La cellula è la più piccola unità in grado di vivere.
+Definizione di vita:
+
+- organizzazione, complessità
+- metabolismo, saper scomporre sostanze e ricostruirne
+- omeostasi, rimanere uguali a sè stessi nel tempo
+- interazione con l'ambiente esterno
+- adatammento
+- crescita
+- riproduzione
+
+Senza queste proprietà è difficile parlare di vita.
+Organsimi unicellulari e pluricellulari. Un problema che nasce è la *coordinazione*.
+
+Cellule *procariotiche* (batteri, più semplici) ed eucariotiche (protisti, piante, funghi, animali)
+Si somigliano per molte cose ma si differenziano per dimensioni (1-10 micron procariotiche, mentre 10-100 micron) Una cellula di 50 micron devo metterne 20 in fila per fare 1 millimetro.
+
+Un'altra differenza sono gli scompartimenti divisi da membrane.
+
+Le cellule nervose hanno dei prolungamenti, fino ad 1 metro (filamenti dal midollo spinale al piede).
+Esiste un limite inferiore alle dimensioni di una cellula, il volume occupato dalla complessità necessaria per la vita della cellula occupa una minima quantità di DNA e altre sostanze.
+Esiste anche un limite superiore.
+
+### Cellula animale
+
+**Membrana plasmatica**
+Useremo un doppio strato delle macro-molecole fosfolipidiche. La membrana plasmatica è l'impermeabile delle cellule
+
+**Nucleo**
+
+Involucro nucleale, cromatina e nucleolo
+Il DNA è contenuto principalmente qui dentro, ed una piccola parte nei mitocondri.
+Ci sono dei pori, permettono un passaggio di  qualcosa
+Il DNA è associato a delle proteine. La cromatina ha un aspetto a filamento, perchè è così filamentoso? É un ricettario, chiuso non si riesce a leggerlo. Il DNA è tutto sfilacciato perchè deve poter essere letto. In un momento in cui la lettura non si può fare il ricettario verrà compattato -> cromosomi.
+Cromosomi (compatti) e cromatina (sfilacciato)
+
+Il nucleolo serve per la sinte
+L'RNA uscirà e andrà nel citoplasma.
+
+Le proteine entrano ed escono attraverso questi pori, ci torneremo per i vaccini. Può uscire anche RNA, ma non esce il DNA.
+
+Il nucleo è la *cassaforte* della nostra cellula, anche se ha delle aperture. Il DNA è chiso lì dentro, c'è un buon motivo. É prezioso, va rispettato e protetto.
+
+**Ribosomi**
+Tra nucleo e citoplasma.
+Rna + proteine
+
+I ribosomi sono formati da RNA ribosomiale e proteine. Servono a sintetizzare le proteine. Possono essere legati (vicini alle membrane) o liberi (sospesi nel citoplasma).
+
+i ribosomi liberi producono proteine ad uso interno
+i ribosomi legati producono proteine per uso interneo per esportazione. É una separazione mobile, ogni tanto si sposta e si attaca al reticolo endoplasmatico.
+I ribosomi sono un *tavolo da lavoro* della cellula. 
+
+**Sistema endomembranoso**
+insieme di membrane
+Una delle differenze tra eucariotiche e procariotiche. Con le pareti creaimo scompartimenti.
+
+**Reticolo endoplasmatico**
+formato da tubuli e cisterne, liscio se privo di ribosomi legati
+Sintesi di steroidi
+Cellule del fegato immagazzinano il glicogeno
+Glicogeno è un polimero, formato da tanti polimeri di glucosio, possono essere spezzettati per essere usati 
+
+Sono il fegato ed i reni che eliminano sostanze nocive (cellule epatiche: barbiturici, alcool, droghe vengono nel reticolo endoplasmatico del fegato) Prolifera se
+
+Le parti all'interno delle cellule non hanno una quantità fissa, ma risponde alle esigenze. Le sostanze sono smaltite dal fegato. Le cellule
+Aumenta la quantità di reticolo endoplasmatico del fegato: proliferazione.
+Si abitua
+L'efficienza è sempre a livello cellulare, allenamento! allenamento! allenamento! allenamento!
+Le modifiche sono a livello cellulare!
+
+**Apparato del Golgi**
+É una centrale di smistamento, devo confezionare le sostanze da esportare. 
+Non é del tutto noto come vengono esportate??
+Le vescicole *gemmano* poi si fondono con la membrana. Come esporto le sostanze? Il doppio strato fosfolipidico diventa una cosa unica e ciò che è interno fuoriesce.
+Le vescicole come fanno a spostarsi?
+É possibile anche l'opposto.
+
+**Lisosomi**
+Ultima componente del reticolo endoplasmatico.
+Vescicole aggrediscono e scindono tutte le macromolecole organiche. Pericolo di autolisi, autodigestione.
+Fagocitosi, le amebe (unicellulari) ricavano il nutrimeno per fagocitosi, la particella alimentare esterna viene inglobata, successivamente i lisosomi digeriscono, grazie.
+Il verbo *litico* (sciogliere) 
+Autofagia, materiale interno alla cellula danneggiato i lisosomi li digeriscono. I monomeri organici vengono *riciclati*, così da potersi rigenerare automamente.
+Intervengono durante la metamorfosi degli anfibi. 
+Quale concetto?
+Lisosomi *riciclano*.
+
+La longevità non sarà dovuta all'attività dei lisosomi? No dipende, da cosa dipende?
+Sono implicati nel processo di invecchiamento.
+
+**Covid, vaccini a mRNA**
+Da cosa sono fatti? Come funzionano?
+Il vaccino è composto, per avere un ingresso facile, da un mantello di fosfolipidi. Voglio che venga inglobato dalle cellule. Non c'è un meccanismo di riconoscimento per le cellule, non si sa quali lo prendano e quali no?
+
+Morte cellulare programmata, produciamo tante più cellule di quante ne abbiamo bisogno. Tutto è programmato nelle nostre cellule, in qualche modo.
+Il meccanismo di autolisi è il meccanismo principale per provocare la morte di queste cellule.
+
+**Mitocondri**
+Doppia membrana, una esterna ed una interna. Creste mitocondriali. É un trucco per aumentare la superficie. 
+Nelle case con i radiatori aumentiamo la superficie? boh
+Non fanno parte del sistema endomembranoso. Perchè? 
+Contengono ribosomi e una piccola quantità di DNA. sembra strano.. l'ipotesi è che questi mitocondri fossero delle cellule, poi inglobate. Ora sono degli organuli nelle cellule.
+L'ossigeno arriva nei mitocondri. Il vero utilizzo dell'ossigeno avviene nei mitocondri. 
+Autofagia e longevità, dipende dai mitocondri, si influenzano e in qualche modo si ha un ottimo.
+I mitocondri sono i radiatori/ la caldaia delle cellule.
+Sono i mitocondri a bruciare l'ossigeno e lo varie sostanze.
+
+**Citoscheletro**
+La membrana non è rigida. Fornisce un supporto meccanico alla cellula. Manca la parete delle cellule vegetali.
+La parete delle cellule vegetali è composta di cellulosa, polimero di glucosio. 
+Il citoscheletro è molto dinamico. Formato da 3 
+
+**Microtubuli**
+Servono da binari lungo cui si spostano gli organuli provvisti di molecole motrici (alimentate da ATP). 
+Cosa ci ricorda questo modo di camminare? 2001 odissea nello spazio.
+Sono responsabili del movimento di ciglia e flagelli (spermatozoi).
+All'interno di ciglia e flagelli: 9+2 microtubuli.
+
+Coscienza e libero arbitrio: non è concepibile che le cellule si rifiutino di svolgere il loro compito.
+*Hameroff, Penrose*: coscienza deriva dai microtubuli: Neural basisi for emergent consciusness?
+
+**microfilamenti**
+
+**filamenti intermedi**
+Consolidano.. boh
+
+|               |                                                              |
+| ------------- | ------------------------------------------------------------ |
+|               |                                                              |
+|               |                                                              |
+|               |                                                              |
+|               |                                                              |
+|               |                                                              |
+| Citoscheletro | Microtubuli: binari<br />Microfilamenti<br />Filamenti intermedi |
+
+
+
+ ## Produzione di energia nella cellula
+
+Meccanicismo che permea tutta la teoria cellulare.
+Per svolgere le funzioni le cellule anno bisogno di energia; prima legge termodinamica: l'energia non può essere nè creata nè distrutta.
+L'energia può essere trasferita e trasformata.
+Nel motore a scoppio l'energia viene liberata dalla combustione delle molecole organiche (benzina). Degradazione veloce con utilizzo di ossigeno.
+Anche le cellule liberano energia da molecole organiche. C'è una grossa differenza, la nostra è molto più lenta, controllata ed efficiente. Nel motore a scoppio viene convertita solo la minor parte (15-20%) in energia meccanica ed il resto in calore.
+Nelle nostre cellule l'efficienza è quasi totale (99%), il calore è quasi nullo. I brividi ad esempio,  sono utili grazie alla piccola inefficienza degli organelli . Il calore è "perso". 
+L'eccesso di calore fa male ai neuroni. L'energia non viene nè prodotta nè distrutta ma liberata. Degradazione si chiama *catabolismo*
+
+### Respirazione cellulare
+
+La respirazione cellulare avviene nei mitocondri.
+
+Ossigeno -> emoglobina-> prossimità delle cellule, per diffusione (passa attraverso il doppio strato fosfolipidico), non ha bisogno di energia (come  il profumo che si espande per la stanza)
+-> mitocondri, le brucia -> anidride carobonica -> viene buttata furoi sempre nell'emoglobina -> polmoni
+
+Composti organici + Ossigeno -> anidride carbonica + acqua + energia.
+
+La materia rimane quella di prima, viene solo ridistribuita. Viene prodotta energia
+
+Fotosintesi: reazione oppostam energia del sole (radiazioni elettromagnetiche) viene utilizzata nei cloroplasti per produrre molecole organiche + ossigeno. Trasformazione di energia che può andare in entrambi i sensi.
+
+La vita sulla Terra è strettamente legata al Sole
+
+### Fermentazione lattica
+
+In certe situazioni, movimenti veloci, la quantità di ossigeno non è sufficiente per produrre
+Le cellule muscolari possono ricavare energia dalle molecole organiche
+Fermentazione lattica: senza ossigeno, senza globuli rossi. Viene prodotto lattato, acido lattico che appesantisce  i muscoli e che verrà poi riconvertito dal cervello.
+Nei neuroni questo meccanismo è assente o insufficiente. Se restano senza ossigeno i neuroni muiono entro pochi minuti. 
+
+### ATP
+
+Cos'è questa energia? Come la catturo? Dove la deposito?
+Il deposito è proprio l'ATP. Nel motore a scoppio l'energia viene direttamente utilizzata.
+Nella cellula invece l'energia ricavata (con o senza ossigeno) dai composti organici non può essere direttamente utilizzata per produrre energia. 
+Le molecole vincenti vengono riutilizzate e riciclate. 
+
+Spezzando ATP viene liberata energia. Non è fluttuante ma ceduta dall'ATP facendolo partecipare alle varie reazioni che richiedono energia. Spezzando il legame, ultimo
+Adenosina trifosfato -> Fosfato inorganico + Adenosina difosfato.
+Le reazioni sono *accoppiate*.
+
+**Ciclo dell'ATP**
+La cellula scinde i composti. 
+Le reazioni sono spostamenti di materia, hanno bisogno di energia.
+
+La cellula somiglia più ad un'automobile alimentata a ...
+L'energia viene prodotta bruciando il combustibile, però poi ogni lavoro viene eseguito prelevando 
+Una singola quantità di ATP non aumenta l'energia. Servono tante molecole di ATP. Nella cellula non abbiamo una singola batteria ma tante molecole di ATP.
 
 # Dalla cellula agli organismi
 
@@ -443,3 +848,12 @@ la sequenza di basi azotate determina la sequenza degli amminoacidi
 - Sadava, Hillis, Heller, Hacker. *Elementi di biologia e genetica*. Editore: Zanichelli. Quinta edizione italiana.
 - Kandel, Schwartz, ecc. *Principi di neuroscienze*. Casa Editrice  Ambrosiana - Zanichelli. Quarta edizione.  Volume unico.
 - Watson, Breedlove. *Il cervello e la mente. Le basi biologiche del comportamento.* Zanichelli editore.
+
+# Domande al prof
+
+- nella pratica, che differenza c'è tra legame covalente e ionico? Qunado diciamo che un atomo "strappa" un elettrone o lo usa in compartecipazione? Qual é la differenza quantitativa sostanziale?
+- l'acqua ghiacciata diventa più leggera nel senso di densità? la materia non rimane la stessa?
+- perchè gli acidi grassi sono idrofobi? non hanno legami OH?|
+- nella slide dei fosfolipidi, nell'immagine forse testa e code sono scambiate a lato?
+- perchè le teste dei fosfolipidi non si sciolgono nell'acqua? perchè rimangono attaccate nonstante sia idrofile?
+

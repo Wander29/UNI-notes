@@ -39,7 +39,7 @@ Due tipi di approcci:
   **Intelligenza artificiale debole**, non tutta l'intelligenza può essere meccanizzata
 
 **Definizione di IA**
-<img src="/home/ludo/.config/Typora/typora-user-images/image-20210216162723512.png" alt="image-20210216162723512" style="zoom:67%;" />
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210216162723512.png" alt="image-20210216162723512" style="zoom: 33%;" />
 
 IA: indagine tecnologica ed intellettuale a lungo termine che sono sia scientifici che pratici:
 
@@ -63,7 +63,7 @@ Test di Turing.
 
 
 
-![image-20210216163854696](/home/ludo/.config/Typora/typora-user-images/image-20210216163854696.png)
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210216163854696.png" alt="image-20210216163854696" style="zoom:33%;" />
 
 Dopo 5 minuti di dialogo il test è concluso e l'interrogato dovrà dire se sta comunicando con un computer o con una persona.
 
@@ -102,9 +102,12 @@ OpenMind: progetto più recente e meno ambizioso che accetta contribti via web. 
 Grafi di conoscenza: estrarre conoscenza da big data (google graph..)
 
 1995-ora: visione moderna (AIMA: AI a Modern Approach)
-punto di svolta, agenti intelligenti che unisce vari settori dell'IA
+punto di svolta, agenti intelligenti che unisce vari settori dell'IA.
+La visione moderna dell'IA è il fronte del progresso dei metodi/sistemi informatici (algoritmica, logica, ottimizzazione) per dotare le macchine di comportamente *razionali* (intelligenti) in problemi generali *difficili*.
+L'accento è quindi posto sulla costruzione di agenti intelligenti.
 
 ## Agenti
+
 
 Gli agenti sono situati, immersi in un ambiente. Ricevono percezioni da un ambiente. Agiscono sull'ambiente mediante *azioni*
 
@@ -143,9 +146,197 @@ si dovrebbe dire un sistema di AI.
 É difficile programmare l'intelligenza. 
 DL e reti neurali sono sottocategorie di ML, che a sua volta è una sottocategoria dell'AI
 
+# Agenti intelligenti
+
+> Cap. 2 AIMA
+
+L'approccio moderno all'IA riguarda la costruzione di *agenti intelligenti*.
+La visione a sistemi è comoda per trattare *sitemi razionali*. La visione ad agenti è diversa dalla visione offerta dai sistemi software.
+
+**Primo obiettivo: agenti per risoluzione di problemi vista come ricerca in uno spazio di stati** 
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210219141638740.png" alt="image-20210219141638740" style="zoom: 50%;" />
+
+Il nostro focus è nel punto interrogativo. Ci interessa costruire il programma dell'agente, cosa fargli fare. Vogliamo che interagisca nel modo giusto con l'ambiente.
+
+**Caratteristiche degli agenti**
+Vanno oltre uno standard modulo software poichè gli agenti: 
+
+- sono *situati*: ricevono percezioni da un ambiente e agiscono su esso mediante azioni attuate dagli attuatori
+- hanno *abilità sociale*: sono in grado di comunicare e collaborare
+- hanno *credenze, obiettivi, intezioni*
+- sono *embodied*: hanno un corpo
+
+**Percezioni e azioni**
+Le *percezioni* sono input da sensori.
+Una *sequenza percettiva* è la storia completa delle percezioni.
+La *scelta* dell'azione è funzione unicamente della sequenza percettiva.
+La *funzione agente* definisce l'azione da compiere per ogni sequenza percettiva, in altre parole descrive completamente l'agente. Essa è implementata da un programma agente.
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210219141858644.png" alt="image-20210219141858644" style="zoom:33%;" />
+
+Si possono avere varie forme della funzione, implementate dal programma agente. Il nostro compito è progettare la sequenza dell'agente, date le percezioni in input.
+
+**Agenti razionali**
+Un *agente razionale* fa la cosa giusta secondo una certa misura. Interagisce con il suo ambiente in maniera efficace. É necessario quindi un *criterio di vautazione* oggettivo dell'effetto delle azioni dell'agente, una una misura della prestazione (ad es: il costo di un cammino minimo trovato). 
+
+La razionalità è relativa e dipende dalla misura delle prestazioni, dalle conoscenze pregresse dell'ambiente, dalle percezioni presenti e passate e dalle azioni possibili per l'agente.
+Una definizione più dettagliata di un *agente razionale* è pertanto la seguente:
+
+> Per ogni sequenza di percezioni un *agente razionale* compie l'azione che massimizza il valore atteso della misura delle prestazioni considerando le sue percezioni presenti, passate e la conoscenza pregressa
+
+La razionalità non è né *onniscenza* né onnipotenza. Raramente tutta la conoscenza dell'ambiente può essere fornita a priori. Un agente razionale deve essere in grado di modificare il proprio comportamento con l'esperienza, migliorando tramite esplorazione e *apprendimento*.
+
+**Agente autonomo**: un agente lo è nella misura in cui il suo comportamento dipende dalla sua esperienza. 
+Un agente il cui comportamento è determinato solo dalla sua conoscenza iniziale (*built-in*) non è autonomo, in quanto molto poco flessibile.
+
+(https://www.repubblica.it/scienze/2013/01/28/news/mangia_letame_ma_in_realt_un_astronomo_lo_stercorario_si_muove_seguendo_le_stelle-51341644/).
+
+## **Ambiente**
+Descrizione *PEAS* dell'ambiente: Performance, Environment, Actuators, Sensors
+Esempio: un agente *guidatore di taxi*:
+
+| Prestazione   | Arrivare alla destinazione in modo sicuro e veloce rispettando ala legge e ottimizzando i consumi |
+| ------------- | ------------------------------------------------------------ |
+| **Ambiente**  | Clienti e strada con altri veicoli e pedoni                  |
+| **Attuatori** | Sterzo, acceleratore, freni, sintesi vocale o interfaccia non vocale |
+| **Sensori**   | Telecamere, sensori, tachimetro, GPS, contachilometri, tastiera/microfono/touchscreen |
+
+## Proprietà dell'ambiente
+
+**Osservabilità**
+Un ambiente può essere *completamente osservabile* quando siamo in grado di percepire tutto ciò che serve o di avere una conoscenza completa dell'ambiente, senza mantenere lo stato del mondo. Un esempio di ambiente completamente osservabile è una scacchiera.
+Un ambiente è *parzialmente osservabile* quando nell'apparato sensoriale dell'agente vi sono limiti o inaccuratezze che non permettono la totale conoscenza dell'ambiente esterno.
 
 
+**Ambiente singolo/multiagente**
+Il mondo può cambiare anche per eventi (es. pandemia), non necessariamente per azioni di agenti.
+Un ambiente *multi-agente* può essere competitivo (es. scacchi) o cooperativo dove gli agenti condividono un obiettivo e comunicano fra loro.
 
+**Predicibilità**
+Un ambiente è *deterministico* se lo stato successivo è <u>completamente</u> determinato dallo stato corrente e dall'azione.
+Un ambiente si dice invece *stocastico* quando esistono elementi di incertezza cui è associata una certa probabilità (es. guida, tiro in porta).
+Un ambiente è *non deterministico* quando come risultato di un azione vi sono più stati possibili in cui ci si può trovare (senza avere probabilità associate).
+
+**Episodicità**
+Un ambiente è *episodico* se l'esperienza dell'agente è divisa in episodi atomici indipendenti fra loro. In questi ambienti non vi è bisogno di pianificare.
+Un ambiente è *sequenziale* se ogni azione influenza le successive.
+
+**Staticità**
+Un ambiente è *statico* se il mondo non cambia mentre l'agente decide l'azione.
+Un ambiente si dice *dinamico* se cambia nel tempo, pertanto in ogni momento va riosservato per decidere; tardare equivale a non agire.
+Un ambiente è *semi-dinamico* se non cambia nel tempo ma con lo scorrere dello stesso cambia la valutazione dello stesso (es. scacchi con un timer, Alan Turing style; allo scadere del timer l'agente sa che cambia qualcosa semanticamente ma l'ambiente rimane lo stesso).
+
+**Dati**
+Lo stato, il tempo, le percezioni e le azioni possono assumere valori *discreti* o *continui*.
+Il discreto porta a problemi combinatoriali mentre il continuo porta a esplorare un ambiente infinito.
+Non sempre il discreto è più semplice da risolvere (es. problema dello zaino).
+
+**Noto/ignoto**
+Lo stato di conoscenza dell'ambiente intorno all'agente; questo conosce ciò che deve sapere o deve compiere azioni esplorative?
+Le regole sono note, ma l'ambiente può non esserlo (es. carte coperte, non so cosa si celi in esse). Noto è diverso da osservabile. 
+
+*Gli ambienti reali sono:* 
+stocastici, ignoti, parzialmente osservabili, multi-agente, dinamici, continui e sequenziali.
+Inizieremo con le assunzioni più semplici (cioè ambienti deterministici, statico, discreto, mono-agente).
+
+**Simulatori di ambienti**
+Sono strumenti software che generano stimoli per gli agenti, raccogliendo risposte e aggiornando lo stato dell'ambiente. Inoltre valutano le prestazioni dell'agente.
+Risulta fondamentale valutare le prestazioni su classi di ambienti differenti, per valutare poi la prestazione generale.
+
+## Struttura di un agente
+
+Un agente ha un'architettura più un programma.
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210219144247432.png" alt="image-20210219144247432" style="zoom: 33%;" />
+
+L'agente potrebbe essere anche una tabella, dove a uno stimolo associa un'azione a ogni possibile sequenza di percezioni.
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210219144440330.png" alt="image-20210219144440330" style="zoom:50%;" />
+
+In IA vogliamo realizzare agenti razionali dotati di un programma *compatto*.
+
+**Agenti reattivi**
+Non c'è una storia da memorizzare. Semplicemente volta per volta procedo ad agire.
+L'algoritmo restituisce un'azione poichè è il programma dell'agente, che ritorna agli attuatori.
+
+**Agenti basati su un modello**
+La regola viene estratta in base allo stato, che si aggiorna col tempo
+
+**Agenti con obiettivo**
+Aumenta la complessità, vogliamo aggiungere flessibilità. Mentre prima l'obiettivo era fissato dal programmatore (ovvero in modo abbastanza rigido) sarebbe comodo specificarlo a seconda del caso.
+es. un cammino per raggiungere una certa destinazione
+
+**Agenti con valutazione di attività**
+Oltre all'obiettivo hanno anche una funzione di utilità. Permette di scegliere il miglior obiettivo da raggiungere, non tutti lo hanno lo stesso livello, potrebbero essere anche in conflitto.
+
+**Agenti che apprendono**
+L'architettura si semplifica grazie all'apprendimento, di adattarsi in manierza semi- automatica a quello che succede.
+La permanenza dell'agente nell'ambiente
+Il programma non è fissato ma può mutare in base all'esperienza che viene accumulata
+
+**Tipi di rappresentazione dello stato**
+Rappresentazione
+
+- atomico: indivisibile, navigare in una mappa da una città all'altra
+
+- *fattorizzata* : distanza fra stati, dare delle metriche, anche nel ML, dove le informazioni sono codificate in vettori di feature
+- *strutturata*: la più sofisticata, rappresentiamo oggetti e relazioni fra questi oggetti, basati sulla logica (stiamo aggiungendo esplicitamente le relazioni)
+
+IA come progettazione di agenti e programmi agente
+
+Massima misura di prestazioni, classificazione dei problemi PEAS,
+Dipendenza dalla lettura dell'ambiente. Tutti gli aspetti possono migliorarsi con l'apprendimento.
+
+## Agenti risolutori di problemi
+
+Agenti con modello, con obiettivo
+Rappresentazione atomica dello stato
+Immaginiamo che verrà eseguito l'intero piano
+
+Tutto è nel dseign. É solo un'introduzione
+
+Assunzioni:
+Ambiente statico, osservabile, discreto, determinisitico
+L'agente può eseguire il piano ad occhi chiusi 
+
+Formulazione in 5 componenti:
+
+- stato iniziale
+- azioni possibili in esso
+- modello di transizione (coppia <stato, azione> -> stato')
+
+1,2,3 definiscono implicitamente lo *spazio degli stati*.
+
+- test obiettivo
+- costo del cammino: non è mai negativo
+
+**Ricerca**: il processo che cerca una sequenza di azioni che raggiunge l'obiettivo
+misura prestazioni: quanto costa trovare la soluzione, quanto
+somma di 2 costi: costo della ricerca stessa e il costo (valutazione dell'algoritmo) del cammino soluzione. C'è un costo della ricerca e un costo della soluzione
+
+## Esempi di formulazioni
+
+Conoscenza implicita dell'ambiente: conosco solamente le azioni possibili nell'ambiente
+
+Il grafo è bipartito 
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210219153132017.png" alt="image-20210219153132017" style="zoom:33%;" />
+
+Le formulazioni possono avere costi diversi
+
+- formulazione incrementale: 178.000 miliardi di stati
+- formulazione incrementale 2: 2057 sequenze da considerare
+  es. 3.6 dell'AIMA, radice cubica di n!
+  ogni volta che aggiungete una regina 
+- formulazione a stato completo: metto tutte le regine sulla scacchiera, una per colonna. Azione: sposta la regina se minacciata
+
+**Dimostrazione di teoremi**
+É una ricerca nello spazio degli stati. 
+Albero di ricerca fra gli stati
+
+Anche nei problemi reali
+
+Si tengono 
+Un nodo rimane foglia (rimane nella *frontiera*) fintanto che non si decide di espanderlo. 
 
 # Risoluzione dei problemi come ricerca
 
