@@ -12,7 +12,7 @@ Prof. *Mario Pirchio*
 
 # Introduzione
 
-L'obiettivo del corso é fornire le conoscenze di  biologia e di neuroscienze necessarie per una moderna indagine  filosofica su importanti tematiche legate soprattutto alla Vita e alla filosofia della mente, quali *origine della Vita, embrione, mente, coscienza, percezioni, libero arbitrio*.
+L'obiettivo del corso è fornire le conoscenze di  biologia e di neuroscienze necessarie per una moderna indagine  filosofica su importanti tematiche legate soprattutto alla Vita e alla filosofia della mente, quali *origine della Vita, embrione, mente, coscienza, percezioni, libero arbitrio*.
 
 Lasciamo decidere totalmente agli scienziati questioni legate agli stili di vita, modelli sociali e ambiente? 
 
@@ -28,7 +28,7 @@ Nelle ultime lezioni del corso, inoltre, verranno discussi alcuni *recenti  tent
 
 Le parole d'ordine del corso sono *interdisciplinareità* e *nuove idee*.
 
-*Qual é il livello di complessità oltre il quale si manifestano coscienza e libero arbitrio?*
+*Qual è il livello di complessità oltre il quale si manifestano coscienza e libero arbitrio?*
 
 *Inizialmente verranno introdotti alcuni concetti basilari in biologia, come l'organizzazione gerarchica delle strutture biologiche e  la correlazione tra forma e funzione.*
 
@@ -132,7 +132,7 @@ Le reazioni solitamente coinvolgono cambiamenti nella distribuzione di elettroni
 
 > La locazione di un certo elettrone in un atomo in un qualsiasi momento è impossibile da determinare. Possiamo solo descrivere un volume di spazio all'interno dell'atomo entro il quale l'elettrone è possibile si trovi.
 
-**orbitale**: non è un orbita in senso stretto, è più simile a una nube/sfera. É una regione di spazio intorno al nucleo nella quale è probabile trovare un elettrone (vi si trova circa il 90% del tempo).
+**orbitale**: non è un orbita in senso stretto, è più simile a una nube/sfera. È una regione di spazio intorno al nucleo nella quale è probabile trovare un elettrone (vi si trova circa il 90% del tempo).
 
 Un orbitale può essere occupato al massimo da 2 elettroni. 
 **electron shell** (guscio orbitale): la regione circostante il nucleo ad un livello di energia fisso nel quale gli elettroni orbitano.
@@ -172,7 +172,7 @@ Un legame *covalente* prevede la compartecipazione di 2 elettroni di valenza fra
 
 **Elettronegatività**
 
-La molecola dell'acqua è *polare*. Ciò vuol dire che l'atomo di ossigeno attrae molto verso di sé le due coppie di elettroni dei legami covalenti con l'idrogeno, pertanto si trovano più vicino al nucleo dell'ossigeno che a quello dell'idrogeno. 
+La molecola dell'acqua è *polare*. Ciò vuol dire che l'atomo di ossigeno attrae molto verso di sè le due coppie di elettroni dei legami covalenti con l'idrogeno, pertanto si trovano più vicino al nucleo dell'ossigeno che a quello dell'idrogeno. 
 Di conseguenza l'atomo di ossigeno si trova ad essere un po' più carico *negativamente* e i 2 atomi di idrogeni sono un po' carichi *positivamente*.
 
 <img src="/home/ludo/.config/Typora/typora-user-images/image-20210218154548701.png" alt="image-20210218154548701" style="zoom: 67%;" />
@@ -190,7 +190,7 @@ Prendiamo il cloruro di sodio: l'atomo di sodio ha 1 elettrone nel suo strato di
 
 *Per la presenza delle cariche di segno opposto anioni e cationi si attraggono con una forza detta **legame ionico.***
 
-É importante notare che il sodio e il cloro sono abbondanti al di fuori dei neuroni, sono alla base del funzionamento di essi.
+È importante notare che il sodio e il cloro sono abbondanti al di fuori dei neuroni, sono alla base del funzionamento di essi.
 
 <u>?? Composti ionici o sali, forza dei legami ionici in aria e in acqua ??</u> 
 
@@ -220,7 +220,7 @@ La funzione chimica di una molecola è in relazione con la sua forma. Molecole b
 
 **Reazioni chimiche**
 La formazione e la rottura dei legami chimici (che portano a modifiche della composizione della materia) vengono chiamate *reazioni chimiche*.
-La materia in una reazione chimica non viene né creata né distrutta, ma ridistribuita.
+La materia in una reazione chimica non viene nè creata nè distrutta, ma ridistribuita.
 
 Possiamo immaginare un *Demiurgo* trasformatore che trasforma continuamente la materia, piuttosto che un Demiurgo creatore. 
 
@@ -228,7 +228,7 @@ Possiamo immaginare un *Demiurgo* trasformatore che trasforma continuamente la m
 >
 > La figura del Demiurgo, senza il quale «è impossibile che ogni cosa abbia nascimento», non è propriamente un dio generatore come quello cristiano, ma piuttosto ordinatore: egli dà il soffio vitale a una materia informe e ingenerata che preesiste a lui.
 >
-> Fu descritto all'inizio da Platone soltanto come ipotesi cosmologica che ha carattere verosimile, cioè in forma di mito, di cui egli si serviva come in altri casi per descrivere in modo intuitivo e narrativo, anziché con una rigorosa argomentazione dimostrativa, un aspetto del suo pensiero particolarmente difficile da illustrare e comprendere.
+> Fu descritto all'inizio da Platone soltanto come ipotesi cosmologica che ha carattere verosimile, cioè in forma di mito, di cui egli si serviva come in altri casi per descrivere in modo intuitivo e narrativo, anzichè con una rigorosa argomentazione dimostrativa, un aspetto del suo pensiero particolarmente difficile da illustrare e comprendere.
 >
 > «Artefice e padre dell'universo», il Demiurgo è nel mito platonico una forza ordinatrice, imitatrice, plasmatrice, che vivifica la materia, dandole una forma, un ordine, e soprattutto un'Anima Mundi. 
 
@@ -243,7 +243,7 @@ In situazioni svantaggiose l'uomo non può resistere, ma vi sono batteri, ad ese
 L'acqua è per ovvie ragioni fondamentale per la vita, si sa che sulla Terra la vita ha avuto origine proprio nell'acqua per spostarsi successivamente sulla terraferma.
 Sappiamo anche che le cellule sono formate per il 70-95 % di acqua.
 
-*?Qual é la caratteristica chimica che l'ha resa così importante?* 
+*?Qual è la caratteristica chimica che l'ha resa così importante?* 
 Il fatto di avere una molecola *polare* e di permettere  il formarsi di *legami idrogeno*.
 
 Senza i legami idrogeno l'acqua bollirebbe a -120°C. Grazie all'energia (fornita ad esempio da un fornello a gas) si riesce a strappare questi legami idrogeno e a rendere queste molecole più libere così che queste possano evaporare.
@@ -256,7 +256,7 @@ Quasi tutte le sostanze quando si solidificano si contraggono diventando più pe
 L'acqua quando si solidifica diventando ghiaccio invece si espande diventando così più leggera. 
 Se  il ghiaccio non galleggiasse non si sarebbe creata la vita per via del congelamento dell'acqua dei laghi, stagni e perfino dei mari/oceani. Invece galleggiando lo strato ghiacciato superficiale protegge l'acqua liquida dal contatto con l'aria più fredda:  l'acqua sottostante si mantiene liquida, permettendo così la vita
 
-*?Perchè questo è dovuto alla polarità dell'acqua?*
+*?Perchéè questo è dovuto alla polarità dell'acqua?*
 Nell'acqua liquida la maggior parte delle molecole risultano legate con legami idrogeno (*non tutte*) ed è importante notare che questi legami vengono continuamente rotti e riformati. 
 Quando invece l'acqua si solidifica e diventa ghiaccio *tutte* le molecole si legano fra loro con legami idrogeno formando un retacolo cristallino in cui le molecole risultano più distanti di quanto avviene nell'acqua liquida. Di conseguenza diminuisce la densità del ghiaccio rispetto all'acqua e ciò gli permette di galleggiare.
 
@@ -284,7 +284,7 @@ In questa maniera le molecole di acqua circondano gli atomi di sodio, con gli at
 Le molecole d'acqua avvolgono così gli atomi di cloro con gli atomi di idrogeno più vicini a questi.
 *guscio di idratazione*: lo formano ad esempio le molecole d'acqua disposte intorno al sodio e al cloro ordinatamente come nel caso sopra (ne riparleremo per i neuroni).
 
-Per potersi sciogliere in acqua un composto non deve essere necessariamente di tipo ionico (un sale). É sufficiente che sulla superficie vi siano un numero sufficiente di regioni ionizzate, cioè con cariche unitare (es. cloruro di sodio) o di regioni polari, cioè con cariche parziali.
+Per potersi sciogliere in acqua un composto non deve essere necessariamente di tipo ionico (un sale). È sufficiente che sulla superficie vi siano un numero sufficiente di regioni ionizzate, cioè con cariche unitare (es. cloruro di sodio) o di regioni polari, cioè con cariche parziali.
 *C'è un'attrazione reciproca fra le molecole d'acqua e qualsiasi regione ionica o polare di una molecola.*
 
 *sostanze idrofile*: tutte le sostanze che si sciolgono in acqua o che assorbono acqua (es. cotone) anche senza sciogliersi.
@@ -303,7 +303,7 @@ PCB: policlorobifenili, ce li ritroviamo nelle farine, si accumulano anche nel l
 | idrofoba | molti legami covalenti C - H |
 
 L'essere solida o liquida è una *proprietà emergente* delle molecole d'acqua. Le singole molecole non sono nè liquide nè solide. 
-É difficile dire se un pezzo di cervello (dei neuroni) sia vivo o no.
+È difficile dire se un pezzo di cervello (dei neuroni) sia vivo o no.
 
 Quando una sostanza si scioglie in acqua si ottiene una *soluzione*. L'acqua è il *solvente*, la sostanza disciolta è il *soluto*.
 
@@ -364,7 +364,7 @@ Vi sono 4  classi principali di macromolecole biologiche: *carboidrati, lipidi, 
 
 I polimeri sono una sequenza di monomeri. 
 
->Col termine monomero (dal greco una parte) in chimica si definisce una molecola semplice dotata di gruppi funzionali tali da renderla in grado di combinarsi ricorsivamente con altre molecole (identiche a sé o reattivamente complementari a sé) a formare macromolecole. 
+>Col termine monomero (dal greco una parte) in chimica si definisce una molecola semplice dotata di gruppi funzionali tali da renderla in grado di combinarsi ricorsivamente con altre molecole (identiche a sè o reattivamente complementari a sè) a formare macromolecole. 
 >
 >Per estensione, il termine viene usato anche per identificare l'unità strutturale ripetitiva che forma un polimero (detta più propriamente "unità ripetitiva" del polimero).
 >Il processo di trasformazione del monomero a polimero si chiama polimerizzazione 
@@ -414,8 +414,8 @@ Sono formati da due zuccheri semplici (monomeri), ad esempio maltosio, saccarosi
   ​	L'amido si trova nei vegetali (tuberi, patate, semi cereali); è composto da tue tipi di 		polimeri, amilosio e amilopectina.
 
   - I polisaccaridi strutturali come la *cellulosa*  sono materiale da costruzione per la sintesi di varie strutture. 
-    La cellulosa è il materiale organico più abbondante sulla Terra, non è digeribile dall'uomo ma solo da alcuni batteri (le termiti e i ruminanti riescono a mangiare il legno perchè hanno dentro di loro questi batteri). 
-    La cellulosa forma catene lineari, dritte, mai ramificate, tenute insieme parallelamente da legami idrogeno.
+    La cellulosa è il materiale organico più abbondante sulla Terra, non è digeribile dall'uomo ma solo da alcuni batteri (le termiti e i ruminanti riescono a mangiare il legno perché hanno dentro di loro questi batteri). 
+    La cellulosa forma catene lineari, dritte, mai ramificate, tenute insieme parallelamente da *tanti legami idrogeno*.
     Circa 80 molecole di cellulosa si associano a formare una microfibrilla, la principale unità strutturale della *parete delle cellule vegetali*, una struttura così rigida da consentire alle sequoie di raggiungere i 100 metri.
 
   Una piccolissima diversità nella forma (disposizione di alcune molecole) causa la differenza fra  amilosio (amido, digeribile) e cellulosa (non digeribile):
@@ -547,7 +547,7 @@ Ad esempio qui si viene a formare una molecole di acqua all'unione del gruppo ca
 
 Lo scheletro della catena carboniosa è N-C-C, come avevamo visto il carbonio consente la creazione di catene lunghe e stabili. Notare che le catene laterali sono libere.
 
-*lisozima*: è un polipeptide, è un piccolo enzima che attacca la parete cellulare dei batteri si trova ad esempio nelle lacrime, ci aiuta ad uccidere i batteri. É formato da 129 amminoacidi, legati fra di loro da legami peptidici:
+*lisozima*: è un polipeptide, è un piccolo enzima che attacca la parete cellulare dei batteri si trova ad esempio nelle lacrime, ci aiuta ad uccidere i batteri. È formato da 129 amminoacidi, legati fra di loro da legami peptidici:
 <img src="https://giubilesiassociati.com/wp-content/uploads/2020/03/lisozima.jpg" alt="Il lisozima: un potente antimicrobico naturale" style="zoom:33%;" />
 
 Il trucco consiste nel raggomitolare gli amminoacidi così da poterci costruire "nano-forchettine" molecolari. 
@@ -560,12 +560,12 @@ La conformazione di una proteina è determinata dalle sequenza dei suoi amminoac
 <img src="/home/ludo/.config/Typora/typora-user-images/image-20210223093819511.png" alt="image-20210223093819511" style="zoom: 50%;" />
 
 La striscia viola è lo scheletro del polipeptide, come si può notare i gruppi variabili liberi formano dei legami fra di loro che danno una forma al polipeptide.
-Il demiurgo utilizza il carbonio per comporre catene lunghe e stabili e successivamente usa delle molecole come gli amminoacidi con un gruppo laterale libere per consentire
+Il *Demiurgo* utilizza il carbonio per comporre catene lunghe e stabili e successivamente usa delle molecole come gli amminoacidi con un gruppo laterale libero per consentire il raggomitolamento
 
-Questi legami possono venire spezzati, ad esempio assumendo nicotina, *qualche droghetta, un po' di cocaina,* qualche farmaco (es. valium) queste vanno ad interagire con le proteine che stanno sulla membrana dei neuroni. La presenza di queste sostanze può rompere questi legami e crearne di altri, modificando la forma e di conseguenza modificando la funzione.
+Questi legami possono venire spezzati, ad esempio assumendo nicotina, *qualche droghetta come  un po' di cocaina,* qualche farmaco (es. valium) queste vanno ad interagire con le proteine che stanno sulla membrana dei neuroni. La presenza di queste sostanze può rompere questi legami e crearne di altri, modificando la forma e di conseguenza modificandone la funzione.
 
 *?Se sostituisco un amminoacido con un altro?*
-Alcuni amminoacidi sono polari, alcuni acidi ecc.. quindi i ripiegamenti possono risultare alterati, con funzioni alterate, se la sostituizione produce una notevole alterazione delle interazioni fra i gruppi R. Si ottiene quindi una proteina alterata, con funzioni alterate. 
+Alcuni amminoacidi sono polari, alcuni acidi ecc.. quindi i ripiegamenti possono risultare alterati, con funzioni alterate se la sostituizione produce una notevole alterazione delle interazioni fra i gruppi R. Si ottiene quindi una proteina alterata, con funzioni alterate. 
 
 <img src="/home/ludo/.config/Typora/typora-user-images/image-20210223095618281.png" alt="image-20210223095618281" style="zoom:50%;" />
 
@@ -601,7 +601,7 @@ RNA: acido *ribonucleico*, DNA: acido *desossiribonucleico*.
 
 <img src="/home/ludo/.config/Typora/typora-user-images/image-20210223111444165.png" alt="image-20210223111444165" style="zoom:50%;" />
 
-Le basi azotate sono anelli in cui è presente carbonio e azoto, *Citosina (C), Timina(T) Uracile(U)*. Le basi azotate si dividono in *pirimidine *(un anello) e *purine* (due anelli):
+Le basi azotate sono anelli in cui è presente carbonio e azoto, *Citosina (C), Timina(T) Uracile(U)*. Le basi azotate si dividono in *pirimidine* (un anello) e *purine* (due anelli):
 
 - *pirimidine*
   - Citosina, C
@@ -618,16 +618,16 @@ La sequenza di basi azotate determina la sequenza degli amminoacidi (struttura p
 
 Nel caso dell'*anemia falciforme* vuol dire che è presente una base azotata che codifica una valina al posto del glutammato.
 
-Per proteggere  l'informazione del DNA si viene a formare una doppia elica, con scheletro *zucchero-fosfato* all'esterno e basi azotate all'interno, vengono così a formarsi legami idrogeno.
+Per proteggere l'informazione del DNA si viene a formare una doppia elica, con scheletro *zucchero-fosfato* all'esterno e basi azotate all'interno, vengono così a formarsi tanti legami idrogeno che danno forza alla struttura.
 
 <img src="https://fisiologicamente.altervista.org/wp-content/uploads/2016/10/dna-rna.jpg" alt="Biologia | Gli acidi nucleici: DNA e RNA | Fisiologicamente" style="zoom:50%;" />
 
-Gli accoppiamenti seguono delle *regole* precise: GC, AT/AU.
+Gli accoppiamenti seguono delle *regole* precise: GC, AT/AU (Claver Gold A Terni / A Urbino).
+L'accoppiamento deriva anche dal fatto che da una parte deve esserci una pirimidina e dall'altra una purina (in totale 3 anelli).
+
 Quando una cellula si prepara per dividersi i due filamenti della doppia elica si separano, ed ognuno di essi serve da stampo per il nuovo filamento.
 
-
-
-### Riassunto concetti
+### Panoramica
 
 <img src="/home/ludo/.config/Typora/typora-user-images/image-20210223114606524.png" alt="image-20210223114606524" style="zoom: 50%;" />
 
@@ -654,18 +654,21 @@ Diciamo che un essere è vivente quando presenta:
 - *metabolismo*, saper scomporre sostanze e ricostruirne
 - *omeostasi*, rimanere uguali a sè stessi nel tempo
 - *interazione* con l'ambiente esterno
-- *adatammento*
+- *adattamento*
 - *crescita*
 - *riproduzione*
 
 Senza queste proprietà è difficile parlare di vita.
 
-Le cellule sono autosufficienti e possiamo associare loro la metfaore della *casa*.
+Le cellule sono autosufficienti e possiamo associare loro la seguente metafora: la cellula è come una *casa*.
 Ci sono organsimi *unicellulari* e *pluricellulari*. Un problema che nasce da questi ultimi è la *coordinazione* dell'insieme di cellule.
 
 Gli esseri viventi si classificano tassonomicamente in due domini: *eucarioti* e *procarioti*. 
 Gli eucarioti (*dal greco eu «buono» e káryon «nucleo»*) costituiscono il dominio più complesso e includono cinque regni: piante, funghi, animali, protisti e cromisti. 
-I procarioti (*dal greco pro «prima» e karyon «nucleo»*) includono due regni, Archaea e Bacteria, e sono caratterizzati dall'essere privi di un sistema endomembranoso; in particolare mancano di un nucleo strutturato, al contrario degli eucarioti.
+I procarioti (*dal greco pro «prima» e karyon «nucleo»*) includono due regni, Archaea e Bacteria, e sono caratterizzai dall'essere 
+
+- privi di un sistema endomembranoso; 
+  - in particolare mancano di un nucleo strutturato, al contrario degli eucarioti.
 
 Le cellule procariotiche ed eucariotiche si somigliano per molti aspetti:
 
@@ -676,7 +679,7 @@ Ma si differenziano per:
 - *dimensioni*, 1-10 micron procariotiche, mentre 10-100 micron per le eucariotiche 
 - scomparti delimitati da membrane (assenti nelle procariotiche)
 
-Per fare 1 millimetro, acendo cellule di 50 micron, devo metterne 20 in fila.
+Per avere 1 millimetro con cellule eucariotiche di 50 micron, devo metterne 20 in fila.
 
 Le cellule nervose hanno dei prolungamenti, fino ad 1 metro (filamenti dal midollo spinale al piede), e anche le cellule muscolari possono essere molto più lunghe di 100 micron.
 
@@ -690,369 +693,970 @@ Organismi più grandi => maggior numero di cellule (non cellule più grandi).
 <img src="https://www.chimica-online.it/biologia/immagini/cellula-eucariota.jpg" alt="Protisti" style="zoom:67%;" />
 
 **Membrana plasmatica**
-Useremo un doppio strato delle macro-molecole fosfolipidiche. 
+È formata un doppio strato delle macro-molecole fosfolipidiche. 
 La membrana plasmatica è l'*impermeabile* delle cellule.
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210301183641045.png" alt="image-20210301183641045" style="zoom: 50%;" />
 
 **Nucleo**
-É composto dall'involucro nucleale, cromatina e nucleolo.
+È composto dall'involucro nucleale, cromatina e nucleolo.
 Il DNA è contenuto principalmente qui dentro, ed una piccola parte nei mitocondri.
 
 <img src="https://tse4.mm.bing.net/th?id=OIP.-PkPayAuNJAUonhPVP6R6gHaEY&pid=Api" alt="La cellula eucariote vegetale – Esposizione Scienze 2017 ..."  />
 
 L'involucro nucleare è formato da una doppia membrana (ognuna formata da un doppio strato lipidico con proteine) ed è perforato da *pori*. Attraverso questi possono transitare alcune proteine.
-Il DNA è associato a delle proteine. La cromatina ha un aspetto a filamento, perchè è così filamentoso? É un ricettario, chiuso non si riesce a leggerlo. Il DNA è tutto sfilacciato perchè deve poter essere letto. In un momento in cui la lettura non si può fare il ricettario verrà compattato -> cromosomi.
-Cromosomi (compatti) e cromatina (sfilacciato)
+Il DNA è associato a delle proteine con cui forma un materiale fibroso chiamato *cromatina*. Quando la cellula si riproduce tali fibre si ispessiscono divenendo visibili come strutture singole:  i *cromosomi*.
 
-Il nucleolo serve per la sinte
-L'RNA uscirà e andrà nel citoplasma.
+La cromatina ha un aspetto a filamento ed è così poiché svolge il ruolo di ricettario, se fosse chiuso non si riuscirebbe a leggerlo. 
+Il DNA è tutto sfilacciato perché deve poter essere letto. 
+In un momento in cui la lettura non si può fare il ricettario verrà compattato, ovvero durante la riproduzione cellulare quando si andranno a formare i cromosomi.
+*Cromosomi (compatti) e cromatina (sfilacciato).*
 
-Le proteine entrano ed escono attraverso questi pori, ci torneremo per i vaccini. Può uscire anche RNA, ma non esce il DNA.
+Il nucleolo non è provvisto di membrana e serve per la sintesi di RNA ribosomiale, cioè l'RNA che uscendo dai pori dell'involucro nucleare andrà nel citoplasma a formare i ribosomi.
 
-Il nucleo è la *cassaforte* della nostra cellula, anche se ha delle aperture. Il DNA è chiso lì dentro, c'è un buon motivo. É prezioso, va rispettato e protetto.
+*?cosa può entrare ed uscire dai pori dell'involucro nucleare?*
+Può uscire RNA e proteine ma non il DNA. 
+L'RNA uscirà e andrà nel citoplasma. Le proteine entrano ed escono attraverso questi pori, ci torneremo per i vaccini. 
+
+Il nucleo è la *cassaforte* della nostra cellula, anche se ha delle aperture. 
+Il DNA è chiso lì dentro, c'è un buon motivo. È prezioso, va rispettato e protetto.
 
 **Ribosomi**
-Tra nucleo e citoplasma.
-Rna + proteine
 
-I ribosomi sono formati da RNA ribosomiale e proteine. Servono a sintetizzare le proteine. Possono essere legati (vicini alle membrane) o liberi (sospesi nel citoplasma).
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210301185739606.png" alt="image-20210301185739606" style="zoom: 67%;" />
 
-i ribosomi liberi producono proteine ad uso interno
-i ribosomi legati producono proteine per uso interneo per esportazione. É una separazione mobile, ogni tanto si sposta e si attaca al reticolo endoplasmatico.
+I ribosomi sono formati da RNA ribosomiale e proteine. 
+Servono a sintetizzare le proteine. 
+Possono essere legati (vicini alle membrane) o liberi (sospesi nel citoplasma).
+
+I ribosomi *liberi* producono proteine ad uso interno.
+I ribosomi *legati* producono proteine per uso interno e per esportazione. 
+È una separazione mobile, ogni tanto un ribosoma si sposta e si attacca al reticolo endoplasmatico.
 I ribosomi sono un *tavolo da lavoro* della cellula. 
 
-**Sistema endomembranoso**
-insieme di membrane
-Una delle differenze tra eucariotiche e procariotiche. Con le pareti creaimo scompartimenti.
+```mermaid
+graph LR
+id1(liberi)-->id2(nel citoplasma)-- proteine --->id3(uso interno)
+id4(legati)-->id5(alle membrane)-- proteine -->id6(uso interno + export)
+```
+
+#### Sistema Endomembranoso
+È un insieme di membrane presenti nel citoplasma.
+Comprende:
+
+- la membrana cellulare 
+- e tutta una serie di organuli che includono:
+  - l'involucro nucleare, il reticolo endoplasmatico, l'apparato del Golgi, i lisosomi, le vescicole e i vacuoli
+
+Tutte queste strutture interagiscono fra loro e svolgono principalmente la funzione di produrre lipidi, enzimi, e proteine destinati a essere secreti o a comporre la membrana cellulare.
+
+È una delle differenze tra eucariotiche e procariotiche. Con le pareti creiamo scompartimenti.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Endomembrane_system_diagram_en_%28edit%29.svg/1024px-Endomembrane_system_diagram_en_%28edit%29.svg.png" alt="img" style="zoom:33%;" />
 
 **Reticolo endoplasmatico**
-formato da tubuli e cisterne, liscio se privo di ribosomi legati
-Sintesi di steroidi
-Cellule del fegato immagazzinano il glicogeno
-Glicogeno è un polimero, formato da tanti polimeri di glucosio, possono essere spezzettati per essere usati 
+Il reticolo endoplasmatico è formato da tubuli e cisterne, è in comunicazione con l'involucro nucleare.
+È *liscio* se privo di ribosomi =>
 
-Sono il fegato ed i reni che eliminano sostanze nocive (cellule epatiche: barbiturici, alcool, droghe vengono nel reticolo endoplasmatico del fegato) Prolifera se
+- nelle ovaie e nei testicoli si occupa di sintesi di steroidi
+- nel fegato immagazzina il glicogeno metabolizzando i carboidrati (*il glicogeno è un polimero, formato da tanti polimeri di glucosio, possono essere spezzettati per essere usati*)
+- nel fegato e nei reni eliminano sostanze nocive (cellule epatiche: barbiturici, alcool, droghe vengono eliminati nel reticolo endoplasmatico del fegato)
 
-Le parti all'interno delle cellule non hanno una quantità fissa, ma risponde alle esigenze. Le sostanze sono smaltite dal fegato. Le cellule
-Aumenta la quantità di reticolo endoplasmatico del fegato: proliferazione.
-Si abitua
-L'efficienza è sempre a livello cellulare, allenamento! allenamento! allenamento! allenamento!
-Le modifiche sono a livello cellulare!
+*Proliferazione*
+Aumenta la quantità di reticolo endoplasmatico del fegato; le parti all'interno delle cellule non hanno una quantità fissa, ma rispondono alle esigenze.
+
+> *Potere dell'abitudine*
+> L'efficienza è sempre a livello cellulare, allenamento, allenamento e allenamento!
+> Le modifiche sono a livello cellulare.
+
+È *rugoso* quando sono presenti ribosomi =>
+
+- sintesi proteine export, di secrezione (penetrano all'interno del reticolo e poi *gemmazione* di vescicole di trasporto)
+- produzione proteine e fosfolipidi per altri componenti del sistema endomembranoso, usando le vescicole di trasporto
 
 **Apparato del Golgi**
-É una centrale di smistamento, devo confezionare le sostanze da esportare. 
-Non é del tutto noto come vengono esportate??
-Le vescicole *gemmano* poi si fondono con la membrana. Come esporto le sostanze? Il doppio strato fosfolipidico diventa una cosa unica e ciò che è interno fuoriesce.
-Le vescicole come fanno a spostarsi?
-É possibile anche l'opposto.
+È una centrale di smistamento per confezionare le sostanze da esportare all'esterno della cellula.
+*Non è del tutto noto come vengono esportate.*
+
+Dal reticolo endoplasmatico rugoso provengono le vescicole di trasporto con materiale proteico che viene elaborato nuovamente.
+Le vescicole *gemmano* poi si fondono con la membrana. Vengono formate anche nuove vescicole di trasporto che andandosi a fondere con la membrana plasmatica riversano il proprio contenuto all'esterno della cellula.
+*?Come esporto le sostanze, come fanno le vescicole a spostarsi?* 
+?? Il doppio strato fosfolipidico diventa una cosa unica e ciò che è interno fuoriesce.
+È possibile anche l'opposto! Possono anche entrare vescicole.
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210301201442398.png" alt="image-20210301201442398" style="zoom:50%;" />
 
 **Lisosomi**
 Ultima componente del reticolo endoplasmatico.
-Vescicole aggrediscono e scindono tutte le macromolecole organiche. Pericolo di autolisi, autodigestione.
-Fagocitosi, le amebe (unicellulari) ricavano il nutrimeno per fagocitosi, la particella alimentare esterna viene inglobata, successivamente i lisosomi digeriscono, grazie.
-Il verbo *litico* (sciogliere) 
-Autofagia, materiale interno alla cellula danneggiato i lisosomi li digeriscono. I monomeri organici vengono *riciclati*, così da potersi rigenerare automamente.
-Intervengono durante la metamorfosi degli anfibi. 
-Quale concetto?
-Lisosomi *riciclano*.
+Sono vescicole che aggrediscono e scindono tutte le macromolecole organiche (enzimi litici, *dal greco lytós "solubile, sciolto"*).
+*Pericolo di autolisi*! Ovvero morte cellulare per autodigestione.
 
-La longevità non sarà dovuta all'attività dei lisosomi? No dipende, da cosa dipende?
-Sono implicati nel processo di invecchiamento.
+Sono prodotti dal reticolo endoplasmatico rugoso e trasferiti all'apparato di Golgi che attiva gli enzimi idrolitici.
 
-**Covid, vaccini a mRNA**
-Da cosa sono fatti? Come funzionano?
-Il vaccino è composto, per avere un ingresso facile, da un mantello di fosfolipidi. Voglio che venga inglobato dalle cellule. Non c'è un meccanismo di riconoscimento per le cellule, non si sa quali lo prendano e quali no?
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210301202355391.png" alt="image-20210301202355391" style="zoom: 50%;" />
 
-Morte cellulare programmata, produciamo tante più cellule di quante ne abbiamo bisogno. Tutto è programmato nelle nostre cellule, in qualche modo.
+Fagocitosi, le amebe (unicellulari) ricavano il nutrimeno per fagocitosi, la particella alimentare esterna viene inglobata in vacuoli alimentari, successivamente si fondono con un lisosoma che li digerisce.
+
+Nell'uomo i *macrofagi* utilizzano la fagocitosi per distruggere batteri e altri microrganismi patogeni.
+
+*Autofagia*: digestione e inglobamento di materiale interno alla cellula. 
+Il materiale interno alla cellula danneggiato viene digerito dai lisosomi e *riciclato*! 
+I monomeri organici vengono *riciclati*, così da permettere una rigenerazione autonoma e continua della cellula.
+
+Intervengono nella distruzione parziale o totale delle cellule durante lo sviluppo di organismi pluricellulari, ad es. anche durante la metamorfosi degli anfibi e durante lo sviluppo dell'embrione umano. 
+
+Concetto: I lisosomi *riciclano*.
+
+*?La longevità non sarà dovuta all'attività dei lisosomi?* 
+Dipende anche da altri meccanismi biologici. L'autofagia, i lisosomi e i mitocondri sono fattori  implicati nel processo di invecchiamento.
+
+***Covid, vaccini a mRNA***
+*?Da cosa sono fatti? Come funzionano?*
+Il vaccino è composto, per avere un ingresso facile, da un mantello di fosfolipidi, si vuole che venga inglobato dalle cellule. 
+Apparentemente non c'è un meccanismo di riconoscimento per le cellule, essenzialmente non si sa quali cellule prendano il vaccino e quali no, appena vede una membrana cellulare ci va dentro.
+Però attraverso una puntura intramuscolo ecc.. dovrebbe essere garantita.
+
+*Morte cellulare programmata*
+Produciamo tante più cellule di quante ne abbiamo bisogno. Tutto è programmato nelle nostre cellule, in qualche modo.
 Il meccanismo di autolisi è il meccanismo principale per provocare la morte di queste cellule.
 
 **Mitocondri**
-Doppia membrana, una esterna ed una interna. Creste mitocondriali. É un trucco per aumentare la superficie. 
-Nelle case con i radiatori aumentiamo la superficie? boh
-Non fanno parte del sistema endomembranoso. Perchè? 
-Contengono ribosomi e una piccola quantità di DNA. sembra strano.. l'ipotesi è che questi mitocondri fossero delle cellule, poi inglobate. Ora sono degli organuli nelle cellule.
-L'ossigeno arriva nei mitocondri. Il vero utilizzo dell'ossigeno avviene nei mitocondri. 
-Autofagia e longevità, dipende dai mitocondri, si influenzano e in qualche modo si ha un ottimo.
-I mitocondri sono i radiatori/ la caldaia delle cellule.
-Sono i mitocondri a bruciare l'ossigeno e lo varie sostanze.
+Utilizzano l'ossigeno per bruciare molecole organiche come zuccheri e grassi, *respirazione cellulare*.
+L'ossigeno arriva nei mitocondri, il vero utilizzo dell'ossigeno avviene proprio qui.
+<img src="https://i.ytimg.com/vi/42FHW2XfKUA/maxresdefault.jpg" alt="Schema respirazione cellulare (animazione) - YouTube" style="zoom:50%;" />
+
+*globuli rossi*: sono cellule del sangue; la funzione principale dei globuli rossi è il trasporto dell'ossigeno dai polmoni verso i tessuti e di una parte dell'anidride carbonica dai tessuti ai polmoni, che provvedono all'espulsione del gas all'esterno del corpo. 
+Fanno parte degli elementi figurati del sangue insieme ai leucociti e alle piastrine. Nei mammiferi sono privi di nucleo, mentre nei restanti vertebrati (come gli uccelli) ne sono provvisti. 
+
+*emoglobina*: è una proteina globulare; è solubile e di colore rosso. È presente nei globuli rossi dei vertebrati (esclusi alcuni pesci antartici) per i quali svolge la funzione vitale di trasporto dell'ossigeno molecolare da un compartimento ad alta concentrazione di O2, il sangue arterioso, ai tessuti. 
+
+> I polmoni,  i globuli rossi e l'emoglobina non fanno altro che trasportare l'ossigeno ai mitocondri.
+
+Hanno una doppia membrana, una esterna ed una interna, ognuna formata da un doppio strato fosfolipidico. Quella esterna ha un profilo regolare mentre quella interna è pieghettata formando creste mitocondriali. È un trucco per aumentare la superficie (..?come i radiatori nelle case?..)
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210301210135862.png" alt="image-20210301210135862" style="zoom: 50%;" />
+
+*Oss: non fanno parte del sistema endomembranoso. Contengono ribosomi e una piccola quantità di DNA*
+È piuttosto strano, l'ipotesi più accreditata è che fossero delle cellule indipendenti e che siano state inglobate da altre cellule adattandosi al ciclo di vita di queste. Ora sono degli organuli all'interno delle cellule. Dal caso è divenuto poi necessità, portando vantaggi interni.
+*I mitocondri sono i radiatori/la caldaia delle cellule.* 
 
 L'avvenelamento da cianuro avviene proprio nei mitocondri.
 
-**Citoscheletro**
-La membrana non è rigida. Fornisce un supporto meccanico alla cellula. Manca la parete delle cellule vegetali.
-La parete delle cellule vegetali è composta di cellulosa, polimero di glucosio. 
-Il citoscheletro è molto dinamico. Formato da 3 
+#### **Citoscheletro**
+La membrana non è rigida pertanto il citsoscheletro, lo scheletro della cellula, fornisce un supporto meccanico. 
+Nelle cellule animali manca la parete delle cellule vegetali la quale è composta di cellulosa, polimero di glucosio. É molto robusta al punto tale da permettere alle sequoie di superare i 100 metri. 
+
+Il citoscheletro è molto dinamico, può essere smantellato e ricostruito per dare alla cellula un nuovo assetto.
+Il citoscheletro è formato da 3 tipi di strutture fibrillari: microtubuli, microfilamenti e filamenti intermedi.
 
 **Microtubuli**
-Servono da binari lungo cui si spostano gli organuli provvisti di molecole motrici (alimentate da ATP). 
-Cosa ci ricorda questo modo di camminare? 2001 odissea nello spazio.
+Servono da *binari* lungo cui si spostano gli organuli (es. mitocondri) o vescicole provvisti di molecole motrici (alimentate da ATP), come le vescicole secretorie dall'apparato di Golgi alla membrana plasmatica. 
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210305192059568.png" alt="image-20210305192059568" style="zoom:50%;" />
+
+Le molecole motrici che si attaccano ai recettori di un organulo possono far muovere l'organulo lungo i microtubuli. Il movimento è unidirezionale verso la periferia della cellula e microtubuli si creano e assemblano autonomamente.
+In questo modo le vescicole che contengono neurotrasmettitori si portano all'apice degli assoni della cellula nervosa.
+
+Le *chinesine* sono una famiglia di proteine facenti parte della famiglia dei motori proteici (insieme a miosina e dineina). Sono capolavori della microingegneria, sono macchine di trasporto motorizzate. Hanno due piedi, le teste globulari che camminano letteralmente un piede avanti all'altro. Conosciute anche come "cavalli da lavoro delle cellule," le chinesine possono trasportare merce molte volte più grande di loro. Fanno fino a 100 passi al secondo, 8nm a passo, quindi 800nm/s.
+A volte più chinesine si uniscono per avere più forza. 
+
+![Kinesin (a motor protein) pulling some kind of vesicle ...](http://i.imgur.com/3syZ5kB.gif)
+(https://www.youtube.com/watch?v=y-uuk4Pr2i8,  )
+
+*?Cosa ci ricorda questo modo di camminare?*
+-2001 odissea nello spazio->
+
+<img src="https://digilander.libero.it/stanleykubrick/2001/images/steward.gif" alt="https://digilander.libero.it/stanleykubrick/2001/images/steward.gif" style="zoom: 67%;" />
 Sono responsabili del movimento di ciglia e flagelli (spermatozoi).
-All'interno di ciglia e flagelli: 9+2 microtubuli.
+All'interno di ciglia e flagelli troviamo 9 coppie di microtubuli ad anello e 2 centrali.
 
 Coscienza e libero arbitrio: non è concepibile che le cellule si rifiutino di svolgere il loro compito.
-*Hameroff, Penrose*: coscienza deriva dai microtubuli: Neural basisi for emergent consciusness?
+*Hameroff, Penrose*: coscienza deriva dai microtubuli: Neural basis for emergent consciusness?
 
-**microfilamenti**
+**Filamenti intermedi**
+Consolidano la forma tipica di una cellula (ad es. neuroni). Fissano la posizione di alcuni organuli all'interno della cellula.
 
-**filamenti intermedi**
-Consolidano.. boh
+### Produzione di energia nella cellula
 
-|               |                                                              |
-| ------------- | ------------------------------------------------------------ |
-|               |                                                              |
-|               |                                                              |
-|               |                                                              |
-|               |                                                              |
-|               |                                                              |
-| Citoscheletro | Microtubuli: binari<br />Microfilamenti<br />Filamenti intermedi |
+Il *meccanicismo* permea tutta la teoria cellulare.
+Per svolgere le funzioni le cellule anno bisogno di energia. 
 
+Le 2 leggi della termodinamica governano le trasformazioni di energia nei sistemi biologici, una reazione biochimica può rilasciare o consumare energia e può non arrivare a compimento ma invece può terminanre in un punto di equilibrio.
 
+- Per la prima legge della termodinamica l'energia non può essere né creata né distrutta, può solo essere trasferita e trasformata
+- Per la seconda legge della termodinamica quando l'energia viene convertita da una forma ad un'altra, parte di quell'energia diventa indisponibile per compiere lavoro => 
+  - nessuna reazione chimica è efficiente al 100%
+  - parte di questa energia è persa in una forma associata al disordine
+    disordine: un tipo di casualità dovuto al movimento termico delle particelle
+    - *entropia*: misura del disordine in un sistema. Reazioni spontanee in un sistema sono sempre accompagnate da un'innalzamento di entropia
 
- ## Produzione di energia nella cellula
+*Ci vuole energia per imporre ordine a un sistema, e a meno che l'energia non sia applicata ad un sistema essa sarà organizzata randomicamente o in modo disordinato*.
 
-Meccanicismo che permea tutta la teoria cellulare.
-Per svolgere le funzioni le cellule anno bisogno di energia; prima legge termodinamica: l'energia non può essere nè creata nè distrutta.
-L'energia può essere trasferita e trasformata.
-Nel motore a scoppio l'energia viene liberata dalla combustione delle molecole organiche (benzina). Degradazione veloce con utilizzo di ossigeno.
-Anche le cellule liberano energia da molecole organiche. C'è una grossa differenza, la nostra è molto più lenta, controllata ed efficiente. Nel motore a scoppio viene convertita solo la minor parte (15-20%) in energia meccanica ed il resto in calore.
+*Il disordine tende a incrementare*. 
+
+>Getting ordered is coupled to the generation of disorder. 
+>Making 1 kg of a human body (soft tissues, not bones) requires the catabolism of about 10 kg of highly ordered biological materials (our food), which are converted into CO2, H2O, and other simple molecules. So this process creates far more disorder (more energy is lost to entropy in the small molecules) than the amount of order (total energy; enthalpy) stored in large molecules in 1 kg of a person.
+
+Nel *motore a scoppio* l'energia viene liberata dalla combustione delle molecole organiche (benzina), vi è una degradazione veloce con utilizzo di ossigeno.
+Anche le cellule *liberano* energia da molecole organiche, ma c'è una grossa differenza, la nostra è molto più lenta, controllata ed efficiente. Nel motore a scoppio viene convertita solo la minor parte (15-20%) in energia meccanica ed il resto in calore.
+
 Nelle nostre cellule l'efficienza è quasi totale (99%), il calore è quasi nullo. I brividi ad esempio,  sono utili grazie alla piccola inefficienza degli organelli . Il calore è "perso". 
-L'eccesso di calore fa male ai neuroni. L'energia non viene nè prodotta nè distrutta ma liberata. Degradazione si chiama *catabolismo*
+L'eccesso di calore fa male ai neuroni. L'energia non viene né prodotta né distrutta ma liberata. Il processo di degradazione si chiama *catabolismo*.
 
-### Respirazione cellulare
+La via catabolica principale è la respirazione cellulare.
+
+L'energia *potenziale* presente nei legami chimici di carboidrati e lipidi può essere convertita in energia potenziale nella forma di ATP. Questa può poi essere convertita in energia *cinetica* per fare lavoro meccanico (es. contrazione di muscoli) o lavoro biochimico (sintesi di proteine).
+
+Nei sistemi biologici l'energia totale (usabile + non usabile per produrre lavoro) viene chiamata *entalpia* mentre l'energia usabile viene chiamata *energia libera*.
+
+#### Respirazione cellulare
 
 La respirazione cellulare avviene nei mitocondri.
 
-Ossigeno -> emoglobina-> prossimità delle cellule, per diffusione (passa attraverso il doppio strato fosfolipidico), non ha bisogno di energia (come  il profumo che si espande per la stanza)
--> mitocondri, le brucia -> anidride carobonica -> viene buttata furoi sempre nell'emoglobina -> polmoni
+L'ossigeno che respiriamo arriva ai polmoni, si trasferisce nei globuli rossi e viene trasportato dall'emoglobina fino in prossimità delle cellule, dove entra per diffusione (passa attraverso il doppio strato fosfolipidico), non ha bisogno di energia (come  il profumo che si espande per la stanza).
+Arriva poi nei mitocondri dove viente utilizzato per bruciare molecole organiche. Viene prodotta anidride carobonica che esce per diffusione e viene buttata furoi sempre nell'emoglobina fino ai  polmoni. Viene anche prodotta acqua.
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210307103419152.png" alt="image-20210307103419152" style="zoom:50%;" />
 
-Composti organici + Ossigeno -> anidride carbonica + acqua + energia.
+> Composti organici + Ossigeno -> anidride carbonica + acqua + energia.
 
-La materia rimane quella di prima, viene solo ridistribuita. Viene prodotta energia
+La materia rimane quella di prima, viene solo ridistribuita. Viene prodotta energia.
 
-Fotosintesi: reazione oppostam energia del sole (radiazioni elettromagnetiche) viene utilizzata nei cloroplasti per produrre molecole organiche + ossigeno. Trasformazione di energia che può andare in entrambi i sensi.
+La *fotosintesi* è la reazione opposta: l'energia del sole (radiazioni elettromagnetiche) viene utilizzata nei cloroplasti per produrre molecole organiche + ossigeno utilizzando anidride carbonica. Trasformazione di energia che può andare in entrambi i sensi.
 
-La vita sulla Terra è strettamente legata al Sole
+La vita sulla Terra è strettamente legata al Sole.
 
-### Fermentazione lattica
+#### Fermentazione lattica
 
-In certe situazioni, movimenti veloci, la quantità di ossigeno non è sufficiente per produrre
-Le cellule muscolari possono ricavare energia dalle molecole organiche
-Fermentazione lattica: senza ossigeno, senza globuli rossi. Viene prodotto lattato, acido lattico che appesantisce  i muscoli e che verrà poi riconvertito dal cervello.
+In certe situazioni, come nei movimenti veloci, l'apporto di ossigeno non è sufficiente di conseguenza è insufficiente l'energia prodotta dalla respirazione cellulare. 
+
+Le cellule muscolari possono ricavare energia dalle molecole organiche attraverso la fermentazione lattica, senza usare ossigeno.
+
+*Fermentazione lattica*: senza ossigeno, e senza produrre anidride carbonica, produzione di energia partendo da molecole organiche.
+Viene prodotto *lattato*, acido lattico che appesantisce  i muscoli e che verrà poi riconvertito dal fegato.
 Nei neuroni questo meccanismo è assente o insufficiente. Se restano senza ossigeno i neuroni muiono entro pochi minuti. 
 
 ### ATP
 
-Cos'è questa energia? Come la catturo? Dove la deposito?
-Il deposito è proprio l'ATP. Nel motore a scoppio l'energia viene direttamente utilizzata.
-Nella cellula invece l'energia ricavata (con o senza ossigeno) dai composti organici non può essere direttamente utilizzata per produrre energia. 
+*?Cos'è questa energia? Come la catturo? Dove la deposito?*
+
+Il deposito è proprio l'ATP, la "moneta dell'energia" nelle cellule. Nel motore a scoppio l'energia viene direttamente utilizzata per produrre lavoro.
+Nella cellula invece l'energia ricavata (con o senza ossigeno) dai composti organici non può essere direttamente utilizzata per produrre lavoro. L'energia viene immagazzinata nell'ATP (adenosina tifosfato).
+
+<img src="https://pixfeeds.com/images/38/343417/1280-atp-molecule.png" alt="Products of Glycolysis - Biology Wise" style="zoom:33%;" />
+
+
 Le molecole vincenti vengono riutilizzate e riciclate. 
 
-Spezzando ATP viene liberata energia. Non è fluttuante ma ceduta dall'ATP facendolo partecipare alle varie reazioni che richiedono energia. Spezzando il legame, ultimo
-Adenosina trifosfato -> Fosfato inorganico + Adenosina difosfato.
-Le reazioni sono *accoppiate*.
+Spezzando ATP viene liberata energia. Non è fluttuante ma ceduta dall'ATP facendolo partecipare alle varie reazioni che richiedono energia. 
+Spezzando l'utlimo legame col fosfato ottengo energia (si può anche spezzare l'ADP ottenendo AMP): 
+
+<img src="http://www.sliderbase.com/images/referats/1416b/(40).PNG" alt="The Structure and Hydrolysis of ATP" style="zoom: 33%;" />
+Adenosina trifosfato -> 
+
+Ottengo fosfato inorganico + Adenosina difosfato + energia. Le reazioni sono *accoppiate*.
+
+I gruppi fosfato hanno carica negativa e quindi si respingono, di conseguenza è necessaria energia per far formare legami covalenti che li unisce; parte di questa energia si accumula nei legami P~O tra i fosfati dell'ATP (la lineetta indica legame ad alta energia).
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210307121128319.png" alt="image-20210307121128319" style="zoom:33%;" />
+In seguito all'idrolisi si libera energia utilizzabile, quella del legame P~O divenuto un legame O-H, molto più debole.
 
 **Ciclo dell'ATP**
-La cellula scinde i composti. 
-Le reazioni sono spostamenti di materia, hanno bisogno di energia.
 
-La cellula somiglia più ad un'automobile alimentata a ...
-L'energia viene prodotta bruciando il combustibile, però poi ogni lavoro viene eseguito prelevando 
-Una singola quantità di ATP non aumenta l'energia. Servono tante molecole di ATP. Nella cellula non abbiamo una singola batteria ma tante molecole di ATP.
+- La cellula scinde i composti organici per ottenere energia. 
+- l'energia ricavata viene depositata sottoforma di molecole di ATP
+- Per compiere i vari lavori (meccanici e biochimici) la cellula utilizza l'energia demolendo molecole di ATP
+
+Le reazioni sono spostamenti di materia, hanno bisogno di energia, e l'ATP partecipa a moltissimi processi metabolici.
+
+*?La cellula somiglia più ad un'automobile alimentata a benzina o a batteria?*
+L'energia viene prodotta bruciando il combustibile (come nel motore a benzina), però poi ogni lavoro viene eseguito prelevando la necessaria energia dall'ATP (come per la batteria).
+Una singola quantità di ATP non aumenta l'energia. Servono tante molecole di ATP per avere più energia. 
+*Nella cellula non abbiamo una singola batteria ma tante molecole di ATP.*
+
+### Panoramica
+
+```mermaid
+graph TD
+	id1([Esseri Viventi])-- eu: buono--->id2([eucarioti])
+	id1([Esseri Viventi])-- pro:prima--->id3([procarioti])
+	id4>karyon: nucleo]
+	id5{{piante, funghi, animali, protisti e cromisti}}
+	id6{{Archaea e Bacteria}}
+	id2-->id5
+	id3-->id6
+```
+
+Cellula:
+
+| Parte biologica cellula | Metafora funzionale |
+| ----------------------- | ------------------- |
+| membrana plasmatica     | impermeabile        |
+| nucleo                  | cassaforte          |
+| DNA                     | ricettario          |
+| ribosomi                | tavolo da lavoro    |
+| apparato del Golgi      | logistica           |
+| lisosomi                | riciclatori         |
+| mitocondri              | radiatori/caldaia   |
+| microtubuli             | binari              |
+
+Cromosomi (compatti) e cromatina (sfilacciato)
 
 # Dalla cellula agli organismi
 
-*Partiremo dalla singola cellula per  arrivare fino all'organismo completo. Parleremo perciò di DNA, di  embrione, di cellule staminali.*
+*Partiremo dalla singola cellula per arrivare fino all'organismo completo. Parleremo perciò di DNA, di  embrione, di cellule staminali.*
 
-É ipotizzato su come può essera avvenuto.
-Dobbiamo poter moltiplicare le cellule, divisione cellulare -> mitosi
-cellule figlio devono rimanere connesse e cooperare, altirmenti non formeremmo un organismo
-l'organismo deve essere capac edi riprodursi e poter trasmettere alle prossime generazioni. 
-Inventare nuovi oggetti, qalcuno sarà vincente e si conseerverà
+È ipotizzato su come possa essere avvenuto il passaggio da cellule a organismi pluricellulari. Di certo richiede:
 
-C'è una predisposizione della natura a creare macro-strutture più complesse
+- Dobbiamo poter moltiplicare le cellule, divisione cellulare -> mitosi
+- cellule figlie devono rimanere connesse e cooperare, altirmenti non formeremmo un organismo
+- l'organismo deve essere capace di riprodursi e poter trasmettere alle prossime generazioni. 
+  Inventare nuovi oggetti, qalcuno sarà vincente e si conseerverà
 
-Incontri fortuiti?
-Vari tentativi per costruire organismi pluricellulari
+C'è una predisposizione della natura a creare macro-strutture più complesse, qualcuna sarà vincente e si conserverà.
+Incontri fortuiti? C'è un progetto? Sono quesiti filosofici importanti.
 
-Volvox, alghe unicellulari, quelle che sporcano di verde le pareti degli acquari. Hanno le capacità dia ggregarsi per formare colonie, non è permanente come invece l'unione degli organismi pluricellulari
+Nel corso dell'evoluzione ci sono stati vari tentativi per costruire organismi pluricellulari: da cellule riunite in *colonie cellulari* a organismi pluricellulari.
+
+Volvox, alghe unicellulari, quelle che sporcano di verde le pareti degli acquari. Hanno le capacità di aggregarsi a formare colonie, non è permanente come invece l'unione degli organismi pluricellulari.
+
+La riproduzione può essere:
+
+- asessuata -> mitosi
+- sessuata -> meiosi
+
+Individui che si riproducono asessualmente danno origine a *cloni*, individui geneticamente identici.  Alcuni organismi pluricellulari (es. idra d'acqua dolce) si riproducono per gemmazione, asessualmente.
 
 > Mitosi deriva dal greco mìtos, "filo": nome dovuto all'aspetto filiforme dei cromosomi durante la profase. 
 >
-> Meiosi: dal greco *méiōsis*, diminuzione
+> Meiosi: dal greco *mèiōsis*, diminuzione
 
  ## Mitosi, divisione cellulare
 
-**Ciclo cellulare**
-Il perpetuarssi della vita si basa sulla riproduzione delle cellule, o divsione. 
-Il corso inizia con la divisione di una cellula genitrice e termina con la divisione in due cellule figlie
+Il perpetuarssi della vita si basa sulla riproduzione delle cellule, o divisione. 
+Il corso della vita di u 
 
 La divisione cellulare partecipa a 
 
 - riproduzione
-- crescita/sviluppo, al rinnovamento/riparazione.
+- crescita/sviluppo
+- rinnovamento/riparazione
 
-I gemelli omozigoti, uno si può chiedere dove la coscienza nasce.
+Le amebe sono organismi eucarioti unicellulari, si riproducono per mitosi.
+I gemelli omozigoti, uno si può chiedere dove nasce la coscienza.. le cellule hanno coscienza?
 
-Le cellule hanno coscienza?
-
+**Leibniz, «è il migliore dei mondi possibili»**
 Neuroni e cellule muscolari dell'adulto non si dividono, sarebbe stato vantaggioso.
 I neuroni usano il glucosio come combustibile, usano sempre ossigeno. Un danno cerebrale non può essere riparato come invece una ferita. 
 
-Leibniz, è il migliore dei mondi possibili, forse si poteva fare meglio il cervello? blasfemia
+Forse si poteva fare qualcosa di più per il cervello? è leggermente blasfemo ma vero.
 
-Ciclo cellulare, 4 fasi
+**Ciclo cellulare, 4 fasi**
 
-- G1, growth 1, la cellula cresce
-- S, sintesi del DNA, ogni cellula dovrà avere una copia completa del DNA della cellula genitrice, non può essere diviso a metà fra le 2 cellule figlie
-- G2, crescita completa
-- M, la cellula si divide 
+- *G1*, growth 1, la cellula cresce, aumenta di volume
+- *S*, sintesi del DNA, ogni cellula dovrà avere una copia completa del DNA della cellula genitrice, non può essere diviso a metà fra le 2 cellule figlie
+- *G2*, crescita completa
+- *M*, la cellula si divide, mitosi
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210307134032745.png" alt="image-20210307134032745" style="zoom:50%;" />
 
 ***genoma***: indica patrimonio complessivo del DNA di una cellula
-I genomi di cellule procariotiche (no compartimenti) in genere hanno una sola molecola di DNA.
+I genomi di cellule procariotiche (no compartimenti, più piccole) in genere hanno una sola molecola di DNA.
 I genomi di cellulle eucariotiche, in genere più molecole di DNA
 
-1,1 metri di DNA, 23 cromosomi, corredo aploide
-2,2 metri di DNA, 46 cromosomi, corredo diploide
+*1,1 metri* di DNA, 23 cromosomi, corredo aploide
+*2,2 metri* di DNA, 46 cromosomi, corredo diploide
 
-La cromatina, DNA+proteine si è duplicata nell'interfase G2, il centrosoma si è duplicato
-Profase, il DNA si 
+Le cellule dei mammiferi impiegano da 18 a 24 ore per completare un ciclo di mitosi, mentre i lieviti ci mettono 90 minuti. Il lievito da fornaio è usato come organismo modello da biologi che studiano genetica e biologia molecolare (in particolare ciclo cellulare) perché è facile crescerlo in coltura ed in quanto eucariota ha una struttura cellulare complessa. 
+L'autofagia cellulare e l'invecchiamento cellulare dovuto ai telomeri sono scoperte fatte grazie a esperimenti e analisi del lievito da fornaio; il suo genoma è stato quello sequenziato completamente. 
 
-Prometafase, alcuni microtubuli si 
-L'involucro nucleare si frammenta. Il grado di compattamento
+**Mitosi**
 
-Cromatidi
+<img src="http://i.imgur.com/Iz0Kkuq.gif?noredirect" alt="Mitosis under a fluorescence microscope : educationalgifs" style="zoom:67%;" />
 
-Metafase, piastra metafasica, disposizione a una apsecie di equatore, il fuso mitotico è formato dai microtubuli
+![#BioDub My GIFs to You - Meiosis - MrDubuque.com](https://www.mrdubuque.com/uploads/2/4/5/0/24509062/meiosis-animated-gif-1_orig.gif)
 
-*? perchè fuso?*
-Un attrezzo che veniva usato per filare la lana, molti anni fa. Fuso orario perchè hanno forma a fuso. Sono meridiani.
+- Interfase G2
+- Profase
+- Prometafase
+- Metafase
+- Anafase
+- Telofase
+  <img src="https://fisiologicamente.altervista.org/wp-content/uploads/2016/10/mitosi_schema-500x375.jpg" alt="odontoiatria | Fisiologicamente" style="zoom:67%;" />
 
-Anafase, i cromosomi migrano verso i 2 poli. I cromatidi che prima erano uniti si separano. Mano a mano che il cromosoma si sposta sul binario
+**Interfase G2**
+La cromatina, DNA+proteine si è duplicata, il centrosoma si è duplicato. Da ogni centrosoma partono i microtubuli che formano l'aster.
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210307143154611.png" alt="image-20210307143154611" style="zoom: 50%;" />
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210307143216753.png" alt="image-20210307143216753" style="zoom: 50%;" />
 
-La cellula ricicla sempre. 
 
-Telofase e Citocinesi alla fine si riforma, i cromosomi perdono la loro compattezza tornando pian piano alla cromatina.
 
-*William Paley*, per dimostrare l'esistenza di Dio. 
-Negli US, da qualche anno, ci sono vari movimenti creazionisti, contrari all'evoluzione.
-DNA, RNA, proteine
+**Profase**
+Il DNA si è condensato, le fibre di cromatina si condensano in *cromosomi*, formati da 2 *cromatidi* fratelli. I centrosomi si allontanano producendo microtubuli. 
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210307143534419.png" alt="image-20210307143534419" style="zoom:50%;" />
 
-Ci sono cellule che non obbediscono a questi meccanismi di regolazione?
-neuroni e cellulari muscolari non si dividono.
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210307150739169.png" alt="image-20210307150739169" style="zoom: 50%;" />
 
-Le cellule tumorali ignorano i normali segnali che regolano il ciclo cellulare.
+**Prometafase** 
+L'involucro nucleare si frammenta, consentendo ai microtubuli di entrare nel nucleo.
+Alcuni microtubuli si agganciano ai cromosomi, precisamente nei loro *centromeri*, mentre altri non si interessano dei cromosomi.
 
-Quanto a lungo vivono le cellule? Gli organismi cellulari, spore anche decenni
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210307144826355.png" alt="image-20210307144826355" style="zoom: 50%;" />
 
-Negli organismi pluricellulari, le singole cellule muoiono , l'organismo sopravvive. 
-Globuli bianchi ogni 2 giorni, dell'intestino ogni 7 giorni, ogni 20 giorni la pelle. La maggior quantità di polvere la creiamo noi stessi.
-le cellule cerebrali non le cambiamo, si modificano, la neurogenesi è molto scarsa. Noi perdiamo una cellula al secondo (misurazioni indirette, circa, misurando densità)
+**Metafase** 
+I centrosomi si trovano ai poli opposti della cellula, i microtubuli formano il *fuso mitotico* e i cromosomi si trovano allineati a metà distanza dai centrosomi, sulla *piastra metafasica*, una sorta di equatore.
 
-## Meiosi, riproduzione del DNA
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210307145020032.png" alt="image-20210307145020032" style="zoom:50%;" />
+
+<img src="https://i.makeagif.com/media/1-04-2016/cNmfnJ.gif" alt="Metaphase - Mitosis on Make a GIF" style="zoom:67%;" />
+
+*? perché fuso?*
+Un attrezzo che veniva usato per filare la lana, molti anni fa. Fuso orario perché hanno forma a fuso. Sono meridiani.
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Fusi.JPG" alt="Filatura - Wikipedia" style="zoom: 25%;" />
+
+**Anafase** 
+I cromosomi migrano verso i 2 poli. I cromatidi, ovvero i 2 pezzi gemelli e paralleli di ogni cromosoma, prima uniti ora si separano. I cromatidi camminano sui microtubuli migrando verso il rispettivo polo. 
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210307150045272.png" alt="image-20210307150045272" style="zoom:50%;" />
+
+- Mano a mano che il cromosoma si sposta sul binario il microtubulo viene riassorbtito, poiché la cellula ricicla sempre, mentre 
+- i microtubuli che non si erano attaccati ai centromeri si allungano provocando l'allontanamento dei due poli della cellula
+
+**Telofase e Citocinesi** 
+Alla fine si riformano due involucri nucleari e i cromosomi perdono la loro compattezza tornando pian piano alla cromatina. Un anello con proteine contrattili agisce da laccio che si chiude, strozza in 2 la cellula causando così la divisione.
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210307150202865.png" alt="image-20210307150202865" style="zoom:50%;" />
+<img src="http://i.makeagif.com/media/1-04-2016/c9IUf5.gif" alt="Mitosis By Maddy Brown" style="zoom:50%;" />
+<img src="https://i.makeagif.com/media/6-07-2015/hKo4o8.gif" alt="Cell Cycle and Mitosis [3D Animation] on Make a GIF" style="zoom: 67%;" />
+
+
+
+**Orologiaio**
+*William Paley*, per dimostrare l'esistenza di Dio sostiene che  la struttura complessa delle cose viventi e i notevoli adattamenti  delle piante e degli animali richiedano un disegnatore intelligente.
+
+> Nell'attraversare una brughiera, supponi io sbattessi il piede contro  una pietra, e mi venisse chiesto come essa fosse venuta a essere proprio lì'; potrei con tutta probabilità rispondere che, fino a prova  contraria, fosse lì da sempre [..] Ma supponi anche che trovassi per terra  un orologio, e mi venisse riposta la stessa domanda [..] fino a prova contraria, l'orologio avrebbe potuto  essere lì anche da sempre. (...) Dev'essere esistito, in qualche tempo, e in questo o quel posto, un artefice, o più, a mettere assieme i pezzi  dell'orologio comunque, a fabbricarlo..
+
+
+Negli Stati Uniti da qualche anno ci sono vari movimenti creazionisti, contrari all'evoluzione che ostacolano l'insegnamento del darwinismo.
+
+*?Ci sono cellule che non obbediscono a questi meccanismi di regolazione?*
+I neuroni e cellulari muscolari non si dividono, quelle del fegato solo se necessario.
+
+Le cellule tumorali ignorano i normali segnali che regolano il ciclo cellulare e si dividono eccessivamente: se sfuggono alla sorveglianza e alla distruzione da parte del sistema immunitario proiliferano, invadendo gli altri tessuti e potenzialmente uccidendo l'organismo.
+
+*?Quanto a lungo vivono le cellule?* 
+Gli organismi unicellulari, come le spore, anche decenni
+
+Negli organismi pluricellulari, le singole cellule muoiono, l'organismo sopravvive. 
+I globuli bianchi si riproducono ogni 2 giorni, le cellule dell'intestino ogni 7 giorni, ogni 20 giorni la pelle. La maggior quantità di polvere la creiamo noi stessi.
+
+Le cellule cerebrali non le cambiamo, si modificano, la neurogenesi è molto scarsa. 
+Perdiamo circa un neurone al secondo (misurazioni indirette, misurando densità).
+
+## Riproduzione sessuata
 
 La trasmissione dei caratteri ereditari dai genitori ai figli si basa sulla trasmissione dei geni.
-i geni sono le unità ereditarie. 
+I geni sono le unità ereditarie, ogni gene contiene le informazioni per la sintesa di 1+ proteine. 
 L'uomo ha 46 cromosomi, ogni cromosoma è una singola molecola di DNA compressissima. 
 Un gene è un segmento del DNA, una ricetta del ricettario.
 
 **Riproduzione asessuata**
-Un solo genitore, eucariote unicellulare che si riproduce per mitosi
+Un solo genitore, eucariote unicellulare che si riproduce per mitosi.
 Si dà origine a un clone, individui geneticamente identici.
 
 **Riproduzione sessuata**
-I figli differiscono sia tra loro che rispetto ai genitori
+I figli differiscono sia tra loro che rispetto ai genitori. Determina una maggiore variabilità genetica.
 Il vantaggio è che eventuali errori non si perpetuino. Si spera che non tutte e due le copie delle ricette siano sbagliate.
 
-Cellule riprodutive/gameti: spermatozooi, ovuli
-Cellule somatiche: tutte le altre
-Tutte le cellule sono diploidi ad eccezione di quelle somatiche.
+Le cellule per organismi che si riproducono in maniera sessuata si dividono in cellule riproduttive (gameti) e cellule somatiche (tutte le altre).
+*gameti*: sono le cellule riprodutive, spermatozooi, ovuli.
 
-Per guardari i cromosmi, il momento migliore è nelle metafase, con il massim compattamento disposta all'equatore. Cerco di bloccare questo processo, bloccando la mitosi in questa fase.
-Usando la colchicina che danneggia i microtubuli (non hanno più i binari così i cromosomi si bloccano). Si osservano le coppie dei cromosomi, 23 coppie, 
+Tutte le cellule sono diploidi ad eccezione di quelle riproduttive.
 
-La 23° coppia sono i romosomi X,Y
-Il numero di basi è il più lungo, ha 245 mln di basi di nucleotidi.
-I cromosomi non hanno tutti la stessa forma
+Per guardare i cromosmi, il momento migliore è nelle metafase della mitosi, con il massimo compattamento dove i cromosomi sono disposti all'equatore, sulla piastra metafasica. 
+Si cerca di bloccare questo processo, bloccando la mitosi.
+Usando la colchicina si danneggiano i microtubuli cosicché non ci sono più i binari e i cromosomi si bloccano. 
+Si osservano le coppie dei cromosomi, 23 coppie, il tecnico di laboratorio cerca gli omologhi. ogni coppia è identificata dalle dimensioni e dalla posizione dei contromeri. In ogni coppia di omologhi un cromosoma deriva dal padre e uno dalla madre.
 
-Vantaggio: danneggiamento di uno dei cromosomi 
-cromosomi sessuali femmina 2X, nell'uomo XY, le altre 22 coppie sono *autosomi*
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210307162242420.png" alt="image-20210307162242420" style="zoom:50%;" />
+Il numero di basi più lungo ha 245 mln di basi di nucleotidi.
+I cromosomi non hanno tutti la stessa forma.
 
-centrometri, diploide (formati da coppie)
+La 23° coppia sono i cromosomi X,Y: cromosomi sessuali 
 
-cellula aploide, gamete, con un solo corredo cromosomico. Tutte le cellule somatiche ne hanno 46.
+- donna 2X 
+- uomo XY, 
 
-## Ciclo biologico dell'uomo
+le altre 22 coppie sono *autosomi*, e il vantaggio del doppio corredo cromosomico è che in caso di errori in una ricetta è più bassa la probabilità che in entrambi i cromosomi la ricetta sia sbagliata.  
 
-Mitosi per sviluppo, meiosi per riproduzione.
+I gameti sono le uniche cellule aploidi (unico corredo cromosomico). Tutte le cellule somatiche ne hanno 46.
 
-gameti aploidi, spermatozoo e ovulo. Persone contaminate da molti pesticidi hanno pochi spermatozoi e si muovono poco
+### Ciclo biologico dell'uomo
 
-***zigote***: cellula uovo fecondata
+La mitosi entra in gioco per lo sviluppo, la meiosi per la riproduzione.
 
-Lo zigote avrà 46 cromosomi. Poi che succede? sviluppo embrionale => mitosi e sviluppo
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210307174547643.png" alt="image-20210307174547643" style="zoom:50%;" />
+
+*Oss*: persone contaminate da molti pesticidi hanno pochi spermatozoi e questi si muovono poco.
+
+***zigote***: cellula uovo fecondata.
+
+Lo zigote avrà 46 cromosomi. Poi che succede? sviluppo embrionale => mitosi e sviluppo.
 Un individuo produce gameti ma questi conterranno solo 23 cromosomi, il corredo diploide deve spezzarsi in un corredo aploide.
-Dimezzamento intelligente, meiosi. 
+Vi è un dimezzamento intelligente con la meiosi. 
 
-*?Qual è il momento in cui nasce la coscienza?* Non lo sa nessuno.
+*?Gli altri organismi si riproducono come l'uomo?*
 
-Mitosi per sviluppo, meiosi per riproduzione.
-Gli altri organismi si riproducono come l'uomo?
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210307175735326.png" alt="image-20210307175735326" style="zoom:50%;" />
 
-Muschio, organismo pluricellulare diploide e aploide. Siamo fortunati come umani poichè se esistessero organismi aploidi dotati di coscienza sarebbe u problema.
+Non necessariamente, esistono organismi aploidi che affrontano una fase di fecondazione in cui lo zigote è diploide (es. molti funghi) e le piante composte sia da organismi aploidi che diploide.
+Ad esempio il muschio, è un organismo pluricellulare diploide (sopra) e aploide (sotto). Siamo fortunati come umani poiché se esistessero organismi aploidi dotati di coscienza sarebbe un problema.
 
-La capacità di memorizzare è presente anche nelle piante, il compito che deve fare.
+La capacità di memorizzare è presente anche nelle piante, come il compito che deve fare.
 
-**Meiosi**
-É preceduta
+### **Meiosi**
 
-Ogni cromosoma è formato da 2 cromatidi, separando i cromatidi fratelli.
-Si fanno 2 divisioni: separo prima gli omologhi, poi i fratelli. Perchè 2? 
+Tutte le cellule del corpo umano originano per mitosi ad eccezione dei gameti che originano per meiosi. Se il meccanismo riproduttivo rimanesse invariato e anche i gameti originassero per mitosi il numero di cromosomi raddoppierebbe ad ogni generazione.
+
+La *meiosi* è preceduta dalla replicazione del DNA a cui seguiranno 2 divisioni cellulari: da una cellula madre si formano quattro cellule figlie, tutte diverse fra loro e con patrimonio genetico dimezzato. 
+
+- duplicazione DNA
+
+- separazione dei cromosomi omologhi
+- separazione dei cromatidi fratelli
+
+La meiosi determina:
+
+- la riduzione del numero di cromosomi, da una duplice copia  (2n, in tutte le cellule), a una semplice copia (n), indispensabile per permettere la riproduzione sessuale
+- la *ricombinazione genetica*, meccanismo fondamentale  per aumentare la diversità genetica delle specie, tramite un processo  chiamato *crossing-over* in cui avviene lo scambio di parti (e quindi di  geni) tra i cromosomi omologhi.
+
+<img src="https://upload.wikimedia.org/wikipedia/it/thumb/9/9c/Meiosi.svg/1200px-Meiosi.svg.png" alt="Meiosi - Wikipedia" style="zoom: 33%;" />
+
+![img](http://superagatoide.altervista.org/alterpages/schema_meiosiw.jpg)
+**Interfase**
+Ogni cromosoma sa]rà composto da 2 cromatidi fratelli => cromosomi omologhi duplicati.
+
+**Meiosi I**
+<img src="http://superagatoide.altervista.org/alterpages/meiosi1w.jpg" alt="img" style="zoom: 40%;" />
+
+I cromosomi omologhi si separano. Si ottengono due cellule aploidi dopo la separazione dei due omologhi, 46 cromosomi ma dello stesso corredo cromosomico.
+
+**Meiosi II**
+
+<img src="http://superagatoide.altervista.org/alterpages/meiosi2w.jpg" alt="img" style="zoom:50%;" />I cromatidi fratelli si separano, generando cellule aploidi con un singolo cromosoma (in tutto 23).
+É una mitosi, una divisione cellulare.
+
+Si fanno 2 divisioni: separo prima gli omologhi, poi i fratelli. perché 2? 
 La cellula fa sempre una duplicazione del DNA, sia che faccia mitosi che meiosi.
-Non si poteva fare una meiosi con 1 sola divisione? per la cellula sarebbe un grosso compito. La cellula ha già scritto come compito di duplicare il DNA per riprodursi
-perchè non ha inventato un nuovo modo? magari la avrebbe complicata molto
+Non si poteva fare una meiosi con 1 sola divisione? per la cellula sarebbe un grosso compito. 
+La cellula ha già scritto come compito di duplicare il DNA per riprodursi.
+Perché non ha inventato un nuovo modo? magari la avrebbe complicata molto
 
-Appaiamento degli omologhi
-Come si riconoscono i cromosomi? è stupefacente, lo fanno
+*Appaiamento degli omologhi*: una volta raddoppiati i cromosomi si riconoscono fra omologhi!
+Come si riconoscono i cromosomi? è stupefacente, lo fanno.
 
-Meiosi I e Meiosi II, la seconda è molto simile alla mitosi.
-
-**Mitosi e meiosi a confronti**
+### Mitosi e meiosi a confronto
 Con la meiosi si dimezzano i cromosomi, ottengo 4 cellule figlie, che <u>non sono</u> il clone della cellula madre. Si ha un mescolamento dei cromosomi materni e paterni.
-La cellula duplica sempre i cromosomi. 
 
-Il cariotipo viene effettuato tramite un accoppiamento manuale, mentre in natura nella piastra metafasica cioò avviene naturalmente.
+|                            mitosi                            | meiosi                                                       |
+| :----------------------------------------------------------: | ------------------------------------------------------------ |
+|              avviene nelle cellule *somatiche*               | avviene nelle cellule della linea *germinale*, producendo *gameti* |
+| implica una sola replicazione del DNA cromosomico seguita da una *singola divisione* del nucleo e del citoplasma | implica una sola replicazione del DNA cromosomico seguita da *due divisioni* nucleari e citoplasmatiche. |
+| è una *divisione* **equazionale** (conservativa) con produzione di due cellule figlie identiche alla cellula parentale (corredo cromosomico *diploide 2n*) | è una *divisione riduzionale seguita da una divisione equazionale* con produzione di quattro cellule figlie diverse (corredo cromosomico *aploide n*) |
+| non si verifica il crossing-over né l’appaiamento dei cromosomi omologhi | nel corso della profase I si verificano processi di *crossing-over* per ogni coppia di cromosomi omologhi appaiati (le tetradi) |
+| durante l'anafase i *centromeri si spezzano* determinando la migrazione dei cromatidi fratelli verso i poli della cellula | durante l'anafase I i *centromeri* dei cromosomi *non si spezzano e si formano due cellule (aploidi n*) che contengono un solo cromosoma omologo di ogni coppia, ma *raddoppiato* in  due cromatidi fratelli che si separano nel corso dell'anafase II |
+|          i cromosomi omologhi restano indipendenti           | i cromosomi omologhi si appaiano formando *tetradi* (4 cromatidi fratelli) |
+
+Il cariotipo viene effettuato tramite un accoppiamento manuale, mentre in natura nella piastra metafasica ciò avviene naturalmente.
 
 Mitosi -> 2 celluli diploidi identiche
-Meiosi -> 4 cellule aploidi identiche
+Meiosi -> 4 cellule aploidi diverse
 
 ### Origini della variabilità genetica
 
-I 3 meccanismi con cui c'è variabilità genetica sono questi:
+I 3 meccanismi con cui c'è variabilità genetica sono:
 
 **Assortimento indipentende dei cromosomi omologhi**
-Il fatto che nella piastra metafasica si dispongano.. Con 2 cromosomi ho 4 possibili combinazioni:
+L'orientamento delle coppie di omologhi rispetto ai due poli cellulari è casuale. Ogni coppia di omologhi si può disporre in 2 modi sulla piastra metafasica:
 
 <img src="/home/ludo/.config/Typora/typora-user-images/image-20210223153042547.png" alt="image-20210223153042547" style="zoom:50%;" />
 
 Con 23 cromosomi si hanno più di 8 mln di possibili gameti per la madre e per il padre.
 
 **Crossing over**
-molto poetico. I cromosomi omologhi formano una tetrade (4 cromatidi) nelle parti blu-rosse si scambiano, un taglia-e-cuci del DNA. Si ottengono cromosomi che hanno un po' di DNA materno e un po' materno.
+È un meccanismo molto poetico. Durante l'appaiamento fra omologhi alcune porzioni corrispondenti di due cromatidi non fratelli si scambiano di posto.
 
-nella nostra specie si verificano 2 o 3 scambi per ogni
+![Meiosis gif 11 » GIF Images Download](http://gifimage.net/wp-content/uploads/2017/10/meiosis-gif-11.gif)I cromosomi omologhi formano una tetrade (4 cromatidi) quando si appaiono. Nelle parti blu-rosse si scambiano codice genetico, un taglia-e-cuci del DNA. Si ottengono cromosomi che hanno un po' di DNA materno e un po' materno, i *cromosomi ricombinanti*.
 
-I cromosomi si sono uniti
-Stanno all'interno della stessa cellula
-Il vero matrimonio dei geni comincia quando i cromosomi di madre e padre si rimescolano
+Nella nostra specie si verificano 2 o 3 scambi per ogni coppia di omologhi, chiamati *chiasmi*. 
+
+*Oss*: Quando uno spermatozoo e una cellula uovo si fondono i cromosomi materni e paterni *si uniscono, ma non si mescolano*. Stanno all'interno della stessa cellula, in parallelo.
+Il vero *matrimonio dei geni*, il vero mescolamento fra il patrimonio genetico paterno e materno avviene quando i loro figli producono le proprie cellule germinali.
 
 **Fecondazione causale**
+Senza contare il crossing over si hanno già 8mln di possibilità $\cdot $ 8mln di possibilità di fecondazione. 
 
 **Mutazione**
+Il DNA viene modificato e questo contribuisce ulteriormente alla variabilità genetica.
 
-## Batteri e virus
+## Sintesi del DNA
 
- ## Controllo dell'espressione genica
+**Struttura del DNA**
+
+1953, Watson e Crick, struttura a doppia elica del DNA. Rosalind Franklin, scienziata (avrebbero dovuto assegnare il Nobel anche a lei).
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210307185508585.png" alt="image-20210307185508585" style="zoom:50%;" />Larghezza 2nm. Ogni filamento è un polinucleotide. 
+
+I legami a idrogeno sono fondamentali per rafforzare lo scheletro zucchero-fosfato a doppia elica del DNA.
+Un altissimo numero di legami a idrogeno lo avevamo trovato anche nella cellulosa, un particolare carboidrato, nelle proteine e nell'acqua. 
+
+Per ogni giro dell'elica del DNA vi sono 10 coppie di basi, un giro è alto 3,4 nm, ogni coppia quindi è lunga 0,34nm. 
+
+Progetto genoma: ci dice che ci sono 3,2 mld di coppie di basi in un corredo aploide. 
+*Lunghezza del DNA* per 23 cromosomi (cellula aploide, gamete):
+$3,2 \cdot 10^9 \cdot 0,34 \cdot 10^{-9} = 1,1 m$
+
+I due filamenti sono accoppiati ma sono antiparalleli, ci sono conseguenze. 
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210307192211331.png" alt="image-20210307192211331" style="zoom:33%;" />
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210301143254331.png" alt="image-20210301143254331" style="zoom: 67%;" />
+
+Le basi azotate le prendiamo dall'esterno. Per crescere abbiamo bisogno di tempo per fare tante mitosi.
+
+**Replicazione**
+Watson e Crick proposero un modello semiconservativo per spiegare la replicazione del DNA.
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210307193016203.png" alt="image-20210307193016203" style="zoom:50%;" />
+
+Inizialmente si ha una molecola di DNA completa dei due filamenti complementari
+
+- I due filamenti si separano
+- Ognuno dei 2 vecchi filamenti fa da stampo per determinare l'ordine dei nucleotidi dei nuovi filamenti che vengono a formarsi e a completare lo stampo
+- Si completa il processo avendo 2 molecole di DNA uguali a quella originaria; ognuna possiede un filamento nuovo e una vecchio
+
+C'è una probabilità infima che il filamento di base sia lo stesso di quello dello spermatozoo di nostro padre o dell'ovulo di nostra madre (feticismo del filamento genico?)
+
+*La separazione e la copia procedono di pari passo* (non è una zip), i filamenti non vengono completamente separati prima e successivamente completati.
+
+***?Come avviene  più precisamente la replicazione?***
+Studiamo l'*escherichia coli*, ce l'abbiamo anche noi e si trova nell'intestino. Ha un singolo cromosoma circolare, ha 5 mln di paia di basi, la replicazione avviene in meno di un'ora.
+Nell'uomo abbiamo 3,2mld di paia di basi e la replicazione avviene in poche ore.
+
+Si formano delle *bolle di replicazione*. I filamenti si allontanano, c'è spazio sufficiente per appaiare le basi giuste. Nel batterio ce n'è una, nell'uomo molte.
+
+I nucleotidi si appaiono sul filamento che serve da stampo e vengono legati insieme dall'enzima polimerasi (polimerizzazione). Nell'uomo in 1s => 50 nucleotidi polimerizzati.
+*enzimi*: catalizzatori di processi biologici (quasi sempre proteine).
+
+![Acidi nucleici: DNA ed RNA - appunti](http://www.appuntimania.com/files/chimica/322_poze/image017.gif)
+
+C'è però una complicazione, la DNA polimerasi sa polimezzare solo in direzione 5' -> 3', è bravissima ma ha questo limite. 
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210307194310438.png" alt="image-20210307194310438" style="zoom:50%;" />La DNA polimerasi cuce in 2 direzioni opposte, asimmetria di allungamento, un filamento si allunga in modo continuo, mentre l'altro si allunga a segmenti, i quali verranno poi uniti insieme dalla DNA-ligasi.
+
+<img src="http://dxline.info/img/new_ail/dna-polymerase.jpg" alt="DNA Polymerase. Causes, symptoms, treatment DNA Polymerase" style="zoom:50%;" />
+
+<img src="https://i.makeagif.com/media/11-04-2015/R4QPsc.gif" alt="Struttura e funzioni del DNA, le mutazioni genetiche, le ..." style="zoom: 67%;" />
+
+Grazie al *ripiegamento* le proteine enzimi si adattano alle molecole da cucire.
+
+La DNA polimerasi non *inizia* la sintesi del nuovo filamento, può solo proseguirla.
+Ci vuole uno *schiavetto* che inizi. 
+La parte iniziale viene formato dall'enzima *primasi*, nell'uomo sintetizza circa 10 nucleotidi di RNA che alla fine verranno sostituiti con gli analoghi del DNA da un'altra DNA polimerasi. 
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210307195917570.png" alt="image-20210307195917570" style="zoom:50%;" />
+
+- interviene la primasi sul filamento genitore, utilizzando però basi RNA, inizia la sequenza fornendo alla DNA polimerasi la possibilità di continuare
+- la DNA polimerasi aggiunge nucleotidi di DNA all'innesco
+- una DNA polimerasi diversa sostituisce l'RNA con il DNA, avendo così ripulito il filamento di basi RNA
+- una DNA ligasi lega insieme i segmenti 
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210307200431196.png" alt="image-20210307200431196" style="zoom:50%;" />
+
+36.30
+
+*?Perchè è così difficile per una cosa così semplice?*
+Ci portiamo dietro tutte queste imperfezioni. Nessuno riesce a intrevedere fino ad ora un modo logico per spiegare tutto ciò.
+
+Le due parti si comportano diversamente. Il Demiurgo ha fatto così.
+La DNA ligasi lega
+
+È un meccanismo davvero efficiente? Non è pericoloso affidarsi. l'accuratezza non è molto alta.
+Ogni tatno dci sono degli errori, 1 ogni 10000 base azotata è errata. Sarebbe un numero enorme.
+La DNA polimerasi si accorge degli errori, si scende a 1 ogni 1-10 miliardi.
+Ci sono circa 3-0,3 errori per ogni mitosi.
+Per gli errori sfuggiti a tale controllo ci sono altri enzimi riparatori.
+
+Danneggiamenti prodotti da agenti chimici dannosi, radioattività, raggi X, raggi ultravioletti.
+Se ci sono 2 timine vicine i raggi ultrvioletti fanno unire con legami covalenti.
+Un enzima
+Persone senza xeroderma pigmentoso non hanno questo enzima riparatore.
+
+### Telomeri, invecchiamento, immortalità
+
+La DNA polimerasi ha 2 complicazioni:
+
+- può solo proseguirla
+- può polimerizzare solo in direzione 5'->3'
+
+*?Tutti i pezzetti di RNA possono essere effettivamente sostituiti dalla DNA polimerasi?*
+Non tutte, alcune regioni non vengono riempite, ci si perdono 10 nucleotidi
+
+Dopo ogni riproduzione il DNA risulta più corto.
+In 60 anni perderemmo 31200 basi azotate perdute
+
+Per i procarioti non c'è problema, il DNA è circolare
+
+Nelle eucarioti le molecole di DNA  hanno alle estremità speciali sequenze nucleotidiche
+TTAGGG, Questo protegge i geni.  Telomeri
+Inizialmente sono della stessa lunghezza per tutti.
+
+C'è un enzima, *telomerasi* per rimpiazzare pezzetti perduti.
+È possibile.
+
+La telomerasi è invece presente nelle cellule germinali 
+HeLa, cellule di collo di utero, le tengono tutt'ora in coltura. Si moltiplicano in modo incontrollato mentre le cellule in coltura dopo 20-50 volte invecchiano.
+
+*Odissea:* Ninfa *Calipso* che promette l'immortalità.
+The age of adaline. cinema. 
+
+Windows server 2012, ASP.net
+5 o 6 cose da fare. Librerie per la compressione audio dal C al VB. Gestione file video e compressione. DB da rivedere. 
+Una parte che assicurino miglioramento e manutenzione del sw. Impegni-progetti. 
+
+Come sconfiggere il cancro? Inibendo la loro telomerasi, trasformandole così in comuni cellule mortale. L'esercizio fisico aumenta la telomerasi, specialmente la corsa continua in ATP.
+
+Si sa che le cellule cancerose possono dividersi all'infinito senza che i telomeri si accorcino, grazie all'iperattività della telomerasi. Il  cancro potrebbe dunque essere trattato, tra l'altro, spegnendo la  telomerasi: diversi studi sono in corso, inclusi test clinici su vaccini che hanno come bersaglio le cellule con un'elevata attività della  telomerasi. È infatti in corso la sperimentazione clinica di prodotti  con attività anti-telomerasica che potrebbero, sulla luce di quanto  accennato sopra, rivelarsi molto interessanti nel trattamento di questa  patologia. Ma l'enzima ha un ruolo chiave anche in alcune malattie congenite.
+
+## Dal gene alle proteine
+
+RNA: identifica tutti i tipi: snRNA, mRNA, RNAm
+
+mRNA è l'intermediario fra DNA e citoplasma.
+
+Dal DNA al 
+RNA: ribosio (cambia lo zucchero, uracile al poste della timina). CGAU.
+
+DNA nel cucleo sono i gioielli in cassaforte. Il messaggero è l'RNA.
+
+Negli eucarioti:
+
+- trascrizione
+- maturazione
+- traduzione
+
+La trascrizione e la traduzione sono separate localmente e temporalmente. 
+
+Codice genetico: DNA e RNA lo utilizzano per memorizzare informazioni.
+Con 4 nucleotidi dobbiamo codificare 20 amminoacidi. Come fare?
+Con 2 nucleotidi posso codificare 4x4= 16 amminoacidi
+Con 3 molti di più.. 64. la logica della biologià è la complementarietà di forma.
+
+Codice a triplette
+
+-> orologiaio
+
+Il codice genetico è ridondante, 4 triplette per codificare uno stesso amminoacido.
+
+Il codice genetico è condivisa da batteri/piante/animali
+CCG -> polina, da tutti
+Biotecnologie: batteri programmati per produrre proteine umane, senza inventarle chimicamente.
+Si può mettere il gene della lucciola (luciferina) in una pianta di tabacco.. in un gatto..
+
+ Dizionario del codice genetico. Alcuni virus sono capaci di inserirsi nel DNA. Questo DNA chiuso in cassaforte non è stabile! È molto suscettibile, è molto mobile. Se così non fosse noi non saremmo qui. Siamo qui perché il DNA non è così stabile come sembra.
+
+### Trascrizione
+
+**Inizio trascrizione**
+
+ci serve una molecola che inizia tutto: RNA polimerasi, riconosce dove inizia il gene. 
+Le proteine 
+
+Un gene inizia la sua attività quando 
+
+Non è una materia pensante, solo complementareità. 
+**Allungamento**
+
+Il fungo tignosa.. agisce sull'RNA polimerasi. L'RNA polimerasi. 
+
+Uno dei trucchi per codificare 100000 proteine: l'RNA vorrebbe una protezione: roba gialla impedisce l'attacco.
+
+**Splicing dell'RNA**
+Gran parte dei geni eucarioti. Introni (rosa chiaro) vengono buttate nell'RNA. snRNA. In questra maniera creiamo geni discontinui (Nobel per questo).
+
+Creo 2 mRNA, da un unico gene codifico 2 proteine diverse.
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210301154516473.png" alt="image-20210301154516473" style="zoom: 50%;" />
+
+### Traduzione
+
+Costruire proteina = polimerizza amminoacidi
+mRNA: appaiavamo basi complementari
+
+RNAt (transfer) : adattatori 
+
+Abbiamo bisogno di un traduttore, di in un interprete che legge mRNA traducendo in amminoacido.
+
+Ogni tRNA è specifico per un amminoacido
+
+tRNA: filamento di RNA ripiegato, ci sono 61 codoni e i tRNA sono 45.
+
+**Costruzione polipeptide nel ribosoma**
+Ci vuole un tRNA, metionina
+AUG: tripletta di inizio, qui inizia il polipeptide.
+Si deve formmare il complesso iniziale, poi arriva la subunità maggiore.
+Tutto è racchiuso nelle conformazioni tridimensionali.
+
+Metaforia: *agenzia matrimoniale*, tutto il complesso è un sito di incontri.
+Ogni volta che si termina un ciclo si ricomincia.
+Riassunto: marcomolecole biologiiche si riconoscono grazie alla complementareità tridimensionale.
+
+Manca la matematica per la teoria della complessità.
+*?Come aumentiamo l'efficienza del polipeptide?*
+Poliribosomi, un'unica moecole adi mRNA utilizzata da più ribosomi per produrre quasi simultaneamente più copie di uno stesso polipeptide.
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210302143454925.png" alt="image-20210302143454925" style="zoom: 50%;" />
+
+Nel sistema nervoso ce ne sono tanti di poliribosomi
+
+La sintesi si blocca, quando?
+arriva sulla superficie del RE, poi riprende e col sistema delle vescicole se ne va all'esterno
+
+mRNA, ribosomi, tRNA
+
+Quanti tipi di RNA abbiamo? 
+
+- mRNA
+- snRNA: implicato nello splicing
+- tRNA: adattatori
+- rRNA: RNA ribosomiale dei ribosomi
+- SRP RNA: export
+
+L'RNA può svolgere più funzioni (il DNA è bloccato )
+
+É una catena singola quindi si può ripiegare e formare forme tridimensionali, è versatile!
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210302143918207.png" alt="image-20210302143918207" style="zoom: 50%;" />
+
+*?Chi è nato prima? proteina (e anche enzimi)*
+speculazione: forse all'inizio il codice genetico era più semplice, Ipotesi del mondo a RNA.
+
+Nei procarioti non ci sono barriere, efficienza maggiore.
+
+**Antibiotici**
+A volte agiscono sui ribosomi dei batteri, intaccano la loro vita e non possono più vivere. Perchè sono diversi dai nostri, altre volte potrebbero influenzare anche nostri.
 
  ## Sviluppo embrionale umano
+
+Teoria del *preformismo*: si pensava che l'embrione fosse già sviluppato in un uovo? 300 anni fa
+Non è vero che l'embrione cresce e basta tridimensionalmente.
+
+La somiglianza fisica ci condiziona molto nei temi etici. (aspetto psicologico)
+Gli organismi viventi sono distruttori di entropia interno, aumentando entropia esterno.
+Per mantenere equilibrio aumentiamo entropia esterna per diminuire la nostra interno.
+
+I correlati neurali che nell'adulto corrispondono all'attività pensante, in quale momento li troviamo?
+
+### Gametogenesi
+
+Trucco: cellule che danno origine al ciclo meiotico.
+Le due cellule figlie non sono identiche, divisione mitotica asimmetrica.
+Una cellula crea 4 spermatozoi
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210302145156585.png" alt="image-20210302145156585" style="zoom: 50%;" />
+
+Femmina:
+un certo numero di follicoli inizia maturazione, 10/15 al mese, ne arriva solo 1 a maturazione, chi lo dice?
+Sostanza che viene dal cervello, ipofisi, l'ormone fa scattare maturazione 
+Appena uno è pronto ridice al cervello: smetti di produrre ormone. Quelli che rimangono più indietro muoiono.
+Abbiamo solo un ovocita, prende tutto il citoplasma (che non viene condiviso da tutte e 4 le cellule).
+
+Diversità
+
+- 4 speramtozoi vs 1 cellula uovo
+- tempi: 
+  - maschi: meiosi solo a partire dalla pubertà x maschi
+  - femmina: già nello sviluppo embrionale inizia la meiosi ma si interrompe. Non si completa
+- durata: spermatogenesi: 2 mesi (100/300 mln al giorno, solo 50% vitali). 1000 spermatozoi/secondo
+  - femmina: 500-700.000 oogni già presenti nella nascita
+
+Più PCB abbiamo più diminuisce la mobilità spermatica. Diossina.
+Aroclor (monsanto) fu bandito poi. Se desse disturbi subito ci si accorge di questo, mentre dopo 7- anni ciao!
+
+**Spermatozoo**
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210302150343764.png" alt="image-20210302150343764" style="zoom: 50%;" />
+
+**Fecondazione**
+
+1. 
+2. grazie all'acrosoma digerisce per penetrare
+3. le membrane si fondono
+4. zigote: cellula uovo fecondata
+
+Si deve bloccare l'accesso ad altri spermatozoi nell'ovulo
+
+- depolarizzazione: si forma una barriera elettrica
+- blocco lento polispermia
+- completamento della seconda divisione meiotica 
+
+*dichiarazione di maternità: mi fai completare una meiosi?*
+Una ragazza non fecondata non ha mai completato una meiosi in vita sua.
+
+Una volta entrato solo il nucleo e il corpo basale del flagello restano.
+Stanno nel citoplasma ma non nello stesso nucelo. Vanno nello stesso nucleo solo dopo
+
+**Segmentazione**
+Fanno tante meiosi ma rimarranno insieme.
+Il citoplasma della cellula uovo si distribuisce ai diversi blastomeri.
+
+5-6 gg sopravvivenza spermatozoi (nel 14°giorno ovulo pronto?)
+
+**Blastocisti**
+formata cavità, si impianta nell'utero
+
+**Gastrulazione**
+stravolgimenti
+
+foglietti germinativi, 3: ectoderma, mesoderma, 
+*la gastrulazione corrispone alle placche tettoniche della Terra*
+
+**Ecotederma**
+Tubo neurale. originano le interfacce col mondo esterno: orecchio, occhi, cuore
+
+**mesoderma** muscoli e ossa
+
+endoderma: parte interna collegata con l'esterna, polmoni, intestino.
+
+Organogenesi: dalla 3° all'8° settimana, poi periodo fetale
+
+### Periodo fetale
+
+
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210302152332235.png" alt="image-20210302152332235" style="zoom:33%;" />
+
+**Agenti teratogeni**
+Ipertermia
+Raggi X
+Rosolia, Toxoplasmosi
+
+Ha preso un farmaco: *talidomide* (Thomas Quasthoff) produce danni agli arti. 
+
+Sostanze idrofobiche e idrofile: fobiche si accumulano
+
+Cosa ci assicura agricoltura biologica? Basta non usare pesticidi. Liberare dal grasso contenente pesticidi
+
+Trisomia di Down: siamo il frutto di un caleidoscopio, non c'è una perfezione. 
+
+88% colpa madre, 8% uomo, 3% anche dopo
+
+RU-486: vero farmaco anti-abortivo. Obbliga ad espellere la 
+pillola del giorno dopo: levonorgestrel: anti-ovulazione,  impedisce che l'ovulo completi.
+Sapori nel liquido amniotico e nel latte.
+
+Gemelli siamesi: se avviene dopo il 12° giorno, non si separano più 
+
+Gemelli monozigoti: hanno stesso DNA, originano dallo stesso spermatozoo. I comportamenti sono innati?
+
+Non ci sono dati sicuri sull'attività dei correlati neurali, a quando risalgono.
+Si accetta che il cervello è correlato alle attività mentali.
 
 # Dagli organismi alle specie
 
@@ -1108,9 +1712,11 @@ Il vero matrimonio dei geni comincia quando i cromosomi di madre e padre si rime
 
 # Domande al prof
 
-- nella pratica, che differenza c'è tra legame covalente e ionico? Qunado diciamo che un atomo "strappa" un elettrone o lo usa in compartecipazione? Qual é la differenza quantitativa sostanziale?
 - l'acqua ghiacciata diventa più leggera nel senso di densità? la materia non rimane la stessa?
-- perchè gli acidi grassi sono idrofobi? non hanno legami OH?|
-- nella slide dei fosfolipidi, nell'immagine forse testa e code sono scambiate a lato?
-- perchè le teste dei fosfolipidi non si sciolgono nell'acqua? perchè rimangono attaccate nonstante sia idrofile?
+- perché gli acidi grassi sono idrofobi? non hanno legami OH?
+- perché le teste dei fosfolipidi non si sciolgono nell'acqua? perché rimangono attaccate nonstante sia idrofile?
+  - se non avessi la coda si scioglierebbe, le code rimangono vicine. Se solo loro possan
+  - se spezzo le teste sono le goccioline che rimangono, 
+- le vescicole che funzione hanno? che vita hanno?
+- mitocondri, hanno una membrana interna con creste che aumentano la superficie. In che senso? Perché fa il paragone con i radiatori?
 
