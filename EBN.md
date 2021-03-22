@@ -939,14 +939,14 @@ Nei neuroni questo meccanismo è assente o insufficiente. Se restano senza ossig
 *?Cos'è questa energia? Come la catturo? Dove la deposito?*
 
 Il deposito è proprio l'ATP, la "moneta dell'energia" nelle cellule. Nel motore a scoppio l'energia viene direttamente utilizzata per produrre lavoro.
-Nella cellula invece l'energia ricavata (con o senza ossigeno) dai composti organici non può essere direttamente utilizzata per produrre lavoro. L'energia viene immagazzinata nell'ATP (adenosina tifosfato).
+Nella cellula invece l'energia ricavata (con o senza ossigeno) dai composti organici non può essere direttamente utilizzata per produrre lavoro. L'energia viene immagazzinata nell'ATP (adenosina trifosfato).
 
 <img src="https://pixfeeds.com/images/38/343417/1280-atp-molecule.png" alt="Products of Glycolysis - Biology Wise" style="zoom:33%;" />
 
 
 Le molecole vincenti vengono riutilizzate e riciclate. 
 
-Spezzando ATP viene liberata energia. Non è fluttuante ma ceduta dall'ATP facendolo partecipare alle varie reazioni che richiedono energia. 
+Spezzando ATP viene liberata energia; questa non è fluttuante ma ceduta dall'ATP facendoloa partecipare alle varie reazioni che richiedono energia. 
 Spezzando l'utlimo legame col fosfato ottengo energia (si può anche spezzare l'ADP ottenendo AMP): 
 
 <img src="http://www.sliderbase.com/images/referats/1416b/(40).PNG" alt="The Structure and Hydrolysis of ATP" style="zoom: 33%;" />
@@ -961,7 +961,7 @@ In seguito all'idrolisi si libera energia utilizzabile, quella del legame P~O di
 
 **Ciclo dell'ATP**
 
-- La cellula scinde i composti organici per ottenere energia. 
+- La cellula scinde i composti organici per ottenere energia
 - l'energia ricavata viene depositata sottoforma di molecole di ATP
 - Per compiere i vari lavori (meccanici e biochimici) la cellula utilizza l'energia demolendo molecole di ATP
 
@@ -1004,12 +1004,12 @@ Cromosomi (compatti) e cromatina (sfilacciato)
 
 *Partiremo dalla singola cellula per arrivare fino all'organismo completo. Parleremo perciò di DNA, di  embrione, di cellule staminali.*
 
-È ipotizzato su come possa essere avvenuto il passaggio da cellule a organismi pluricellulari. Di certo richiede:
+È solo ipotizzato come possa essere avvenuto il passaggio da cellule a organismi pluricellulari. Di certo richiede:
 
 - Dobbiamo poter moltiplicare le cellule, divisione cellulare -> mitosi
 - cellule figlie devono rimanere connesse e cooperare, altirmenti non formeremmo un organismo
 - l'organismo deve essere capace di riprodursi e poter trasmettere alle prossime generazioni. 
-  Inventare nuovi oggetti, qalcuno sarà vincente e si conseerverà
+  Inventare nuovi oggetti, qalcuno sarà vincente e si conserverà
 
 C'è una predisposizione della natura a creare macro-strutture più complesse, qualcuna sarà vincente e si conserverà.
 Incontri fortuiti? C'è un progetto? Sono quesiti filosofici importanti.
@@ -1029,25 +1029,7 @@ Individui che si riproducono asessualmente danno origine a *cloni*, individui ge
 >
 > Meiosi: dal greco *mèiōsis*, diminuzione
 
- ## Mitosi, divisione cellulare
-
-Il perpetuarssi della vita si basa sulla riproduzione delle cellule, o divisione. 
-Il corso della vita di u 
-
-La divisione cellulare partecipa a 
-
-- riproduzione
-- crescita/sviluppo
-- rinnovamento/riparazione
-
-Le amebe sono organismi eucarioti unicellulari, si riproducono per mitosi.
-I gemelli omozigoti, uno si può chiedere dove nasce la coscienza.. le cellule hanno coscienza?
-
-**Leibniz, «è il migliore dei mondi possibili»**
-Neuroni e cellule muscolari dell'adulto non si dividono, sarebbe stato vantaggioso.
-I neuroni usano il glucosio come combustibile, usano sempre ossigeno. Un danno cerebrale non può essere riparato come invece una ferita. 
-
-Forse si poteva fare qualcosa di più per il cervello? è leggermente blasfemo ma vero.
+## Ciclo cellulare
 
 **Ciclo cellulare, 4 fasi**
 
@@ -1067,6 +1049,25 @@ I genomi di cellulle eucariotiche, in genere più molecole di DNA
 
 Le cellule dei mammiferi impiegano da 18 a 24 ore per completare un ciclo di mitosi, mentre i lieviti ci mettono 90 minuti. Il lievito da fornaio è usato come organismo modello da biologi che studiano genetica e biologia molecolare (in particolare ciclo cellulare) perché è facile crescerlo in coltura ed in quanto eucariota ha una struttura cellulare complessa. 
 L'autofagia cellulare e l'invecchiamento cellulare dovuto ai telomeri sono scoperte fatte grazie a esperimenti e analisi del lievito da fornaio; il suo genoma è stato quello sequenziato completamente. 
+
+ ## Mitosi, divisione cellulare
+
+Il perpetuarssi della vita si basa sulla riproduzione delle cellule, o divisione. 
+
+La divisione cellulare partecipa a 
+
+- riproduzione
+- crescita/sviluppo
+- rinnovamento/riparazione
+
+Le amebe sono organismi eucarioti unicellulari, si riproducono per mitosi.
+I gemelli omozigoti, uno si può chiedere dove nasce la coscienza.. le cellule hanno coscienza?
+
+**Leibniz, «è il migliore dei mondi possibili»**
+Neuroni e cellule muscolari dell'adulto non si dividono, sarebbe stato vantaggioso.
+I neuroni usano il glucosio come combustibile, usano sempre ossigeno. Un danno cerebrale non può essere riparato come invece una ferita. 
+
+Forse si poteva fare qualcosa di più per il cervello? è leggermente blasfemo ma vero.
 
 **Mitosi**
 
@@ -1236,7 +1237,7 @@ Ogni cromosoma sa]rà composto da 2 cromatidi fratelli => cromosomi omologhi dup
 **Meiosi I**
 <img src="http://superagatoide.altervista.org/alterpages/meiosi1w.jpg" alt="img" style="zoom: 40%;" />
 
-I cromosomi omologhi si separano. Si ottengono due cellule aploidi dopo la separazione dei due omologhi, 46 cromosomi ma dello stesso corredo cromosomico.
+I cromosomi omologhi si separano. Si ottengono due cellule aploidi dopo la separazione dei due omologhi, 46 cromosomi.
 
 **Meiosi II**
 
@@ -1271,6 +1272,9 @@ Meiosi -> 4 cellule aploidi diverse
 
 ### Origini della variabilità genetica
 
+Lo stesso gene nella stessa specie può esistere in varie forme, con leggre differenze nella sequenza nucleotidica, questo sono i differenti *alleli* del gene. 
+Gli alleli di tutti i geni di un individuo determinano il suo *genotipo*. 
+
 I 3 meccanismi con cui c'è variabilità genetica sono:
 
 **Assortimento indipentende dei cromosomi omologhi**
@@ -1299,10 +1303,10 @@ Il DNA viene modificato e questo contribuisce ulteriormente alla variabilità ge
 ## Sintesi del DNA
 
 **Struttura del DNA**
-
 1953, Watson e Crick, struttura a doppia elica del DNA. Rosalind Franklin, scienziata (avrebbero dovuto assegnare il Nobel anche a lei).
 
 <img src="/home/ludo/.config/Typora/typora-user-images/image-20210307185508585.png" alt="image-20210307185508585" style="zoom:50%;" />Larghezza 2nm. Ogni filamento è un polinucleotide. 
+Il DNA è una molecola estremamente dinamica, sempre in movimento (un bambino di 3 anni).
 
 I legami a idrogeno sono fondamentali per rafforzare lo scheletro zucchero-fosfato a doppia elica del DNA.
 Un altissimo numero di legami a idrogeno lo avevamo trovato anche nella cellulosa, un particolare carboidrato, nelle proteine e nell'acqua. 
@@ -1370,24 +1374,17 @@ La parte iniziale viene formato dall'enzima *primasi*, nell'uomo sintetizza circ
 
 <img src="/home/ludo/.config/Typora/typora-user-images/image-20210307200431196.png" alt="image-20210307200431196" style="zoom:50%;" />
 
-36.30
-
 *?Perchè è così difficile per una cosa così semplice?*
-Ci portiamo dietro tutte queste imperfezioni. Nessuno riesce a intrevedere fino ad ora un modo logico per spiegare tutto ciò.
+Ci portiamo dietro tutte queste imperfezioni. Nessuno riesce a intrevedere fino ad ora un modo logico per spiegare tutto ciò. Finché le cose vanno bene ce le portiamo dietro. Il Demiurgo ha fatto così.
 
-Le due parti si comportano diversamente. Il Demiurgo ha fatto così.
-La DNA ligasi lega
-
-È un meccanismo davvero efficiente? Non è pericoloso affidarsi. l'accuratezza non è molto alta.
-Ogni tatno dci sono degli errori, 1 ogni 10000 base azotata è errata. Sarebbe un numero enorme.
+*?È un meccanismo davvero efficiente e sicuro?* 
+L'accuratezza non è molto alta. Ogni tanto ci sono degli errori negli appaiamenti di AT, CG; 1 ogni 10000 base azotata è errata. Sarebbe un numero enorme se lasciato così.
 La DNA polimerasi si accorge degli errori, si scende a 1 ogni 1-10 miliardi.
 Ci sono circa 3-0,3 errori per ogni mitosi.
-Per gli errori sfuggiti a tale controllo ci sono altri enzimi riparatori.
+Per gli errori sfuggiti a tale controllo ci sono altri *enzimi riparatori*.
 
-Danneggiamenti prodotti da agenti chimici dannosi, radioattività, raggi X, raggi ultravioletti.
-Se ci sono 2 timine vicine i raggi ultrvioletti fanno unire con legami covalenti.
-Un enzima
-Persone senza xeroderma pigmentoso non hanno questo enzima riparatore.
+Danneggiamenti possono essere prodotti da agenti chimici dannosi, radioattività, raggi X, raggi ultravioletti..
+Se ci sono 2 timine vicine i raggi ultrvioletti le fanno unire con legami covalenti e se non ci fossero gli enzimi riparatori che riparano si impedirebbe la replicazione del DNA oltre quel punto, come accade nelle persone affette da *xeroderma pigmentoso* che non hanno questo enzima riparatore.
 
 ### Telomeri, invecchiamento, immortalità
 
@@ -1397,290 +1394,1462 @@ La DNA polimerasi ha 2 complicazioni:
 - può polimerizzare solo in direzione 5'->3'
 
 *?Tutti i pezzetti di RNA possono essere effettivamente sostituiti dalla DNA polimerasi?*
-Non tutte, alcune regioni non vengono riempite, ci si perdono 10 nucleotidi
+Non tutti. Quando l'ultimo innesco a RNA è rimosso, non c'è nessun innesco a monte  cui una DNA polimerasi possa legarsi per riempire il vuoto derivante  dalla rimozione di tale primer. A causa di ciò, il filamento di DNA che  si è formato come filamento tardivo sarebbe accorciato ad ogni divisione cellulare.
 
-Dopo ogni riproduzione il DNA risulta più corto.
-In 60 anni perderemmo 31200 basi azotate perdute
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210308123630728.png" alt="image-20210308123630728" style="zoom:50%;" />
 
-Per i procarioti non c'è problema, il DNA è circolare
+La soluzione adottata è di togliere quel pezzetto lasciato dalla primasi, si perdono così 10 nucleotidi: dopo ogni riproduzione il DNA risulta più corto, questo potrebbe portare alla perdita di geni importanti, ma il Demiurgo ci ha pensato!
+Ipoteticamente: nell'intestino in 60 anni perderemmo 31200 basi azotate.
 
-Nelle eucarioti le molecole di DNA  hanno alle estremità speciali sequenze nucleotidiche
-TTAGGG, Questo protegge i geni.  Telomeri
+Per i procarioti non c'è problema, il DNA è circolare, non ha estremità.
+
+Nelle eucarioti le molecole di DNA hanno alle estremità speciali sequenze nucleotidiche
+TTAGGG ripetute 100-1000 volte, i *telomeri*, che proteggono i geni dall'erosione che si verifica a ogni replicazione di DNA.
 Inizialmente sono della stessa lunghezza per tutti.
 
-C'è un enzima, *telomerasi* per rimpiazzare pezzetti perduti.
-È possibile.
+C'è un enzima, la *telomerasi*, che rimpiazza i pezzetti dei telomeri perduti, ma NON è presente nelle cellule somatiche; la telomerasi è invece presente nelle cellule germinali.
+Questo vuol dire che il DNA delle cellule somatiche che si dividono tende a essere più corto negli anziani (e nelle cellule in coltura). È possibile quindi che i telomeri rappresentino un fattore limitante per la durata della vita di certi tessuti e persino di organismi interi.
+Nell'embrione inizialmente la telomerasi funziona poi gradualmente viene spenta.
 
-La telomerasi è invece presente nelle cellule germinali 
-HeLa, cellule di collo di utero, le tengono tutt'ora in coltura. Si moltiplicano in modo incontrollato mentre le cellule in coltura dopo 20-50 volte invecchiano.
+Quando la lunghezza dei telomeri scende sotto una soglia critica definito *Hayflick limit*, che si crede essere tra *50-70* divisioni cellulari, le cellule diventano senescenti e la divisione cellulare si ferma. Nella specie umana, la telomerasi è attiva nelle cellule germinali, nelle cellule staminali e nelle cellule tumorali ma non nelle cellule somatiche (che rappresentano la maggior parte delle cellule del nostro corpo).
 
-*Odissea:* Ninfa *Calipso* che promette l'immortalità.
-The age of adaline. cinema. 
-
-Windows server 2012, ASP.net
-5 o 6 cose da fare. Librerie per la compressione audio dal C al VB. Gestione file video e compressione. DB da rivedere. 
-Una parte che assicurino miglioramento e manutenzione del sw. Impegni-progetti. 
-
+Nei tumori, che generalmente si originano per trasformazione di cellule somatiche, i telomeri non si accorciano provocando il blocco della proliferazione cellulare perché le cellule tumorali riattivano la telomerasi che consente loro  una crescita illimitata. 
+Ricerche recenti hanno anche dimostrato che vari fattori, quali ad esempio lo *stress*, possono portare  all'accorciamento dei telomeri. Si è quindi posta la domanda, se la lunghezza dei telomeri potesse essere considerata un indicatore dello  stato di salute e un predittore di longevità. 
+Possiamo aspettarci che la ricerca risolverà il problema del completo controllo della telomerasi,  riuscendo ad attivarla in cellule senescenti e a spegnerla nei tumori.
 Come sconfiggere il cancro? Inibendo la loro telomerasi, trasformandole così in comuni cellule mortale. L'esercizio fisico aumenta la telomerasi, specialmente la corsa continua in ATP.
 
 Si sa che le cellule cancerose possono dividersi all'infinito senza che i telomeri si accorcino, grazie all'iperattività della telomerasi. Il  cancro potrebbe dunque essere trattato, tra l'altro, spegnendo la  telomerasi: diversi studi sono in corso, inclusi test clinici su vaccini che hanno come bersaglio le cellule con un'elevata attività della  telomerasi. È infatti in corso la sperimentazione clinica di prodotti  con attività anti-telomerasica che potrebbero, sulla luce di quanto  accennato sopra, rivelarsi molto interessanti nel trattamento di questa  patologia. Ma l'enzima ha un ruolo chiave anche in alcune malattie congenite.
 
+**HeLa**: Le HeLa sono state le prime cellule umane immortalizzate; questa linea cellulare è stata isolata da un cancro della cervice uterina di Henrietta Lacks (dal cui nome deriva quello delle cellule), che morì di questo cancro nel 1951. Il tecnico di laboratorio moltiplicò tali cellule tumorali in vitro senza il consenso della Lacks; presto si accorse di avere per le mani un tipo di cellule di particolare interesse e le rese disponibili per la commercializzazione.
+Le HeLa:
+
+- posseggono 82 cromosomi
+- sono molto più resistenti delle altre cellule tumorali e sono in grado di sopravvivere in condizioni che altre cellule non possono tollerare
+- sono in grado di vivere per un periodo relativamente lungo anche in assenza di terreno di coltura
+- le HeLa possono dividersi molte più volte rispetto alle altre cellule e ciò dipende da una mutazione della telomerasi
+
+*Odissea:* Ninfa *Calipso* che promette l'immortalità.
+The age of adaline, nel cinema. 
+
 ## Dal gene alle proteine
 
-RNA: identifica tutti i tipi: snRNA, mRNA, RNAm
+Per passare dal DNA alle proteine
 
-mRNA è l'intermediario fra DNA e citoplasma.
+- nei procarioti servono 2 passi: trascrizione e traduzione
+- negli eucarioti 3 passi: 
+  - trascrizione
+  - *maturazione*
+  - traduzione
+    - La trascrizione e la traduzione sono separate localmente e temporalmente a causa dell'involucro nucleare mentre nei precoraioti no 
 
-Dal DNA al 
-RNA: ribosio (cambia lo zucchero, uracile al poste della timina). CGAU.
+Il DNA non interagisce con i ribosomi ci vuole un intermediario, questo è l'mRNA.
 
-DNA nel cucleo sono i gioielli in cassaforte. Il messaggero è l'RNA.
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210308133744057.png" alt="image-20210308133744057" style="zoom:50%;" />
 
-Negli eucarioti:
+RNA: identifica tutti i tipi: snRNA, mRNA, RNAm ...
 
-- trascrizione
-- maturazione
-- traduzione
+La sintesi dell'mRNA è diretta dal DNA mentre la sintesi del polipeptide è sotto la guida dell'mRNA.
 
-La trascrizione e la traduzione sono separate localmente e temporalmente. 
+*?Perché si parla di traduzione?*
+Il codice genetico è utilizzato da DNA e RNA per memorizzare informazioni.
+Abbiamo 4 nucleotidi e dobbiamo codificare 20 amminoacidi. Come fare?
+Utilizzando solo 2 nucleotidi per amminoacido avrei 4 possibilità per la prima base azotata e 4 per la seconda, in totale potrei codificare 4x4= 16 amminoacidi
+Con 3 posso farne 64 (4x4x4). 
+*Codice a triplette* per codificare un amminoacido. 
 
-Codice genetico: DNA e RNA lo utilizzano per memorizzare informazioni.
-Con 4 nucleotidi dobbiamo codificare 20 amminoacidi. Come fare?
-Con 2 nucleotidi posso codificare 4x4= 16 amminoacidi
-Con 3 molti di più.. 64. la logica della biologià è la complementarietà di forma.
+> La logica della biologià è la complementarietà di forma.
 
-Codice a triplette
+es: codifica della *glicina*:
 
--> orologiaio
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210311195606344.png" alt="image-20210311195606344" style="zoom:50%;" />
 
-Il codice genetico è ridondante, 4 triplette per codificare uno stesso amminoacido.
+Un filamento fa da stampo, permettendo di formare dell'RNA complementare. Le triplette nucleotidiche dell'mRNA sono dette *codoni*, e codificano un amminoacido. La molecole di RNA lascia il nucleo attraverso i pori nucleari.
 
-Il codice genetico è condivisa da batteri/piante/animali
-CCG -> polina, da tutti
+*Oss*: non tutti i geni codificano proteine. In altre parole, l'espressione genica non sempre implica uno step di traduzione, anche se si passa sempre per uno step di trascrizione. Pertanto a volte lo stadio di trascrizione può essere quello finale.
+
+Ci sono dei codoni iniziali (AUG) e finali (UAA, UAG, UGA). Alcune triplette sono ridondanti e codificano lo stesso amminoacido (61 triplette e 20 amminoacidi).
+
+Il codice genetico è *universale*, è condiviso da batteri/piante/animali, per tutti la *prolina* si codifica in CCG.
+
 Biotecnologie: batteri programmati per produrre proteine umane, senza inventarle chimicamente.
 Si può mettere il gene della lucciola (luciferina) in una pianta di tabacco.. in un gatto..
 
- Dizionario del codice genetico. Alcuni virus sono capaci di inserirsi nel DNA. Questo DNA chiuso in cassaforte non è stabile! È molto suscettibile, è molto mobile. Se così non fosse noi non saremmo qui. Siamo qui perché il DNA non è così stabile come sembra.
+|                                                              |                                                              |                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <img src="/home/ludo/.config/Typora/typora-user-images/image-20210311201644754.png" alt="image-20210311201644754" style="zoom:33%;" /> | <img src="https://helix.northwestern.edu/sites/helix/files/styles/16by9/public/wp-content/uploads/2011/09/image-1b-face-claws2.jpg?itok=HHb9nGVR" alt="Fluorescent Kittens: Cute, Cuddly, and Fighting AIDS ..." style="zoom: 50%;" /> | <img src="https://static.wikia.nocookie.net/mmg-233-2013-genetics-genomics/images/6/60/Glowing_Cat1.jpg/revision/latest/scale-to-width-down/775?cb=20131014181912" alt="img" style="zoom:50%;" /> |
+
+Dizionario del codice genetico. Alcuni virus sono capaci di inserirsi nel DNA. Questo DNA chiuso in cassaforte non è stabile! È molto suscettibile, è molto mobile. Se così non fosse noi non saremmo qui. Siamo qui perché il DNA non è così stabile come sembra.
 
 ### Trascrizione
 
+<img src="https://i0.wp.com/www.artofthecell.com/wp-content/uploads/2014/10/Art-of-the-Cell-RNA-Polymerase.gif?ssl=1" alt="https://i0.wp.com/www.artofthecell.com/wp-content/uploads/2014/10/Art-of-the-Cell-RNA-Polymerase.gif?ssl=1" style="zoom:50%;" />
+
+<img src="http://botanystudies.com/wp-content/uploads/2017/09/Steps-of-Transcription.jpg" alt="Transcription Synthesis Steps From Messenger RNA To DNA" style="zoom: 50%;" />
+
+La RNA polimerasi si lega al promotore, la zona iniziale del gene che non verrà trascritta; viene riconosciuta la TATA box.
+Diversi fattori di trascrizione si legano al DNA (prima della polimerasi).
+I fattori di trascrizione danno il permesso all'RNA polimerasi di partire.
+
 **Inizio trascrizione**
+![Understanding Genetics](https://genetics.thetech.org/sites/default/files/2-TFIIB.png)
 
-ci serve una molecola che inizia tutto: RNA polimerasi, riconosce dove inizia il gene. 
-Le proteine 
+L'RNA polimerasi svolge la doppia elica del DNA e inizia la sintesi dell'RNA seguendo i vincoli dell'appaiamento delle basi, in direzione 5'->3'.
 
-Un gene inizia la sua attività quando 
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210311210257382.png" alt="image-20210311210257382" style="zoom:50%;" />
 
-Non è una materia pensante, solo complementareità. 
+Non c'è materia pensante, solo complementareità di forma. 
+
 **Allungamento**
+L'RNA polimerasi allarga il DNA non più di 10-20 basi azotate a volta, la doppia elica viene richiusa in fretta; prosegue la sintesi fino alla sequenza di terminazione.
 
-Il fungo tignosa.. agisce sull'RNA polimerasi. L'RNA polimerasi. 
+<img src="https://i.pinimg.com/736x/5c/aa/40/5caa40e7c37dd36995a46a1aac55c380.jpg" alt="Pin on Genetics & Genomics" style="zoom:50%;" />
 
-Uno dei trucchi per codificare 100000 proteine: l'RNA vorrebbe una protezione: roba gialla impedisce l'attacco.
+**Terminazione**
+L'RNA polimerasi riconosce il *terminatore* cioè una sequenza di DNA che segnala il punto finale della trascrizione del gene. Rilascia l'RNA sintetizzato e si stacca dal gene.
+
+<img src="http://www.macmillanhighered.com/BrainHoney/Resource/6716/digital_first_content/trunk/test/hillis2e/asset/img_ch10/c10_fig05.jpg" alt="hillis2e_ch10" style="zoom: 42%;" />
+
+*Oss*: l'apertura, la trascrizione e la chiusura della doppia elica procedono di pari passo, non si ha un'apertura totale del DNA a mo' di zip.
+
+*Oss:* l'RNA polimerasi sbaglia molto di più della DNA polimerasi e non corregge i propri errori! Fortunatamente è meno longeva.
+
+Il fungo *amanita falloide* agisce sull'RNA polimerasi inibendola, mortale. Ci deve fare capire che non c'è nessun finalismo, nessun progetto: chi mangiava questi funghi moriva di conseguenza sono sopravvissuti.
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210311205653623.png" alt="image-20210311205653623" style="zoom:33%;" />
+
+### Maturazione
+*Solo negli eucarioti*
+Uno dei trucchi per codificare 100.000 proteine: l'RNA vorrebbe una protezione: roba gialla impedisce l'attacco.
+
+**Incapsulamento**
+L'mRNA viene incapsulato aggiungendo una *coda* all'estremità 3' e un *cappuccio* all'estremità 5', al fine di proteggerla dalla degradazione da parte di enzimi idrolitici e per segnalare l'attacco ai ribosomi. L'RNA vuole una protezione dai *cattivi* del citoplasma.
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210311215534006.png" alt="image-20210311215534006" style="zoom:50%;" />
 
 **Splicing dell'RNA**
-Gran parte dei geni eucarioti. Introni (rosa chiaro) vengono buttate nell'RNA. snRNA. In questra maniera creiamo geni discontinui (Nobel per questo).
+Gran parte dei geni eucarioti possiedono lunghe sequenze nucleotidiche *non codificanti* che non vengono tradotte:
 
-Creo 2 mRNA, da un unico gene codifico 2 proteine diverse.
+- introni 
+
+- esogeni
+
+  <img src="/home/ludo/.config/Typora/typora-user-images/image-20210311215650804.png" alt="image-20210311215650804" style="zoom: 50%;" />
+
+Gli introni vengono rimossi e gli esoni vengono riuniti insieme per formare una molecola di RNA codificante continua. Nello splicing è coinvolto uno specifico tipo di RNA, l'snRNA.
+In questra maniera creiamo *geni discontinui* (Nobel per questo).
+
+Il vantaggio dei *geni discontinui* è che un singolo gene può dare origine a due o più polipeptidi diversi a seconda di quali porzioni vengano trattate come esoni nel corso della maturazione dell'RNA. Splicing alternativo dell'RNA.
+
 <img src="/home/ludo/.config/Typora/typora-user-images/image-20210301154516473.png" alt="image-20210301154516473" style="zoom: 50%;" />
+
+Creo 2 mRNA, da un unico gene codifico 2 proteine diverse poiché alcuni esoni vengono copiate solo in un mRNA e non nell'altro. Pochi geni, tante proteine.
 
 ### Traduzione
 
-Costruire proteina = polimerizza amminoacidi
-mRNA: appaiavamo basi complementari
+Con la traduzione la cellula interpreta il messaggio genetico (mRNA) e sulla base di questo polimerizza gli amminoaccidi per costruire una proteina.
+Il messaggio è la sequenza dei codoni dell'mRNA.
+La fabbrica è il *ribosoma*. Ha 4 siti di legame:
 
-RNAt (transfer) : adattatori 
+<img src="https://www.chimica-online.it/biologia/immagini/ribosoma.jpg" alt="RNA di trasporto" style="zoom: 67%;" />
 
-Abbiamo bisogno di un traduttore, di in un interprete che legge mRNA traducendo in amminoacido.
+Il processo di traduzione è la transizione da un linguaggio a 4 (A,C,G,T) lettere ad un lingugaggio a 20 lettere(i 20 amminoacidi).
 
-Ogni tRNA è specifico per un amminoacido
 
-tRNA: filamento di RNA ripiegato, ci sono 61 codoni e i tRNA sono 45.
+Non è così semplice appaiare gli amminoacidi secondo la sequenza dettata dall'mRNA (come fa la polimerasi), è necessario un *adattatore* da <u>linguaggio genetico a linguaggio amminoacidi</u>.
+Il tRNA (transfer) è il nostro adattatore, trasforma una tripletta in un amminoacido.
+
+|                                                              |                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <img src="https://www.emmecci.it/Archivio/images/4017C-D.jpg?w=800&h=800" alt="ADATTATORE / SPINA / PRESA SHUKO 10 A" style="zoom: 25%;" /> | <img src="/home/ludo/.config/Typora/typora-user-images/image-20210311222838171.png" alt="image-20210311222838171" style="zoom: 67%;" /> |
+
+Il tRNA si chiama così perché trasferisce: trasporta ai ribosomi gli amminoacidi conenuti nel citoplasma. È un acido nucleico (ovviamente) corto, formato da 80 basi, ha una forma a L. Ad una estremità vi è l'*anticodone* (interfaccia con linguaggio genetico) e dall'altra vi è il sito di legame con un amminoacido.
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210311223337947.png" alt="image-20210311223337947" style="zoom: 50%;" />
+
+Ogni tRNA è specifico per un amminoacido, di conseguenza ci sono almeno 20 tRNA; ce ne sono 45 poiché alcuni codificano più di una tripletta.
 
 **Costruzione polipeptide nel ribosoma**
-Ci vuole un tRNA, metionina
-AUG: tripletta di inizio, qui inizia il polipeptide.
-Si deve formmare il complesso iniziale, poi arriva la subunità maggiore.
-Tutto è racchiuso nelle conformazioni tridimensionali.
+Ingredienti:
 
-Metaforia: *agenzia matrimoniale*, tutto il complesso è un sito di incontri.
-Ogni volta che si termina un ciclo si ricomincia.
-Riassunto: marcomolecole biologiiche si riconoscono grazie alla complementareità tridimensionale.
+- subunità minore (su cui poggia mRNA)
+- mRNA
+- tRNA
+- *metionina*, amminoacido che segnala l'inizio (tripletta AUG)
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210312130942115.png" alt="image-20210312130942115" style="zoom:50%;" />
+
+Si deve formmare il complesso iniziale, poi arriva la subunità maggiore. Una volta a regime vari tRNA provano a legarsi, solo quelli che *incastrano* bene lasciano l'amminoacido.
+
+*?Come si attaccano più amminoacidi?*
+
+| <img src="/home/ludo/.config/Typora/typora-user-images/image-20210312131207916.png" alt="image-20210312131207916" style="zoom:50%;" /> | <img src="/home/ludo/.config/Typora/typora-user-images/image-20210312131222303.png" alt="image-20210312131222303" style="zoom:50%;" /> | <img src="/home/ludo/.config/Typora/typora-user-images/image-20210312131327800.png" alt="image-20210312131327800" style="zoom: 67%;" /> | <img src="/home/ludo/.config/Typora/typora-user-images/image-20210312131700136.png" alt="image-20210312131700136" style="zoom:50%;" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| un tRNA si incastra in posizione A; in posizione P c'è il tRNA con il polipeptide in formazione | gli amminoacidi si trovano vicini e formano un legame peptidico | gli amminoacidi si sono legati                               | i tRNA *slittano*, e quella senza amminoacido se ne va passando per la posizione E, mentre il tRNA con il polipeptide in formazione è in posizione P |
+
+Metaforia: *agenzia matrimoniale*, tutto il complesso è *un sito di incontri*.
+Ogni volta che si termina un ciclo si ricomincia aggiungendo un amminoacido a volta.
+
+Riassunto: *marcomolecole biologiche si riconoscono grazie alla complementareità tridimensionale*.
 
 Manca la matematica per la teoria della complessità.
+
 *?Come aumentiamo l'efficienza del polipeptide?*
-Poliribosomi, un'unica moecole adi mRNA utilizzata da più ribosomi per produrre quasi simultaneamente più copie di uno stesso polipeptide.
+*Poliribosomi*, un'unica moecola di mRNA utilizzata da più ribosomi per produrre quasi simultaneamente più copie di uno stesso polipeptide.
 
 <img src="/home/ludo/.config/Typora/typora-user-images/image-20210302143454925.png" alt="image-20210302143454925" style="zoom: 50%;" />
 
-Nel sistema nervoso ce ne sono tanti di poliribosomi
-
-La sintesi si blocca, quando?
-arriva sulla superficie del RE, poi riprende e col sistema delle vescicole se ne va all'esterno
-
-mRNA, ribosomi, tRNA
-
-Quanti tipi di RNA abbiamo? 
-
-- mRNA
-- snRNA: implicato nello splicing
-- tRNA: adattatori
-- rRNA: RNA ribosomiale dei ribosomi
-- SRP RNA: export
-
-L'RNA può svolgere più funzioni (il DNA è bloccato )
-
-É una catena singola quindi si può ripiegare e formare forme tridimensionali, è versatile!
+Nel sistema nervoso ce ne sono tanti di poliribosomi.
 
 <img src="/home/ludo/.config/Typora/typora-user-images/image-20210302143918207.png" alt="image-20210302143918207" style="zoom: 50%;" />
 
-*?Chi è nato prima? proteina (e anche enzimi)*
-speculazione: forse all'inizio il codice genetico era più semplice, Ipotesi del mondo a RNA.
+Avevamo detto che i ribosomi, a seconda che siano legati o liberi, producono proteine ad uso interno od esterno (legati). 
+*?Come vengono esportate le proteine?*
 
-Nei procarioti non ci sono barriere, efficienza maggiore.
+| <img src="/home/ludo/.config/Typora/typora-user-images/image-20210312132729875.png" alt="image-20210312132729875" style="zoom:50%;" /> | <img src="/home/ludo/.config/Typora/typora-user-images/image-20210312132939455.png" alt="image-20210312132939455" style="zoom:50%;" /> | <img src="/home/ludo/.config/Typora/typora-user-images/image-20210312133049354.png" alt="image-20210312133049354" style="zoom:50%;" /> |      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+|                                                              |                                                              |                                                              |      |
+
+C'è una molecola che capta l'inizio della produzione di una proteina, riconoscendo il segnale (SRP RNA) si attacca al polipeptide e la produzione si interrompe per dare il tempo al complesso di spostarsi verso il reticolo endoplasmatico.
+La collana (il polipeptide) scivola all'interno del RE e col sistema delle vescicole se ne va all'esterno.
+
+### Panoramica
+
+*?Quanti tipi di RNA abbiamo?* 
+
+| tipo di RNA | funzione                      |     RNA polimerasi |
+| :---------: | ----------------------------- | -----------------: |
+|    mRNA     | trascrizione                  |  RNA polimerasi II |
+|    snRNA    | splicing (nella maturazione)  |                    |
+|    tRNA     | adattatori (nella traduzione) | RNA polimerasi III |
+|    rRNA     | ribosomial                    |   RNA polimerasi I |
+|   SRP RNA   | export proteine               |                    |
+
+L'RNA poliemerasi I 
+
+L'RNA è una molecola molto versatile, può formare legami idrogeno fra parti della stessa molecola, un po' come le proteine e diversasmente dal DNA (che è a doppio filamento). 
+Essendo una catena singola si può ripiegare e formare forme tridimensionali.
+
+*?Chi è nato prima? proteine, ribosomi, acidi nucleici..*
+Speculazione: forse all'inizio il codice genetico era più semplice, ad 1 sola base.
+Si ipotizza un mondo a solo RNA, con ribozimi (enzimi costituiti da RNA)
+
+Nei procarioti non ci sono barriere, si fa tutto nello stesso pentolone: l'efficienza è maggiore:
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210312134253781.png" alt="image-20210312134253781" style="zoom: 50%;" />
 
 **Antibiotici**
-A volte agiscono sui ribosomi dei batteri, intaccano la loro vita e non possono più vivere. Perchè sono diversi dai nostri, altre volte potrebbero influenzare anche nostri.
+A volte agiscono sui ribosomi dei batteri, intaccano la loro vita e non possono più vivere. Perchè sono diversi dai nostri, mentre altre volte potrebbero influenzare anche nostri.
+
+| biologicamente | metafora funzionale                           |
+| :------------: | --------------------------------------------- |
+|      tRNA      | adattatore (interfaccia) elettrico            |
+|    ribosoma    | fabbrica di polipeptidi, agenzia matrimoniale |
+|   complesso    | sito di incontri                              |
+|  polipeptide   | collana                                       |
+
+
 
  ## Sviluppo embrionale umano
 
-Teoria del *preformismo*: si pensava che l'embrione fosse già sviluppato in un uovo? 300 anni fa
-Non è vero che l'embrione cresce e basta tridimensionalmente.
+Teoria del *preformismo*: si pensava che l'embrione fosse già preformato in un uovo (300 anni fa); l'uovo o lo spermatozoo contiene un'embrione in miniatura il quale nelle sue gonadi contiene una serie di embrioni più piccoli (recursive)..
 
-La somiglianza fisica ci condiziona molto nei temi etici. (aspetto psicologico)
+<img src="http://longstreet.typepad.com/.a/6a00d83542d51e69e20134864a260c970c-800wi" alt="Psicologia - O meu portfólio: A interacção entre o ..." style="zoom: 50%;" />
+
+É bene ricordarla perché non è vero che l'embrione cresce e basta tridimensionalmente.
+
+La somiglianza fisica ci condiziona molto nelle valutazioni etiche. (aspetto psicologico)
 Gli organismi viventi sono distruttori di entropia interno, aumentando entropia esterno.
-Per mantenere equilibrio aumentiamo entropia esterna per diminuire la nostra interno.
+Per mantenere equilibrio aumentiamo entropia esterna per diminuire la nostra interna.
 
 I correlati neurali che nell'adulto corrispondono all'attività pensante, in quale momento li troviamo?
 
 ### Gametogenesi
 
-Trucco: cellule che danno origine al ciclo meiotico.
-Le due cellule figlie non sono identiche, divisione mitotica asimmetrica.
-Una cellula crea 4 spermatozoi
+**Nel maschio**
+La riproduzione dei gameti prevede:
+
+- 1 *mitosi*, dalla quale vengono generate 2 cellule figlie identiche
+- una di queste cellule figlie verrà reimpiegata per la duplicazione, l'altra:
+  - 1 *meiosi*, produrrà 4 spermatozoi, ognuno differente, con corredo aploide
+
+Il trucco risiede nella freccia all'indietro: uno spermatogonio diploide rimane tale e quale, la divisione mitotica è asimmetrica.
+Tutto avviene nei tubuli dei testicoli.
 
 <img src="/home/ludo/.config/Typora/typora-user-images/image-20210302145156585.png" alt="image-20210302145156585" style="zoom: 50%;" />
 
-Femmina:
-un certo numero di follicoli inizia maturazione, 10/15 al mese, ne arriva solo 1 a maturazione, chi lo dice?
-Sostanza che viene dal cervello, ipofisi, l'ormone fa scattare maturazione 
-Appena uno è pronto ridice al cervello: smetti di produrre ormone. Quelli che rimangono più indietro muoiono.
-Abbiamo solo un ovocita, prende tutto il citoplasma (che non viene condiviso da tutte e 4 le cellule).
+**Nella femmina**
 
-Diversità
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210312154108332.png" alt="image-20210312154108332" style="zoom:50%;" />Ogni 28 giorni circa, un certo numero di follicoli inizia la maturazione, 10/15 al mese, ne arriva solo 1 a maturazione alla fine.
 
-- 4 speramtozoi vs 1 cellula uovo
-- tempi: 
-  - maschi: meiosi solo a partire dalla pubertà x maschi
-  - femmina: già nello sviluppo embrionale inizia la meiosi ma si interrompe. Non si completa
-- durata: spermatogenesi: 2 mesi (100/300 mln al giorno, solo 50% vitali). 1000 spermatozoi/secondo
-  - femmina: 500-700.000 oogni già presenti nella nascita
+*?Come mai solo 1 ne arriva a maturazione?*
+Un ormone che viene dall'ipofisi, nel cervello fa scattare la maturazione di un certo numero di follicoli (10-15 come detto sopra); appena un follicolo è maturo lo segnala al cervello e questo smette di produrre l'ormone; di conseguenza gli altri follicoli che rimangono più indietro muoiono.
 
-Più PCB abbiamo più diminuisce la mobilità spermatica. Diossina.
-Aroclor (monsanto) fu bandito poi. Se desse disturbi subito ci si accorge di questo, mentre dopo 7- anni ciao!
+Successivamente abbiamo una divisione mitotica e la meiosi. 
+Ma al termine della meiosi abbiamo solo un oocita, poiché uno prende tutto il citoplasma (che non viene condiviso tra le altre cellule, che diventano 2-3 globuli polari). 
+La meiosi può completarsi solo se viene fecondato da uno spermatozoo.
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210312141840013.png" alt="image-20210312141840013" style="zoom: 50%;" />
+
+**Diversità**
+
+|                                   | maschi                                                       | femmine                                                      |
+| :-------------------------------: | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|         Cellule prodotte          | 4 spermatozoi                                                | 1 cellula uovo (+2/3 globuli polari)                         |
+|              Meiosi               | meiosi solo a partire dalla pubertà                          | già nello sviuluppo embrionale inizia la meiosi ma si interrompe;<br />alla pubertà mensilmente produce una cellula uovo (metafase meiosi II);<br />la meiosi si completa solo se c'è fecondazione |
+|           Durata Meiosi           | 2 mesi, 100-300 milioni di spermatozoi al giorno, solo 50% vitali | 500.000-700.000 oogoni presenti alla nascita, non si possono aggiungere |
+|             Frequenza             | ca. 2000 spermatozoi al secondo                              | 1 cellula uovo al mese, il 14° giorno del ciclo mestruale    |
+| Vita nelle vie genitali femminili | 5-6 giorni                                                   | poco                                                         |
+
+I PCB sono inversamente proporzionali alla mobilità spermatica (1986). 
+Diossina, incidente a Seveso; la qualità dello spermo è stato danneggiato permanentemente.
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210312143627324.png" alt="image-20210312143627324" style="zoom: 50%;" />
+
+Aroclor (Monsanto) fu bandito. Se desse disturbi subito ci si accorge e si interviene, mentre dopo 7- anni è difficile trasmettere consapevolezza.
+
+### Periodo germinale
+
+<img src="https://www.benessere360.com/immagini/Fasi_della_gravidanza_700x525.jpg" alt="Fasi della gravidanza: calcolo e calendario settimana per ..." style="zoom:50%;" />
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210312164838506.png" alt="image-20210312164838506" style="zoom: 80%;" />
 
 **Spermatozoo**
 
 <img src="/home/ludo/.config/Typora/typora-user-images/image-20210302150343764.png" alt="image-20210302150343764" style="zoom: 50%;" />
+Flagello, guaina mitcocondriale per muoversi lungo le vie genitali femminili. L'acrosoma servirà come testa d'ariete.
 
 **Fecondazione**
+La cellula uovo è ferma nella metafase della meiosi II:
 
-1. 
-2. grazie all'acrosoma digerisce per penetrare
-3. le membrane si fondono
-4. zigote: cellula uovo fecondata
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210312145529193.png" alt="image-20210312145529193" style="zoom:50%;" />
+Una volta risalite le vie genitali femminili e incontrato l'ovulo, lo spermatozoo:
 
-Si deve bloccare l'accesso ad altri spermatozoi nell'ovulo
+| <img src="/home/ludo/.config/Typora/typora-user-images/image-20210312145616625.png" alt="image-20210312145616625" style="zoom:50%;" /> | <img src="/home/ludo/.config/Typora/typora-user-images/image-20210312145646861.png" alt="image-20210312145646861" style="zoom:50%;" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+|                                                              |                                                              |
 
-- depolarizzazione: si forma una barriera elettrica
-- blocco lento polispermia
+
+
+1. passa fra le cellule follicolari della corona radiata
+2. grazie all'acrosoma(testa d'ariete) digerisce per penetrare la zona pellucida
+3. lo spermatozoo raggiunge la membrana plasmatica dell'ovulo
+4. le due membrane plasmatiche si fondono 
+5. zigote: cellula uovo fecondata
+
+Lo spermatozzo supera dunque 3 barriere: corone radiata, zona pellucida e membrana plasmatica
+Si deve bloccare l'accesso ad altri spermatozoi nell'ovulo, la fusione delle 2 membrane plasmatiche produce:
+
+- *depolarizzazione*: si forma una barriera elettrica che impedisce agli altri spermatozoi di entrare
+
+  - blocco *rapido* della polispermia
+
+    <img src="https://www.grit.com/-/media/Images/GRT/Editorial/Articles/Magazine-Articles/2009/05-01/Electric-Fencing-Basics/OpenerFinal-AL.jpg" alt="Electric Fencing Basics" style="zoom:33%;" />
+
+- reazione corticale, la zona pellucida viene modificata
+
+  - blocco *lento* della polispermia
+
 - completamento della seconda divisione meiotica 
 
-*dichiarazione di maternità: mi fai completare una meiosi?*
-Una ragazza non fecondata non ha mai completato una meiosi in vita sua.
-
-Una volta entrato solo il nucleo e il corpo basale del flagello restano.
+Una volta entrato restano solo il nucleo e il corpo basale del flagello dello spermatozoo nell'ovulo..
 Stanno nel citoplasma ma non nello stesso nucelo. Vanno nello stesso nucleo solo dopo
 
-**Segmentazione**
-Fanno tante meiosi ma rimarranno insieme.
-Il citoplasma della cellula uovo si distribuisce ai diversi blastomeri.
+Una dichiarazione di maternità poco convenzionale per una donna pootrebbe essere: 
+*mi fai completare una meiosi?*
+Una ragazza non fecondata non ha mai completato una meiosi in vita sua.
 
-5-6 gg sopravvivenza spermatozoi (nel 14°giorno ovulo pronto?)
+**Unione spermatozoo e ovulo**
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210312151319160.png" alt="image-20210312151319160" style="zoom:50%;" />
+Solo dopo la prima divisione mitotica i cromosomi materni e paterni si troveranno nello stesso nucleo, nelle cellule figlie. 
+Prima di far ciò i due pronuclei replicano il proprio DNA e la membrana nucleare si dissolve. 
+Il corpo basale del flagello dà origine a due centrosomi.
+Si genera  il fuso mitotico della prima divisione cellulare in comune per i due pronuclei; successivamente si formano le due cellule.
+
+Si comincia a parlare di embrione.
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210312151715119.png" alt="image-20210312151715119" style="zoom:50%;" />
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210312154138840.png" alt="image-20210312154138840" style="zoom:50%;" />
+
+### Periodo embrionale
+
+<img src="https://www.periodofertile.it/wp-content/uploads/2014/01/due-mesi-dal-concepimento.jpg" alt="Il concepimento di un bambino, l'impianto e lo sviluppo ..." style="zoom:67%;" />
+
+Si divide in 3 fasi
+
+- segmentazione
+- gastrulazione
+- organogenesi
+
+**Segmentazione**
+*divisioni e citoplasma spartito fra le cellule*
+
+Si hanno una serie di mitosi che danno origine a un ammasoo rotondeggiante di cellule dette *blastomeri*. Si hanno solo le fasi S e M, non G1, G2 del ciclo cellulare.
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210312151905524.png" alt="image-20210312151905524" style="zoom: 50%;" />
+L'embrione perciò non si accresce, il citoplasma della cellula uovo si distribuisce ai diversi blastomeri.
+
+| <img src="/home/ludo/.config/Typora/typora-user-images/image-20210312152038623.png" alt="image-20210312152038623" style="zoom:50%;" /> | <img src="/home/ludo/.config/Typora/typora-user-images/image-20210312152051144.png" alt="image-20210312152051144" style="zoom:50%;" /> | <img src="/home/ludo/.config/Typora/typora-user-images/image-20210312152121950.png" alt="image-20210312152121950" style="zoom:50%;" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|                                                              |                                                              | morula                                                       |
+
+Fanno tante meiosi ma rimangono insieme.
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210312154218386.png" alt="image-20210312154218386" style="zoom:50%;" />Successivamente la morula comincia a formare una cavità al suo interno e si sposta nella cavità uterina; al 5-6° giorno si impianta nella parete uterina e l'embrione prende il nome di blastocisti.
 
 **Blastocisti**
-formata cavità, si impianta nell'utero
+*cavità formata, si impianta nell'utero*
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210312154303998.png" alt="image-20210312154303998" style="zoom:50%;" />
+La massa cellulare interna, *nodo embrionale*, darà origine all'embrione.
+La massa cellulare esterna, *trofoblasto*, formerà la porzione fetale della placenta.
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210312162231220.png" alt="image-20210312162231220" style="zoom:50%;" />
+
+Fine della 2° settimana: all'interno dell'epiblasto compare la cavità amniotica.
 
 **Gastrulazione**
-stravolgimenti
+*Stravolgimenti tridimensionali*
 
-foglietti germinativi, 3: ectoderma, mesoderma, 
-*la gastrulazione corrispone alle placche tettoniche della Terra*
+| <img src="/home/ludo/.config/Typora/typora-user-images/image-20210312162609707.png" alt="image-20210312162609707" style="zoom:50%;" /> | <img src="/home/ludo/.config/Typora/typora-user-images/image-20210312162641956.png" alt="image-20210312162641956" style="zoom:50%;" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| solo la parte celeste e gialla è l'embrione (epiblasto + ipoblasto) | linea primitiva                                              |
 
-**Ecotederma**
-Tubo neurale. originano le interfacce col mondo esterno: orecchio, occhi, cuore
+Sulla superficie dell'epiblasto si forma la *linea primitiva*.
+Le cellule dell'epiblasto migrano verso la linea primitiva; quando arrivano si separano da esso e scivolano al di sotto andando a disporsi in 2 strati.
 
-**mesoderma** muscoli e ossa
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210312162738370.png" alt="image-20210312162738370" style="zoom:50%;" />
 
-endoderma: parte interna collegata con l'esterna, polmoni, intestino.
+- *ectoderma*: cellule rimaste nell'epiblasto (blu)
+  - originano strutture che rapportano col mondo esterno (es. SNC)
+- *mesoderma*: cellule dello stato intermedio
+  - derivano muscoli e ossa
+- *endoderma*: cellule dello stato profondo
+  - derivano il rivestimento del tratto gastrointestinale e dei polmoni, il fegato, il pancreas
 
-Organogenesi: dalla 3° all'8° settimana, poi periodo fetale
+Con la *gastrulazione* si formano questi 3 *foglietti germinativi*.
+
+*La gastrulazione corrispone alle placche tettoniche della Terra*
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210312163504526.png" alt="image-20210312163504526" style="zoom:50%;" />L'ectoderma si ispessisce e si forma la *placca neurale*, che poi diventerà un tubo.
+
+**Organogenesi**
+Dalla 3° all'8° settimana, poi periodo fetale. I 3 foglietti danno origine ai tessuti e organi specifici. Durante questo periodo l'embrione cambia notevolmente; successivamente si parla di *feto*.
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210312163643065.png" alt="image-20210312163643065" style="zoom: 50%;" />
+
+A 28 giorni si originano le interfacce col mondo esterno: orecchio, occhi, cuore
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210312163717628.png" alt="image-20210312163717628" style="zoom:50%;" />
+
+
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210312163936607.png" alt="image-20210312163936607" style="zoom:50%;" />
 
 ### Periodo fetale
 
+Maturano i tessuti e gli organi; la crescita corporea è rapida.
 
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210312170309777.png" alt="image-20210312170309777" style="zoom:67%;" />
 
-<img src="/home/ludo/.config/Typora/typora-user-images/image-20210302152332235.png" alt="image-20210302152332235" style="zoom:33%;" />
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210302152332235.png" alt="image-20210302152332235" style="zoom: 67%;" />
 
-**Agenti teratogeni**
-Ipertermia
-Raggi X
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210312170215167.png" alt="image-20210312170215167" style="zoom:50%;" />
+
+I genitali esterni si cominciano a riconoscere dalla 12° settimana. L'attività muscolare è presente alla fine del 3° mese, ma avvertibile dalla madre non prima del 5° mese.
+La gravidanza dura 280 giorni, 40 settimana dall'ultima mestruazione. Quando la blastocisti si impianta nell'utero si hanno delle perdite ematiche e si può scambiare per una mestruazione, quindi è difficile da dire quanto duri effettivamente.
+
+La fecondazione avviene in genere entro 12 ore dall'ovulazione, ma lo sperma può sopravvivere fino a 6 giorni. 
+
+### Conclusioni sulla gravidanza
+Pericoli durante la gravidanza:
+
+**Agenti infettivi**
 Rosolia, Toxoplasmosi
 
-Ha preso un farmaco: *talidomide* (Thomas Quasthoff) produce danni agli arti. 
+**Agenti fisici**
+Ipertermia: bagni caldi, saune
+Raggi X
 
-Sostanze idrofobiche e idrofile: fobiche si accumulano
+**Agenti chimici**
+Talidomedide: la madre di Thomas Quasthoff ha preso un farmaco: *talidomide* produce malformazioni agli arti e cardiache. 
 
-Cosa ci assicura agricoltura biologica? Basta non usare pesticidi. Liberare dal grasso contenente pesticidi
+Sostanze idrofobiche e idrofile: le sostanze idrofobiche si accumulano nei depositi di grasso, non si sciolgono nel sudore, perchè sono apolari e non possono formare legami idrogeno con l'acqua.
 
-Trisomia di Down: siamo il frutto di un caleidoscopio, non c'è una perfezione. 
+*?Cosa ci assicura agricoltura biologica?* Una bassa percentuale di pesticidi usati (secondo l'EU, quello italiano ha un disciplinare fra i più stringenti; probabilmente a 0 non viene praticato da nessuno).
+Prima di una gravidanza è consigliabile una dieta dimagrante e un'alimentazione biologica, liberandoci dal grasso contenente pesticidi.
 
-88% colpa madre, 8% uomo, 3% anche dopo
+**Trisomia di Down**
+Ci deve ricordare che siamo il frutto di un caleidoscopio, non c'è una perfezione. 
+A causa della mancata separazione dei cromosomi omologhi nell'anafase I o dei cromatidi fratelli nella meiosi II si ha la presenza di una copia extra del cromosoma 21, da cui un gamete con 24 cromosomi, da cui un embrione con 47 cromosomi.
 
-RU-486: vero farmaco anti-abortivo. Obbliga ad espellere la 
-pillola del giorno dopo: levonorgestrel: anti-ovulazione,  impedisce che l'ovulo completi.
-Sapori nel liquido amniotico e nel latte.
+La *colpa* genetica è attribuibile nel: 88% alla madre, 8% all'uomo, 3% dopo la fecondazione.
 
-Gemelli siamesi: se avviene dopo il 12° giorno, non si separano più 
+**Aborto**
 
-Gemelli monozigoti: hanno stesso DNA, originano dallo stesso spermatozoo. I comportamenti sono innati?
+- RU-486 (mefipristone): vero farmaco anti-abortivo. Obbliga ad espellere la mucosa dell'utero, induce una mestruazione forzata
+- Pillola del giorno dopo (Levonorgestrel) farmaco anti-ovulazione, impedisce che l'ovulo completi la fecondazione (se non c'è già stata)
 
+**Implicazioni delle attività della madre sul feto**
+Sapori nel liquido amniotico e nel latte: se la mamma beve molto succo di carota il bambino non farà smorfie bevendolo.
+
+**Gemelli**
+Dizigoti e monozigoti
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210312173522068.png" alt="image-20210312173522068" style="zoom: 50%;" />
+
+Nei gemelli monozigoti a un certo punto le cellule si dividono, e il giorno in cui si dividono determina lo svolgimento della gravidanza.
+I *gemelli monozigoti* hanno lo stesso genoma, sono casi perfetti per comprendere questioni etiche, comportamentali, psicologiche.. I comportamenti sono innati?
+
+Gemelli *siamesi*: se avviene dopo il 12° giorno, non si separano più.
+
+**Attività cerebrali**
 Non ci sono dati sicuri sull'attività dei correlati neurali, a quando risalgono.
+Nel 2009 Changeux in un articolo riporta che 
+
+- il dolore, e conseguentemente i *riflessi* possono essere registrati dalla 19° settimana.
+- l'udito dalla 16° settimana
+- la memoria dalla 22-23° settimana, se è esposto ad uno stimolo ripetuto dopo una moltituidine di stimoli non reagisce più.
+
 Si accetta che il cervello è correlato alle attività mentali.
+
+## Virus 
+
+I virus non sono cellule. Sono dei genomi (da 4 a centinaia di geni), acido nucleico racchiuso in guscio proteico chiamato *capside*.
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210308191730880.png" alt="image-20210308191730880" style="zoom:50%;" />
+
+Il secondo virus in figura ha una forma ad *icosaedro*, un solido platonico.
+*Solido platonico*: ne parla Platone (nel Timeo e nel Fedone), ottaedro, cubo, tetraedro, icosaedro, dodecaedro; assegna a una diversa forma geometrica diverse qualità, legata anche alla mobilità.
+
+L'ultimo virus sembra invece il lander della navicella spaziale Apollo.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Apollo16LM.jpg" alt="Apollo Lunar Module - Wikipedia" style="zoom: 15%;" />
+
+I virus sono molto piccoli: 
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210308192230966.png" alt="image-20210308192230966" style="zoom:33%;" />
+
+Un virus può essere un DNA o un RNA, a filamento singolo o doppio. Può essere nudo o avvolto (se ha anche l'involucro lipidico).
+Virus a DNA, a doppio filamento: *Papovirus, Adenovirus*
+Virus a RNA: *Coronavirus, Picornavirus*
+
+<img src="http://www.elabscience.com/Uploads/Editor/2017-06-10/593babfde18c5.png" alt="Viruses - the Top Killers" style="zoom: 67%;" />
+
+Alcuni virus in più hanno un involucro lipidico ricavato dalle membrane della cellula infettate.
+Ricapitolando i <u>virus nudi sono formati</u> da:
+
+- *genoma*: RNA o DNA
+- *capisde*: involucro proteico che racchiude il genoma
+
+E se il virus è *avvolto* anche da:
+
+- *involucro lipidico*: preso dalla cellula infettata
+- *proteine di superficie*: aiutano il virus a riconoscere e a legarsi alle cellule nell'organismo infettato
+
+I virus che infettano i batteri sono detti *batteriofagi*.
+
+**Ciclo vitale dei *virus* in generale**
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210308204740422.png" alt="image-20210308204740422" style="zoom:50%;" />
+
+- il virus, formato da DNA e capside, entra nella cellula liberando DNA
+- partendo dal filamento di acido nucleico sfrutta la cellula infettata per
+  - *replicazione*, replicano il DNA
+  - *trascrizione*, producono mRNA per produrre proteine del capside
+- autoassemblaggio di DNA e proteine per fare tante copie di se stesso
+
+Un virus isolato non è in grado di riprodursi, si possono riprodurre solo all'interno della cellula infettata. Sono parassiti intracellulari.
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210308142739352.png" alt="image-20210308142739352" style="zoom: 50%;" />
+
+(https://www.scientificanimations.com/coronavirus-explained-through-3d-medical-animation/)
+Le proteine servono per colpire cellule con particolare recettori (bersagli). 
+Entrano per endocitosi, escono per esocitosi.
+
+**Virus nei batteri**
+Dato un batteriofago, il virus infetta un batterio iniettando il proprio acido nucleico e si circolarizza, successivamente alcuni fattori determinano se viene indotto un:
+
+- ciclo *litico*: virus riprodotto e lisa il batterio (muore)
+
+  - nuovo DNA fagico e proteine vengono sintetizzati ed assemblati in virus fagici
+  - la cellula va incontro a lisi rilascinado i nuovi virus assemblati
+
+- ciclo *lisogeno*: virus riprodotto senza lisare il batterio (rimane nel genoma del batterio)
+
+  - il DNA fagico si integra nel cromosoma batterico, diventando un *profago*
+  - il batterio si riproduce normalmente, copiando il profago e trasmettendolo alle cellule figlie, con la conseguenza che divisioni cellulari ripetute producono una larga popolazione di batteri infetti
+  - occasionalmente il profago può uscire dal cromosoma batterico e iniziare un ciclo litico
+  - alcuni geni profagici possono indurre nel batterio la produzione di tossine (es. nell'uomo scarlattina, botulismo)
+  
+  <img src="http://www.my-personaltrainer.it/benessere/img/ciclo-litico.gif" alt="Batteri: ciclo litico e ciclo lisogeno" style="zoom: 80%;" />
+
+Abbiamo dei geni che si attivano dopo anni e anni; abbiamo anche dei pezzetti di genoma dei virus che si riattivano dopo tempo, in poche parole sono una *bomba ad orologeria*. 
+
+Ma allora i batteri dovrebbero morire tutti? No, sono mutanti ecc.. I virus violentano, schiavizzano, violenza sessuale a livello cellulare. 
+
+**Virus animali**
+L'herpes ad es. si ingloba nel genoma delle cellule arteriose ecc.. rimane per tutta la vita. 
+*Debellare un virus*: toglierlo anche all'interno dei genomi in cui è presente.
+
+*?Come ci si difende dai virus?* 
+L'entità del danno causato da un virus dipende in parte dalla capacità del tessuto infettato di rigenerarsi.
+Virus del raffreddore: danneggia epitelio respiratorio ma questo si rigenera; 
+Virus della poliomielite: i neuroni non si dividono.
+
+*?Perché abbiamo dolori/febbre?* 
+In gran parte è dovuto all'attività del sistema immunitario per sconfiggere il virus.s
+Dobbiamo usare antipiretici? Ci sono più scuole di pensiero.
+
+I virus tumorali possono trasformare le cellule normali in cellule cancerose integrando il proprio acido nucleico nel DNA della cellula infettata (es. papilloma virus). Virus emergenti (HIV, ebola), forse non sono nuovi, ma già esistenti nel genoma di qualcuno e diffuso tramite viaggi, trasfusioni ecc...
+
+*?Come si sono originati i virus, se hanno bisogno di cellule per vivere?*
+Forse, da frammenti di acidi nucleici che potevano spostarsi da una cellula all'altra, in particolari da *plasmidi*  e *trasposoni*. Plasmidi, trasposoni e virus sono elementi genetici mobili.
+
+*?Che differenze ci sono fra virus a DNA e RNA?*
+
+- Per i virus a DNA, il DNA virale è iniettato direttamente nela cellula infettata in modo da replicarsi ed esprimere i suoi geni per produrre proteine virali. 
+  In altri casi il DNA si può integrare nel genoma delle cellule infettate.
+- Per i virus a RNA:
+
+  - es. HIV, sono dei *retrovirus* (vedi sotto)
+  - es. SARS-CoV-2, l'RNA virale è direttamente tradotto dalla cellula e per questo può produrre le varie proteine virali, inclusi gli enzimi richiesti per la replicazione dell'RNA in un numero alto di copie. Il genoma delle cellule non viene influenzato.
+
+**Retrovirus**
+<img src="https://cdn.ps.emap.com/wp-content/uploads/sites/3/2020/06/Fig-1-HIV-virus-structure-1024x808.jpg" alt="HIV 1: epidemiology, pathophysiology and transmission ..." style="zoom: 25%;" />
+
+Ad esempio il virus dell'HIV è un retrovirus, il pallino giallo è la trascrittasi inversa, un enzima che compie il contrario di una trascrizione, passa da RNA a DNA. 
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210311135308342.png" alt="image-20210311135308342" style="zoom: 50%;" />
+
+- Una volta penetrato nella cellula infetta l'RNA virale viene convertito dalla trascrittasi inversa prima in un ibrido RNA-DNA poi totalmente in DNA
+- questo DNA risultante entra nel nucleo attraverso i pori nucleari e si integra nel genoma delle cellule infettate. Questo step è facilitato dall'enzima *integrasi*. 
+- iniziare il processo di sintesi di proteine
+- viene generato l'mRNA per la creazione di tutto ciò che il virus necessita per riprodursi (compresa la trascrittasi inversa) 
+- nuovi virus sono pronti 
+
+Ricombinazione: sessualità pura fra acidi nucleici, cellulare. 
+
+## Batteri
+
+- cellule procariotiche
+- si replicano velocemente, singolo cromosoma circolare
+- solo traduzione e trascrizione per la produzione di proteine
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210311102739218.png" alt="image-20210311102739218" style="zoom: 33%;" />
+
+Ci sono anche una o più molecole circolari di DNA, i *plasmidi*, oltre al cromosoma batterico.
+
+Riproduzione per scissione binaria, asessuata, si ottengono due cloni. Non c'è un fuso mitotico, *ancora non è conosciuto il meccanismo col quale i due cromosomi figli si separano nelle cellule figlie*.
+
+*?Nei batteri si può formare DNA ricombinante anche se il corredo è aploide?*
+Sì, in 3 modi! Pur non essendoci né meiosi né fecondazione si può formare DNA ricombinante (ovvero la combinazione di DNA proveniente da 2 individui distinti nel genoma di un unico individuo). 
+
+- ***trasformazione***: assorbire frammenti di DNA dall'esterno proveniente da batteri simili per endocitosi, e inglobare nel loro genoma al posto della omologa porzione originale
+
+  <img src="/home/ludo/.config/Typora/typora-user-images/image-20210311113149052.png" alt="image-20210311113149052" style="zoom:50%;" />
+
+- ***trasduzione***: i fagi sono i virus che attaccano i batteri e si possono comportare da *vettori* trasportando materiale genetico da un batterio all'altro.
+  Durante il ciclo litico di molti virus il DNA si spezza in frammenti e alcuni tratti di DNA batterico possono essere inglobati nei nuovi virus in costruzione poiché le cose non sono sempre perfette. 
+
+  - *generalizzata*: se il virus viene usato come *vettore* per un pezzo di DNA del batterio; infettando una nuova cellula batterica e non svolgendo la fase litica, i geni batterici trasportati dal virus possono essere incorporati nella cellula infettata: non sappiamo quale pezzetto del DNA del batterio iniziale si ricombinacon il DNA della cellula infettata (utilizzando il virus unicamente come *vettore*). 
+
+    <img src="/home/ludo/.config/Typora/typora-user-images/image-20210311110709788.png" alt="image-20210311110709788" style="zoom:50%;" />
+
+  - *specializzata*: quando il profago si stacca dal cromosoma del batterio si porta dietro un pezzettino di DNA *adiacente* (si dice *specializzata* per questa ragione); trasferisce solo geni specifici del batterio infettato, quelli vicini. Una successiva iniezione in un batterio ricombinerà solo una parte specifica di DNA del primo batterio.
+
+    <img src="/home/ludo/.config/Typora/typora-user-images/image-20210311105509116.png" alt="image-20210311105509116" style="zoom: 67%;" />
+
+    
+
+- ***coniugazione***: due batteri possono unirsi temporaneamente, permettendo un trasferimento di materiale genico direttamente dall'uno all'altro. 
+
+  | <img src="/home/ludo/.config/Typora/typora-user-images/image-20210311112503048.png" alt="image-20210311112503048" style="zoom:25%;" /> | <img src="/home/ludo/.config/Typora/typora-user-images/image-20210311111228844.png" alt="image-20210311111228844" style="zoom:50%;" /> |
+  | ------------------------------------------------------------ | ------------------------------------------------------------ |
+  |                                                              |                                                              |
+
+  Il batterio "maschio" emette un *pilo sessuale*. Come se ci fosse un batterio maschio e femmina, il maschio inietta nella femmina una parte del suo cromosoma attraverso un ponte citoplasmatico temporaneo. 
+
+  Può inviare parte del plasmide F che porta alla sua replicazione o, se nel maschio il pasmide F si è integrato nel suo genoma, può inviare parte del genoma e dare luogo a una ricombinazione, creando un sito di crossing-over. In questo caso il batterio femmina dispone temporaneamente di un corredo diploide parziale.
+
+  <img src="/home/ludo/.config/Typora/typora-user-images/image-20210311114246364.png" alt="image-20210311114246364" style="zoom:50%;" />
+
+  Il fattore F è un plasmide della fertilità che esprime geni per la generazione del pilo, si duplica e una copia rimane nel donatore.
+
+  Plasmide F integrato:
+
+  <img src="/home/ludo/.config/Typora/typora-user-images/image-20210311114055353.png" alt="image-20210311114055353" style="zoom:50%;" />
+
+  Trasferimento del fattore F:
+
+  <img src="/home/ludo/.config/Typora/typora-user-images/image-20210311112612969.png" alt="image-20210311112612969" style="zoom:50%;" />
+
+  
+
+  La coniugazione è stata scoperta nel 1946 da Lederberg e Tatum.
+  (https://www.youtube.com/watch?v=Pbr2SYNIFY0)
+
+  I plasmidi sono essenziali in biologia molecolare: sono il modo in cui si trasporta, amplifica e manipola il DNA.
+
+Una panoramica delle modalità di ricombinazione batteriche è la seguente:
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210311113010356.png" alt="image-20210311113010356" style="zoom: 67%;" />
+
+Plasmidi e virus non sono la stessa cosa; i plasmidi non esistono all'infuori del batterio, non hanno un capside. Anche il fago può esistere separato dal cromosoma batterico o inglobato in esso, *episomi*.
+I plasmidi R contengono geni che conferiscono la resistenza agli antibiotici, contengono anche geni per codificare pili sessuali e permettere la coniugazione batterica, trasferendo così ad altri batteri la capacità di resistere agli antibiotici. Contengono fino a 10 geni che conferiscono resistenza ad altrettanti antibiotici.
+
+### Trasposoni
+
+*?Come trovano la strada per raggruppare tanti geni in un solo plasmide?*
+I trasposoni sono frammenti di DNA che possono spostarsi da una parte all'altra del genoma.
+Grazie ad essi i geni che conferiscono la resistenza agli antibiotici e che provengono da plasmidi differenti possono spostarsi su di un solo plasmide R. Può saltare il gene originale, *geni saltatore*, o una sua copia.
+Sono aumentate le possibilità di ricombinazione.
+
+I trasposoni più semplici sono le *sequenze di inserzione*. La trasposasi è un enzima che sa riconoscere le ripetizioni inverse, taglia e cuce, legandosi alle 2 regioni che delimitano il gene e a un sito bersaglio taglia e cuce effettuando lo spostamento. 
+Le sequenze di inserzione sono causa di mutazione.
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210311131612959.png" alt="image-20210311131612959" style="zoom:50%;" />
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210311131515055.png" alt="image-20210311131515055" style="zoom: 50%;" />
+
+Ci sono anche trasposoni *composti*, che oltre al DNA necessario per la trasposizione includono geni che si trovano compresi fra due sequenze di inserzione.
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210311132001653.png" alt="image-20210311132001653" style="zoom: 50%;" />
+
+Questo è il modo con cui vengono aggiunti geni di resistenza agli antibiotici ai plasmidi R e la selezione naturale favorisce i cloni batterici che possiedono tali pasmidi R.
+
+Scopo: ridistribuzione della materia con creazione di forme complesse in grado di autoreplicarsi.
+Il DNA può cambiare, è dinamico.
+
+## Vaccini
+
+> Christian Vélot
+
+Lo scopo della vaccinazione è di stimolare il sistema immunitario, esponendolo volontariamente a un agente virale o a uno dei suoi componenti (chiamato un *antigeno*).
+
+I tipi di vaccini che esistono classicamente sono:
+
+- <u>iniettare il virus per intero</u>, senza che diano la malattia, in maniera:
+
+  - attenuata , *vaccini vivi* 
+    - è reso un po' inoperativo ma non è morto, spesso sono ceppi dello stesso virus termosensibili o adattati al freddo, che non sono più in grado di moltiplicarsi alla nostra temperatura corporea di 37 C°
+    - un altro modo è coltivare il virus in colture di cellule di altre specie in modo che non possano più moltiplicarsi nell'uomo (es. usato per il morbillo)
+    - ha un effetto immunogenico più forte, lo svantaggio è che il virus non è morto e si ha un rischio maggiore, potrebbe rivelarsi insufficientemente attenuato specialmente per persone immunodepresse, donne incinte (è sconsigliato per queste persone)
+    - un altro rischio è la ricombinazione tra questa specie di virus vaccinale e una specie patogena presente nella persona vaccinata
+  - inattivato, *vaccini inattivati*
+    - il virus è stato inattivato da un trattamento chimico, di solito è formolo, formaldeide, o da un trattamento fisico ad es. per irradiazione con raggi UV
+    - sarà riconosciuto dal nostro organismo come corpo estraneo e di conseguenza il nostro organismo si allenerà a produrre anticorpi
+    - il giorno in cui gli arriverà il virus la persona sarà capace di proteggersi
+    - Lo svantaggio è che sono poco *immunogenici*, si deve potenziare l'effetto immunogenico con coadiuvanti (es. sali di alluminio, formaldeide) che potrebbero risultare tossici
+    - Ci vogliono ripetute iniezioni
+
+- <u>iniettare una proteina ricombinante</u>: si inietta la proteina (specialmente la proteina superficiale se il virus è avvolto, altrimento la proteina del capside se il virus è nudo) al fine di innescare gli anticorpi. Non c'è alcun rischio di diffondere la malattia. 
+
+  È stato usato contro l'epatite B con la proteina di superficie, e con il papillomavirus (cancro al collo dell'utero) usando le proteine del capside. 
+  *?Come si fa il vaccino per l'epatite B?*
+  Si crea in laboratorio la proteina di superficie. Questa va prima trovata nel materiale genetico del virus, va trovato il gene che detiene il segreto di fabbricazione della proteina superficiale. Una volta trovato ci si assicura che questo gene sia in grado di funzionare correttamente nelle cellule che siamo in grado di moltiplicare ripetutamente in laboratorio, come batteri, cellule del lievito (si possono far fermentare in contenitori industriali da 400 litri), cellule di radici di piante (moltiplicabili facilmente in bioreattori). Sono cellule *transgeniche* in quanto si implementa nel loro genoma dei geni estranei.
+  Queste proteine prenderanno il gene della proteina autonomamente, lo decodificheranno e fabbricheranno da sole la proteina, che chiameremo *proteina ricombinante*, nome dovuto al fatto che sono prodotto da cellule diverse da quelle che il genoma iniziale prevedeva.
+
+  Questa proteina ricombinante verrà purificata estraendola dalla cellula che l'ha prodotta, eventualmente aggiungendo coadiuvanti, poi si farà l'iniezione, avendo una proteina vaccinante.
+
+  Il costo di produzione è particolarmente alto in particolare per lo step di purificazione dell'antigeno.
+
+- <u>vaccini genetici</u>: l'antigeno (proteina) del virus viene direttamente prodotto dalle cellule del paziente iniettando DNA o RNA codificante la proteina virale in questione.
+  Iniettare questo materiale nelle cellule richiede un vettore, in genere molecole basate su plasmidi o nano-particelle di lipidi, o virus geneticamente modificati.
+
+  - plasmidi: piccole molecole di DNA circolare dei batteri nel quale il DNA virale viene introdotto
+  - nanoparticelle di lipidi: l'RNA viene intrappolato in questo doppio strato lipidico piccolissimo
+  - virus GM: virus disarmati, resi incapaci di replicarsi eliminando parte del loro materiale genetico rimpiazzato da materiale genetico che si vuole introdurre. In questo caso si usa la normale abilità dei virus in questione di iniettare il materiale genetico nelle cellule umane.
+
+*?Per il covid-19 quali vaccini sono stati usati?*
+
+- vaccini *inattivati* 
+  - vaccini cinesi, Sinopharm, sono stati messi sul mercato nel Luglio 2020, quando ancora si era appena all'inizio della fase 3 dei testi clinici
+    - non sono esenti da rischi, i coadiuvanti potrebbero essere dannosi e c'è un possibile aumento di rischio di infezione con lo stesso virus
+- vaccini a *proteina ricombinante*
+  - Novavax, inietta la proteina Spike di superficie 
+  - Medicago, inietta la proteina del capside (è una scommessa forse?) anche se questa non è visibile ed è avvolta da un involucro, prodotta su cellule vegatli, cellule transgeniche
+    - poco efficaci e possono avere effetti tossici, Nonostante il gene contenga la sequenza degli amminoacidi non è detto che la cellula la produca esattamente come scritto, dipende anche dall'ambiente in cui si trova la cellula; proteine non esattamente uguali possono avere effetti collaterali forti
+- vaccini *genetici*
+  - Pfizer-BionTech, Moderna, basati su RNA
+  - Sputnik, AstraZeneca basati su DNA
+    - rischi: virus ricombinanti, mutagenesi inserzionale 
+
+I vaccini anticovid a mRNA non contengono quindi proteine Spike, hanno un guscio lipidico e in teoria possono entrate in qualsiasi cellula, e questa è una cattiva notizia. 
+Nel maggio 2019 si è visto che iniettando in scimpanzè un vaccino a mRNA con elementi radioattivi (radioisotopi di rame) intramuscolarmente, la radioattività è limitata alle vie linfatiche. C'è un ottimismo su questa cosa ma anche delle paure.
+Le vie di ritorno sono le vie linfatiche, con punture intramuscolo.
+
+2019, Vélot, il glifosato, il pesticidia Roundup, nonostante dosi bassissime ha trovato che 1800 geni del fungo sono alterati.
+
+**Il rischio della comparsa di virus ricombinanti**
+Questo rischio è indipendente dal vettore usato per consegnare DNA o RNA virale (plasmidi, nanoparticelle o virus GM), nonostante il rischio sia ancora più alto usando virus GM.
+I virus hanno una grande capacità di scambiarsi frammenti dei rispettivi materiali genetici, fintantochè i genomi virali interessati siano della stessa natura (DNA o RNA entrambi, condividendo geni simili).  
+Questo processo di scambi è chiamato *ricombinazione*, non è riservato a DNA/RNA virale ma questi sono molto *recombingenic*. 
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210309132222188.png" alt="image-20210309132222188" style="zoom:50%;" />
+
+In molti casi questi virus ricombinanti sono molto più virali dei virus originali e possono causare infezioni aggravate. Es. H1N1 virus, influenza ricombinante fra una versione, suina, umana e aviaria (uccelli).  
+
+Questo processo può accadere solo se il materiale genetico di almeno due virus si trova nelle stesse cellule, e fortunatamente è estremamente raro in natura poichè implica che le stesse cellule siano coinfettate con almento due virus.
+Ma sotto l'influenza dell'uomo questo fenomeno può divenire più comune (es. piante transgeniche in cui è stato iniettato un transgene virale). Nel caso dei vaccini per il Covid-19 di tipo genetico essi sono somministrati intramuscolarmente o introderma. Le cellule target perciò sono: cellule muscolari, pelle, fibroplasti, cellule del sangue circolanti, ecc.. Queste cellule possono essere target di infezioni da altri virus, ad esempio *enterovirus* è stato individuato nelle cellule muscolari, *Zika virus* nelle cellule della pelle, ...
+Poichè la vaccinazione sarà di massa nel mondo la probabilità di una ricombinazione NON è zero, anche se la frequenza indubbiamente rimane bassa. É abbastanza comunque per la comparsa di un nuovo virus che possa mettere in ginocchio la salute mondiale.
+
+**Il rischio della mutagenesi inserzionale **
+
+## Controllo dell'espressione genica
+
+Eventuali cambiamenti sono *intracellulari*. Un cambiamento in una cellula non si ripercuote alle sue sorelle.
+
+**Analisi del genoma**
+Il DNA è quasi sempre unito a delle proteine chiamate *istoni*, avvlogono. Gli istoni sono ricchi di cariche positive e si legano strettamente al DNA, carico negativamente (gruppi fosfato). 
+Ci vuole spazio per leggere il DNA, ci serve la *cromatina*, composta da DNA + istoni (in quantità pressoché equivalenti.
+
+*genoma*: tutto il DNA della cellula.
+*geni*: un segmento di DNA che codifica un polipeptide o una molecola di RNA. 
+
+I geni costituiscono solo una piccola parte del genoma degli organismi eucariotici, il 3% nell'uomo (6cm), 97% junk DNA. C'è un progetto dal 2012, l'Encode project per scoprire questa parte del DNA.
+
+Nel genoma abbiamo:
+
+- *introni*: pezzi usati durante la trascrizione per lo splicing alternativo dell'mRNA, geni discontinui
+- *DNA satellite (o DNA ripetitivo tandem)*: brevi sequenze, non più di 10 basi, che si ripetono migliaia di volte, localizzato nei *telomeri* e nei centromeri; serve nel test di paternità, sono parti estremamente variabili da una persona all'altra ma molto simili fra padre-figlio
+
+- *DNA ripetitivo disperso*: pezzi di DNA lunghi centinaia o migliaia di basi, si ritrovano identici in più punti del genoma; a volte sono codificanti
+  - ne fanno parte i trasposoni (in teoria non dovrebbero avere ruoli importanti)
+
+Forse non è così negativo il fatto che i trasposoni possano saltare da una parte all'altra, se il 97% è junk.
+
+Il genoma può modificarsi nel corso della vita
+
+- amplificazione genica
+- perdita di geni
+- *trasposoni e retrotrasposoni*: 
+  
+  - i trasposoni sono tratti di DNA che si possono spostare da una posizione all'altra del genoma; se un trasposone salta all'interno del gene e lo interrompe ne impedisce il normale funzionamento. 
+  
+  - i *retrotrasposoni* restano dove sono, ma è una loro copia che si sposta con un meccanismo analogo a quello dei *retrovirus* (es.HIV). 
+    La *trascrittàsi inversa* fa l'inverso, converte da RNA a DNA. Dal gene del retrotrasposone si passa alla trascrizione generando mRNA, successivamente la trascrittasi inversa riconverte il gene in DNA, questo viene poi duplicato e viene inserito in un'altra parte del genoma.
+  
+    <img src="/home/ludo/.config/Typora/typora-user-images/image-20210311134644007.png" alt="image-20210311134644007" style="zoom:50%;" />
+
+Il DNA non è stabile, il cambiamento è intrinseco al sistema. 
+
+Secondo un articolo del 2018 su Science si è visto che sui topi le cure materne modificano il DNA: nel DNA dei topini c'erano meno sequenze ripetute nel gruppo di topi in cui le mamme erano state più affettuose. La quantità di DNA saltato dei retrotrasposoni L1 è minore. In qualche maniera lo stato emotivo, l'amore, lo stress fanno produrre sostanze al cervello (in particolare all'ippocampo) che possono influenzare addirittura il genoma delle cellule.
+
+Nell'uomo i trasposoni non dovrebbero esserci, solo retrotrasposoni che dovrebbero comporre circa il 17% del genoma umano, ma solo poche copie riescono a copiarsi.
+
+**Espressione genetica**
+*?Quali di questi geni vengono espressi?*
+Nel corso dello sviluppo diminuisce il numero dei geni espressi; si parla di *differenziamento cellulare*. 
+Questo perchè le cellule si specializzano.  
+Il controllo dell'espressione genica in termini molecolari riguarda la modulazione dei processi di traduzione e trascrizione. 
+
+Le cellule di uno stesso organismo originano per mitosi da zigote, quindi hanno lo stesso DNAm da cui gli stessi geni (salvo errori non corretti durante la replicazione, geni saltatori, ecc..).
+
+**Proteine diverse in cellule diverse**
+Le proteine create sono diverse perché ogni tipo cellulare esprime un particolare sottinsieme di geni. 
+Potrebbe sorgere un'ambiguità nel termine *diverse*: il genoma rimane immodificato quindi una proteina è sempre fatta allo stesso modo in tutte le cellule (es. tubuline, binari lungo cui si muovono le vescicole) mentre ce ne sono alcune che vengono prodotto solo da alcune. L'insulina   che si trova nel cromosoma 11 è prodotta solo dalle cellule del pancreas, anche se il suo gene è presente in tutte le cellule.
+Analogamente per la *prolattina*: ormone che stimola la lattazione, è prodotta solo dalla adenoipofisi: il feedback positivo del bambino che succhia stimola il rilascio dell'ormone; l'emoglobina solo nel midollo osseo.
+I geni sono attivi solo in alcuni tipi di tessuti, e non sempre.
+
+**Fattori di controllo dell'espressione genica**
+
+1. <u>durante la Trascrizione</u>
+
+Ci sono 2 forme chimiche di controllo della trascrizione:
+
+- si può inattivare il DNA tramite
+  - *metilazione*,  = legame di un gruppo -CH3 (metile) a una base azotata.
+- si può liberare o reprimere la trascrizione tramite
+  - Acetilazione o deacetilazione degli istoni, = legame di un gruppo acetile (-COCH3) a azoto di un amminoacido degli istoni, per cui in quel punto si verifica distacco dal DNA
+
+*epigenetica*: studio dei cambiamenti dell'espressione genica che avvengono *senza* cambiamenti nella sequenza di DNA. I cambiamenti sono *reversibili*; a volte sono stabili ed ereditari.
+
+Ogni tappa che conduce dal gene alla proteina è un potenziale punto di controllo in cui l'espressione genica può essere attivata, spenta, accelerata, rallentata..
+I fattori di trascrizione durante la trascrizione danno il permesso all'RNA polimerasi di partire. - 
+
+-  La RNA polimerasi si può controllare tramite fattori di trascrizione
+
+L'mRNA si degrada, quanto vive? pochi minuti nei procarioti, nei globuli rossi fino a 4 mesi, nelle altre cellule eucarioti ore, giorni o settimana
+
+- La velocità di degradazione può essere un altro fattore di trascrizione; cambiandola l'mRNA è più o meno presente e cambia la quantità di proteine prodotte
+
+2. <u>durante la traduzione</u>
+
+es. fecondazione; solo al raggiungimento di un certo stadio di sviluppo si procede
+
+3. <u>successivamente alla produzione</u> della proteina
+
+Le proteine si degradano; nella *fibrosi cistica* si ha un gene mutato nel cromosoma 7 con una delezione di 3 nucleotidi, causa una proteina anomala  (si ripiega in modo anomalo) e non si inserisce nella membrana plasmatica dove sarebbe servita a far uscire il cloro che avrebbe trascinato acqua, formando un muco fluido; di conseguenza il muco è denso e i virus ne approfittano. Ne riparleremo con i neuroni.
+
+.. ci sono molti punti di controllo per differenziare l'espressione genica!
+
+I g eni devono essere coordinati.
+
+*?Cosa transita attraverso questi pori nucleari?*
+mRNA, proteina, anche DNA tramite trascrittasi inversa (da un virus). 
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210313180121165.png" alt="image-20210313180121165" style="zoom:50%;" />
+
+1. con il DNA facciamo varie cose, rRNA finisce nel citoplasma e contribuisce a formare il ribosoma, tRNA (trasporta amminoacidi al ribosoma, adattatore elettrico), mRNA codifica proteine
+2. pori: mRNA, rRNA, tRNA, proteine, subunità ribosomiali
+3. proteina sintetizzata, alcune tornano nel nucleo (proteine ribosomiali, istoni, fattori di trascrizione)
+
+Traffico avanti-indietro
+
+### Cancro
+Il ciclo cellulare è sotto il controllo di alcuni geni; alcuni geni stimolano la crescita e altri la bloccano. Le cellule sono sottoposte a controllo: aggiustamento continuo (sterzo e curve).
+Se questi geni che regolano la crescita vengono alterati le rispettive cellule possono trasformarsi in cellule tumorali: mutazioni spontanee, agenti cancerogeni, radiazioni, virus.
+Perché una cellula diventi tumorale devono avvenire varie mutazioni somatiche che interessano entrambi i tipi di geni. In molti tumori viene attivato il gene della telomerasi.
+
+Alcuni tessuti possono generare tumori molto più spesso degli altri; il rischio è correlato con il numero totale di divisioni. Durante le mitosi possono avvenire errori, più ne faccio più la probabilità aumenta, *bad luck*?
+
+## Geni e sviluppo
+
+*?Quando vengono espressi i geni? Finora abbiamo soprattutto guardato lo spazio, e il tempo?*
+Durante lo sviluppo embrionale si osservano modifche temporali, che portano al differenziamento cellulare.
+
+Fattori (compresi fino a oggi):
+
+- determinanti citoplasmatici
+
+  - Il citoplasma di una cellula uovo non fecondata non è perfettamente omogeneo durante la divisione, quando la cellula si divide abbiamo che gli organuli, RNA e proteine del citoplasma dell'ovulo materno si divisono in modo non uniforme
+
+    Il gradiente di concentrazione dei determinanti citoplasmatici materni può determinare quali porzioni diventeranno anteriori e quali superiori.
+
+    <img src="/home/ludo/.config/Typora/typora-user-images/image-20210315092935060.png" alt="image-20210315092935060" style="zoom:50%;" />
+
+- segnali di induzione
+
+  - le cellule embrionali producono molecole (es. fattori di trascrizione) che inducono cambiamenti nelle cellule vicine regolandone l'espressione genica
+
+    <img src="/home/ludo/.config/Typora/typora-user-images/image-20210315092952135.png" alt="image-20210315092952135" style="zoom:50%;" />
+
+  
+
+Questi fattori contengono delle *infromazioni posizionali* che determinano l'organizzazione tridimensionale dell'organismo.
+Queste molecole sono dei *fattori di trascrizione*, che regolano i *geni di segmentazione*, geni che vengono accesi e spenti a cascata, geni che attivano altri geni.
+
+**Drosophila (mosca)**
+
+Si dividono in 3 gruppi:
+
+- geni gap
+- pair-rule 
+- polarità segmentale
+
+Vengono poi attivati altri geni, i *geni omeotici*, che determinano le strutture, le appendici che si formeranno (es. mutazione: zampe al posto delle antenne in una mosca). Sono caratterizzati da una *homeobox*, 180 nucleotidi condivisi da molti organismi e sopravvissuta nell'evoluzione.
+
+> specializzazione temporale => *sequenzialità*. 
+> Ci sono geni che attivano altri geni.
+
+Il Progetto Genoma Umano ha definito le coppie di basi. Ha definito la sequenza spaziale dei nucleotidi, ma la sequenza temporale? I nostri geni non agiscono contemporaneamente con successivo assemblaggio dei prodotti, ma con attivazione sequenziale di gruppi di geni. Come i caratteri sessuali secondari.
+
+## Cellule staminali
+
+La differenza cellulare è dovuta alla diversa espressione dei geni.
+
+*?Quali differenze sono reversibili o irreversibili?*
+Secondo alcuni esperimenti su piante ed animali il differenziamento è reversibile (non sempre).
+
+- piante: es. carote mature, le sue cellule sono totipotenti ovvero capaci di generare una nuova pianta completa
+
+  
+
+  <img src="/home/ludo/.config/Typora/typora-user-images/image-20210315094854226.png" alt="image-20210315094854226" style="zoom:50%;" />
+
+- animali: si sostitusce il nucleo di una cellula uovo non fecondata o di uno zigote (ad es. distruggeno l'acido nucleico con raggi UV) con quello di una cellula differenziata
+
+  - anfibi: es. girini, successo meno probabile tanto più la cellula era differenziata
+  - mammiferi: es. pecora Dolly, clonata con successo sostituendo il nucelo con quello di una cellula della ghiandola mammaria della madre 
+
+**Cellule staminali**
+
+- Sono cellule poco differenziate (ovvero che hanno iniziato da poco la sequenza temporale di attivazione)
+- si riproducono facilmente in vitro
+
+La divisione delle cellule staminali è *asimmetrica*, come per gli spermatozoi: una rimane staminale e l'altra si differenzia dando origine a uno dei circa 200 tipi cellulari.
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210315095905637.png" alt="image-20210315095905637" style="zoom:50%;" />
+
+Categorie di cellule staminali:
+
+| da                   |      nome      | si possono produrre                             |
+| -------------------- | :------------: | ----------------------------------------------- |
+| zigote               | *totipotenti*  | intero organismo                                |
+| epiblasto            | *pluripotenti* | tutti i tipi di tessuti ma non intero organismo |
+| foglietti embrionali | *multipotenti* | tutti i tipi cellulari di 1 tessuto             |
+| precursori cellulari |  *unipotenti*  | solo 1 tipo cellulare                           |
+| cellule mature       | *nullipotenti* | //                                              |
+
+**Ottenibilità delle cellule staminali**
+
+Durante la gravidanza:
+
+- liquido amniotico
+- cordone ombelicale
+- cellule embrionali.. (con problematiche etiche)
+
+Nell'adulto:
+
+- ci sono nelle meningi (membrane che ricoprono cervello) 
+- nel midollo osseo, danno origine ai linfociti, monociti, sono cellule *totipotenti*
+
+*2018, Normale*: da cellule staminali hanno differenziato cellule nervose manipolando segnali; hanno lavorato su 2 tipi di cellule, le hanno messe nell'ippocampo. Queste cellule formano *proiezioni*, collegamenti fra di loro: si riformano le connessioni neuronali? E se sì, chi siamo poi?
+Possibile utilizzo futuro per rimarginare problemi come ictus ecc..
+Impiantare cellule staminali nel sistema nervoso, che succede? Si sostituisce personalità/coscienza?
+
+## Ermafroditismo
+
+*?Come va considerata l'omosessualità?*
+Ermafroditi producono sia gameti maschili che femminili. 
+Si può avere *simultaneo* o sequenziale/inversione sessuale.
+
+Ne parliamo nei pesci:
+
+- se le condizioni lo richiedono le femmine possono cambiare sesso in 3/4 settimane (e diventano più aggressivi), producendo sperma effettivamente. 
+- Pesce pagliaccio, fa il contrario, alla morte della femmina il maschio dominante cambia sesso
+- Orata, inversione sessuale a 2 anni
+- Pesce donzella, nascono femmine e poi cambiano sesso invecchiando
+
+**Prudenza!**
+DNA non codificante, trasposoni, retrotrasposoni, sequenza temporale poco conosciuta, virus, plasmidi ecc..
+
+Una prolina può essere codificata in maniera diversa, all'incirca è simile (posso codificarla in 4 modi) mentre. 
 
 # Dagli organismi alle specie
 
-*Vedremo come la biodiversità possa  essere spiegata mediante l'evoluzione. Parleremo quindi di variabilità  genetica, di selezione naturale, di origine delle specie.*
+*Vedremo come la biodiversità possa essere spiegata mediante l'evoluzione. Parleremo quindi di variabilità  genetica, di selezione naturale, di origine delle specie.*
 
-## Darwin, la variabilità genetica, la selezione naturale
-## L'origine delle specie
+## Selezione naturale
+
+Per parlare di selezione naturale si deve avere chiaro che esiste la variabilità genetica, attuata tramite vari meccanismi.
+
+**Variabilità genetica**
+I geni che codificano uno stesso carattere ereditario presentano delle varianti, gli *alleli* sono le varianti di uno stesso gene. 
+Le sequenze dei nucleotidi sono un po' diverse anche se i geni occupano lo stesso posto. 
+
+Per ogni carattere un organismo eredita due alleli, uno materno e uno paterno. 
+*?Che succede se sono differenti?*
+L'aspetto esteriore di un organismo non sempre corrisponde alla sua costituzione genetica. 
+*fenotipo*: l'aspetto esteriore
+*genotipo*: costituzione genetica, aspetto del DNA
+
+Per un determinato carattere, un individuo che possiede una coppia di alleli identici viene detto omozigote altrimenti eterozigote.  
+
+Genetica mendeliana: Mendel studiava solo caratteri determinati da 1 solo gene con 2 soli alleli ma in generale solo raramente funziona così, ad esempio per caratteri come:
+
+- Picco della vedova
+- Lobo dell'orecchio attaccato o libero
+
+Allele *dominante e recessivo*: dominante quando l'effetto è visibile sul fenotipo, recessivo quando non si manifesta. Dominante non vuol dire *sottomette* o è più comune. Quando si parla di dominanza si parla di fenotipo.
+Si può avere domina nza *incompleta* quando la quantità di pigmento prodotto da un solo allele non è sufficiente.
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210315102545283.png" alt="image-20210315102545283" style="zoom:33%;" />
+
+La  maggior parte dei geni è presente in più di 2 forme alleliche, come per i gruppi sanguigni.
+Certi alleli predispongono a certe patologie, tumori..
+
+### **Gruppi sanguigni**
+Ci sono 3 alleli (quindi in totale 6 combinazione, di cui 2 coppie equivalenti), che determinano carboidrati prodotti e che possono essere presenti sulla superficie dei globuli rossi.
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210315103040307.png" alt="image-20210315103040307" style="zoom:50%;" />Gruppo 0: i globuli rossi non produce niente
+Gruppo AB: la madre dà allele che produce sostanza A, padre sostanza B
+Gruppo A e B: il genotipo può essere di 2 tipi. 
+
+L'insulina ha molti più alleli del gruppo sanguigno.
+
+**Fattore Rh**
+
+È un antigene (sostanza riconosciuta come estrane dal sistema immunitario) scoperto nel 1940,   e la sua presenza è indipendente dal gruppo sanguigno. Rh- (negativo) vuol dire che la sostanza è  del tutto assente nel sangue. 
+
+Un individuo Rh- non ha nel suo sangue gli anticorpi per il  fattore Rh positivo. Questi anticorpi *si formano non appena il paziente  riceve una trasfusione di sangue Rh positivo*. Il processo è all'inizio  molto lento e non causa problemi nell'immediato. Le complinazioni si avrebbero solo nel caso di una seconda trasfusione da un donatore incompatibile  poiché il sangue del paziente è già ricco di anticorpi Rh.
+
+Il fattore Rh positivo è un carattere *dominante* e per questo motivo, un soggetto Rh- è sicuramente omozigote per quel carattere (un Rh- ricevuto dal padre ed un Rh- ricevuto dalla madre). Al contrario un individuo Rh+ può essere sia omozigote (Rh+ Rh+) sia eterozigote (Rh+ Rh-). 
+Se si ha un allele Rh+ allora si è Rh positivi, ma un eventuale figlio tra una madre Rh- e un padre Rh+ ha 2 possibili scenari
+
+- se il padre è omozigote: il figlio sarà Rh+
+- se il padre è eterozigote non è detto, 50% 
+
+**Problema nelle gravidanze**
+Nel caso in cui la madre sia Rh- e il bambino Rh+ durante la gravidanze non si hanno problemi poiché i globuli rossi del feto non vengono a contatto con il sangue materno; ciò accade durante il parto (distacco dalla placenta) e la madre inizia a produrre anticorpi anti-Rh.
+
+I problemi insorgono nel caso di una 2° gravidanza, se anche il 2° figlio è portatore del fattore Rh+ gli anticorpi materni aggrediranno i globuli rossi del feto causando malformazioni al sistema nervoso del nascituro.
+Oggi, se tale scenario si verifica, al termin del primo parto si dà un farmaco per distruggere anticorpi anit-Rh.
+
+**Donazione sangue**
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210315104153366.png" alt="image-20210315104153366" style="zoom:50%;" />
+
+I donatori universali è il gruppo 0-. Chi riceve questo sangue già conosce quei globuli rossi e non produce anticorpi che agglutinerebbe i globuli rossi.
+
+2021: gruppo sanguigno A più vulnerabile a infezioni gravi.
+Per assicurazioni sulla vita, si fanno previsioni su carattere, scelta del partner.. ma è giusto basarsi su leggi chimiche fino a questo punto? Al crescere della complessità cambiano le regole? Compare la libertà di scelta?
+
+Tornando alla variabilità genetica
+
+## Darwin, L'origine delle specie
+
+Darwin è partito da concetti basilari
+
+- tutte le specie possiedono una fecondità molto elevata
+- le risorse ambientali sono limitate
+
+Questo porta ad una *competizione per la sopravvivenza*. A ogni generazione solo una piccola parte dei nuovi nati riesce a sopravvivere.
+
+- esiste una variabilità individuale
+- la variabilità è ereditabile
+
+Gli individui con caratteristiche più correlate con l'ambiente in cui vivono lasciano un numero maggiore di figli in grado di sopravvivere e riprodursi. Successo riproduttivo differenziale, selezione naturale.
+
+Cambiamento delle popolazioni => evoluzione della popolazione, non i singoli individui.
+
+> È la popolazione che evolve, non i singoli individui
+> La selezione naturale non crea la variabilità, ma agisce su quella preesitente
+
+*?Ci sono prove del meccanismo dell'evoluzione?*
+Vere e proprie *prove* non ce ne sono, solo prove indirette (credo che l'unica prova diretta sia tornare indietro nel tempo oppure ricreare la vita da 0 e vedere che succede). 
+Ci sono:
+
+- evidenze che non contraddicono, i reperti fossili
+- omologie molecolari, anatomiche
+- resistena agli insetticidi, agli antibiotici 
+  - pone problemi etici perché uccide solo una parte dei batteri, vengono selezionati quelli che restano in vita; facciamo indirettamente una selezione; se io prendo un antibiotico creo indirettamente specie batteriche ultraresistenti e quindi ho una ripercussione globale: usare 
+- i fringuelli delle isole Galapagos
+  - c'è chi utilizza utensili; chi è granivoro..
+  - lo spessore del becco si modificava a seconda delle annate aride; nelle annate umide ci sono molti semi piccoli; cibo sufficiente anche per fringuelli con becco piccolo
+
+La selezione rimaneggia le strutture che già esistono.
+
+**Deriva genetica**
+*specie*: gruppo di individui che possono incrociarsi
+
+*popolazione*: gruppo di indivdui della stessa specia
+
+*pool genico*: insieme di tutti gli alleli di tutti i geni presenti in una popolazione in un determinato momento
+
+In statistica si parla di *campione rappresentativa*; in certi casi
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210315145151149.png" alt="image-20210315145151149" style="zoom:50%;" />
+
+**Speciazione**
+Come si formano le specie
+
+**Evo-devo**
 
 ## Origine della vita
+
+?Come è nata la prima cellula?
+L'origine è tutt'ora ignota. La maggior parte dei biologi accetta però l'ipotesi che i primi organismi si siano sviluppati sulla Terra come il risultato di un'evoluzione chimica realizzata in 4 tappe
+
+- sintesi abiotica
+  - possiamo produrre molecole organiche a partire da componenti inorganiche<img src="/home/ludo/.config/Typora/typora-user-images/image-20210315145537920.png" alt="image-20210315145537920" style="zoom:50%;" />
+  - molecole organiche trovate anche in alcuni meteoriti
+- polimerizzazione
+  - ipotesi: evaporazione dell'acqua concentra i monomeri...
+- autereplicazione
+  - con l'RNA ci si riesce, con vari catalizzatori
+  - ma anche con una proteina, *miolide* sembra in grado di autoreplicarsi, si forma spontaneamente
+- protobionti
+
+*?Dove e quando?*
+Serve calore, nei fondali oceanici.. I più antichi resti fossili risalgono a 3,5 mld di anni fa.
+
+I più antichi fossili di eucarioti risalgono a 2,2 mld di anni fa.
+I mitocondri vengono inglobati, è un buon indizio
+
+Il DNA mitocondriale, mtDNA è utilizzato come orologio molecolare per tornare indietro nel tempo; danneggiamento mitcondri; si replicano indipendentemente. hanno una vita a sé/
+Nella fecondazione i mitocondri dello zigote sono solo della cellula uovo materna; i mitocondri materni. È vantaggioso avere variabilità genetica; mentre qua si deve sperare che i mitocondri della madre siano ben funzionanti. Ogni certo numero di anni si ha una mutazione; susseguendo le mutazioni.. si raggiunge l'eva mitocondriale.
 
 # Neuroscienze
 
 *In questa parte ci concentreremo sui neuroni e sul cervello. Tratteremo molti  temi, fra cui il potenziale d'azione, i neurotrasmettitori, le sinapsi, i meccanismi della percezione, l’apprendimento, la memoria, il sonno.*
 
- 16 - Organismi pluricellulari e comunicazione cellulare.
- 17 - Evoluzione e neuroni.
- 18 - Neuroni e neuroglia.
+Si pensava che la Terra fosse al centro dell'universo
 
-# Il singolo neurone
-## Membrana plasmatica e canali ionici
+Si pensava che l'uomo fosse al centro della creazione
 
-## Proprietà elettriche dei neuroni
+Anche il vitalismo è stato sconfitto
 
-## Sinapsi, integrazione sinaptica, neurotrasmettitori
+E ora è il momento dei comportamenti, dei sentimenti, dei pensieri, su cui le neuroscienze indagano con strumenti sconosciuti alla filolsofia del passato.
+
+Parleremo delle modificazioni chimiche ecc... una sorta di dualismo in cui ci concentriamo sulla rex extensa.. per comodità, rimaniamo sulla descrizione del cervello, in modo da poter avere una propria opinione sul cervello e mente.
+
+## Comunicazione cellulare
+In generale le cellule tra di loro comunicano *chimicamente*. 
+
+- per *contatto diretto*
+
+  - contatto diretto fra citoplasmi, le cellule di un organismo pluricellulare comunicano 
+  - contatto diretto fra molecole della membrana cellulare: si riconoscono
+
+- *rilasciando sostanze chimiche*
+
+  - locale, a breve distanza, segnali induttivi
+
+    <img src="/home/ludo/.config/Typora/typora-user-images/image-20210315152049559.png" alt="image-20210315152049559" style="zoom:50%;" />
+
+    - limite: solo a breve distanza e colpisce tutte le cellule vicina che hanno un certo recettore
+
+  - a grande distanza, apparato circolatorio, ad es. *ormoni*
+
+    <img src="/home/ludo/.config/Typora/typora-user-images/image-20210315152023740.png" alt="image-20210315152023740" style="zoom: 50%;" />
+
+     - limite: lenta, il segnale raggiunge tutte le cellule che possiedono quel recettore, ci affidiamo al sangue
+
+Il glucosio nel sangue è costante, l'aumento viene rilevato dalle cellule Beta del pancreas che produce insulina; il fegato assume glucosio e lo immagazzina.
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210315152141710.png" alt="image-20210315152141710" style="zoom: 50%;" />
+
+
+
+Calcio:
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210315152221763.png" alt="image-20210315152221763" style="zoom:50%;" />
+
+Questo modo di funzionare non va bene per il sistema nervoso perché vogliamo una comunicazione più veloce e più selettiva, evitando che il messaggio raggiunga le cellule adiacenti.
+
+Il trucco sono i *neuroni*. La loro forma consente di raggiungere lunghe distanze, tramite *trasmissione elettrica* ho rapidità e tramite le sinapsi si ha selettività. Il cervello coordina i movimenti.
+
+Nel sistema nervoso ci sono 2 tipi di cellule
+
+- cellule gliali
+
+  - 10-50 volte più numerosi dei neuroni
+
+  - non partecipano attivamente alla trasmissione dei segnali nervosi
+
+  - microglia
+
+    - risposte imunitarie
+
+  - macroglia
+
+    - astrociti, contribuisconi alla formazione della barriera *ematoencefatica*; è importante perché non raggiunge i neuroni; non interferisce con il normale svolgimento della giornata (sonno ecc..)
+
+      <img src="/home/ludo/.config/Typora/typora-user-images/image-20210315153504984.png" alt="image-20210315153504984" style="zoom:50%;" />
+
+      - oligodendrociti e le cellule di *Schwann* formano la *mielina*, rispettivamente nel sistema nervoso centrale e nel SN periferico
+
+        <img src="/home/ludo/.config/Typora/typora-user-images/image-20210315153627263.png" alt="image-20210315153627263" style="zoom:50%;" />
+
+        La mielina è un involucro che circonda gli assoni. 
+
+        <img src="/home/ludo/.config/Typora/typora-user-images/image-20210315153900178.png" alt="image-20210315153900178" style="zoom:50%;" />
+        Nella sclerosi multipla non si ha mielina.
+
+- neuroni (cellule nervose)
+
+  - 80-100 mld
+
+  - le forme dei neuroni
+
+    <img src="/home/ludo/.config/Typora/typora-user-images/image-20210315154041727.png" alt="image-20210315154041727" style="zoom: 50%;" />
+
+
+
+La cellula di Scwhann si arrotolano intorno all'assone. Solo gli assoni sono arrotolati da mielina.
+
+La sintesi proteica è molto attiva. Nei neuroni adulti non ci sono mitosi, e la replicazione del DNA è quindi assente.
+La sintesi proteica è assente nell'assone, presente solo nel corpo cellulare e nei dendriti.
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210316142843269.png" alt="image-20210316142843269" style="zoom:50%;" />
+Spina dendritica, con cui prende contatto con altri neuroni.Poliribosomi. Creiamo e perdiamo continuamente spine dendritiche. I neuroni sono dinamici!
+La balenottera azzurra può raggiungere 34m e la lunghezza stimata degli assoni più lunghi arriva a 30 metri. 
+In questo caso useremo ancora i microtubuli e la chinesina. 
+La colchicina blocca il trasporto assonale, danneggia i microtubuli, usata per fare il cariotipo bloccando i cromosomi durante la mitosi, sulla piastra metafasica.. 
+
+Il trasporto assonale più rapido arriva a 40cm al giorno. Arrivano in 2 giorni e mezzo per assoni lunghi 1 metro. Per la balenottera è ancora più lungo, circa 1 mese.
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210316143905915.png" alt="image-20210316143905915" style="zoom:50%;" />
+
+Gli scienziati utilizzano il trasporto assonale per colorare i neuroni. Trasporto retrogrado anche di virus, sostanze tetaniche.
+
+## Il singolo neurone
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210316144129104.png" alt="image-20210316144129104" style="zoom:50%;" />
+
+Descriveremo 2 tappe: chimica ed elettrica.
+
+Nelle terminazioni presinaptiche nasce una tappa chimica; nelle altre parti del neurone si hanno tappe elettriche. 
+Il neurone, se lui lo decide (meccanicisticamente), ricevendo sostanze chimiche può produrre tappe elettriche.
+Per il muscolo, quando arriva il neurotrasmettitore contrae il muscolo; non ha capacità decisionale, lo fa e basta. 
+
+### Membrana plasmatica e canali ionici
+
+Ioni: atomi che hanno perso elettroni, quando il numero di protoni è diverso dal numero di elettroni; possiedono una carica elettrica netta.
+
+In particolare ci interessano: Sodio, cloro, potassio, calcio; Na+, Cl-, K+, Ca2+
+
+**Diffusione delle sostanza**
+es. profumo, colorante nell'acqua 
+Le sostanze tendono a un equilibrio di concentrazione, si distribuiscono casualmente nello spazio a disposizione; *gradiente di concentrazione*, immaginarselo come una spinta. Due sostanze sono indipendenti riguardo il gradiente di concentrazione, ognuno ha la sua spinta.
+
+I nostri neuroni devono permettere l'entrata, gli ioni saranno spinti da
+
+- gradiente elettrico
+- gradiente di concentrazione
+
+Si parla quindi di *gradiente elettrochimico*. 
+
+Correnti ioniche, gradiente elettrochimico, Na+, Cl-, K+, Ca2+
+Ogni ione ha il proprio gradiente elettrochimico.
+
+**Membrana plasmatica**
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210316145909715.png" alt="image-20210316145909715" style="zoom:50%;" />
+È una proteina.
+
+La membrana plasmatica, avevamo detto, è un impermeabile. È una barriera che la protegge; ma ha bisogno che ossigeno entri ed CO2 esca. Dobbiamo essere più precisi: la barriera è selettivamente permeabile. 
+È molto permeabile a molecole non polari; poco o nula per molecole polari (ioni). 
+Per rompere legami serve energia, ma per formarne altri si libera energia. Il bilancio energetico è in pareggio. Uno ione può quindi spostarsi. In mezzo alle code idrofobiche della membrana plasmatica non riesce a fare legami; non entra perchè non c'è abbastanza energia per farlo; per romprere i legami ioni-dipolo e idrogeno dell'ambiente acquoso.
+
+Quando ci servono forme tridimensionali come vogliamo creiamo una proteina. 
+Si risolve il problema con i canali ionici.
+
+**Canali ionici**
+Sono proteine che hanno una forma a canale per permettere il passaggio di ioni, il trucco è aprire il canale fosfolipidico nella membrana. La conducibilità è elevata. La tappa elettrica richiede movimenti rapidi di ioni. I canali fanno passare in modo specifico, *selettività ionica*.
+
+Sono di 2 macrotipi: 
+
+- attivi 
+- passivi
+
+I canali passivi sono canali sempre aperti. Faranno entrare o uscire un certo tipo di neuroni; si muoveranno a seconda del loro gradiente elettrochimico.
+
+I canali attivi sono ad accesso regolato da segnali chimici:
+
+- Il canale è regolato da un ligando; l'interazione con un ligando fa aprire il canale. Droghetta: interagisce con canali. Sostanze non endogena disturbano apertura o chiusura. Tutto ciò che attraversa la barriera ematoencefatica.
+
+Quando ci carezziamo la pelle i canali sono collegati al citoscheletro; toccandole deformo citoscheletro e i canali si aprono o si chiudono  a seconda della deformazione; nasce segnale elettrico sensore. 
+
+- Ci sono altri canali voltaggio-dipendenti.
+
+  - varia il potenziale di membrana, 3 configurazioni
+
+    <img src="/home/ludo/.config/Typora/typora-user-images/image-20210316151623928.png" alt="image-20210316151623928" style="zoom:50%;" />
+
+- canali a fosforilazione
+
+I canali ionici sono dotati di selettività ionica.
+
+**Pompe ioniche**
+Sono anch'esse proteine: proteine *transmembrana*. Le pompe ioniche trasportano *contro* il gradiente elettrochimico; lo trasporta in energia opposta.
+
+Gli ioni non hanno bisogno di energia seguendo il gradiente elettrochimico. trasporto passivo.
+
+Invece le pompe sono a trasporto attivo, utilizzano energia metabolica. 
+Ci sono pompe che lavorano su 2 tipi ionici.
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210316152038022.png" alt="image-20210316152038022" style="zoom:50%;" />
+Pompa sodio-potassio. Fa entrare potassio, butta fuori 3 ioni sodio. Ogni volta che i neuroni; lavora in continuazione. È presente nella membrana di tutti i neuroni. 
+
+**Neurone a riposo**
+In un neurone a riposo i canali attivi sono tutti chiusi. Ma è un caso teorico, sono sempre in funzione, sempre. Qualche canale è sempre aperto: rumore di fondo.
+
+**Interno/Esterno**
+*?Come sono distribuiti gli ioni?*
+In modo disuniforme, il totale delle cariche è diverso dentro e fuori. 
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210322142100813.png" alt="image-20210322142100813" style="zoom:50%;" />
+
+Concentrazione -> []. All'esterno
+Millimolare: modo di misurare 
+Con le moli si fa riferimento al numero degli oggetti; una mole di X, Y, si ragiona con il numero; (350g di spaghetti non ci dicono quanti spaghetti ci sono; le moli sì). Il fatto che il sale sia molto presente all'esterno dei neuroni ci fa ricordare che la vita un tempo era nel mare.
+
+Più potassio dentro, il calcio è pochissimo; sodio e cloro sono più abbondanti fuori.
+
+Dentro: potassio (150), la caffeina aiuta la fuoriuscita di calcio dal RE. Il calcio è basso perchè innesca moltissime reazioni, normalmente viene tenuto basso. All'interno abbiamo anche tante proteina (ione positivo = catione, ione negativo: anione. Le molecole organiche sono più abbondanti come ioni negativi. 
+
+Questo è valido per tutto il neurone. Le concentrazioni sono diverse fra interno ed esterno.
+
+Diuretici per far uscire sodio; da parte dei reni ecc.. se voglio far uscire sodio o calcio lo butto nelle urine; squilibrando le concentrazioni di ioni si hanno delle conseguenze gravi. 
+
+Le cariche positive e negative si annullano finché possono, rimangono cariche in eccesso sia dentro che fuori dalla membrana che tenderanno ad avviciniarsi in corrispondenza della membrana cellulare. In elettronica si chiama *condensatore* il fatto che ci sono cariche positive e negative intorno alla membrana. 
+
+Il totale dele cariche nette è diverso tra interno ed esterno, così come le concentrazioni ioniche.
+*La membrana è polarizzata*. A riposo nel neurone c'è un eccesso di negatività.
+
+Quando il neurone non è a riposo avremo correnti ioniche, ma queste riguarderanno pochi ioni => le concentrazioni rimarranno costanti, ma il totale delle cariche elettriche cambia molto; si può cambiare quale parte è positiva e quale negativa, ci può essere un'inversione (il neurone *si attiva/scarica/risponde/si attiva*).
+
+Qualsiasi attività cerebrale è correlata con la trasmissione di ioni.
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210322143019721.png" alt="image-20210322143019721" style="zoom:50%;" />
+
+**Potenziale di membrana**
+A riposo c'è una differenza di *energia potenziale*; c'è una tendenza a muoversi ma con canali attivi chiusi abbiamo un'energia potenziale. C'è una differenza di potenziale elettrico tra interno ed esterno. *Differenza di potenziale elettrico*, che nel neurone si chiama *potenziale di membrana* $V_m = V_i - V_e$ (potenziale interno - potenziale esterno).
+
+Potenziale != voltaggio, ma spesso si interscambia.
+
+*?Come si misura?*
+Per misurare una pila si usa un voltmetro. 
+Dobbiamo usare un elettrodo molto piccolo, un microelettrodo intracellulare e uno extracellulare. la parte finale dei microelettrodi è aperta, così da poter iniettare robe.
+In genere quello intracellulare si mette nel soma; si va alla cieca per trovare i neuroni, si rischia di ucciderli.
+La parte più larga di un  neurone è larga 10-30 micron, 1 millesimo di millimetro, $10^{-6}m$. Serve un tavolo antivibrante e un micromanipolatore che sposta l'elettrodo anche di micron.
+
+Leggiamo la differenza fra carica esterna ed interna al neurone.
+In un neurone a riposo ci troviamo fra $-60mV$ e $-70mV = V_r$ (una carica circa 23 volte più piccola di una pila da 1,5V). 
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210322144217696.png" alt="image-20210322144217696" style="zoom:50%;" />
+Si inietta fuori cloruro di sodio e dentro potassio così da non sconvolgere gli equilibri presenti, nel caso uscissero ioni dagli elettrodi.
+
+Iniettando o quando entrano dai canali ionici cariche negative il neurone diventa *iperpolarizzato* (da -65mV a -75mV).
+*Depolarizzazione* quando entrano cariche positive (da -65mV a -55mV), (si ha depolarizzazione anche quando lo spermatozzo entra nell'ovulo, c'è il blocco rapido della polispermia).
+
+Intervalli di potenziale di membrana: $<-90mV, +40mV>$. 
+
+Le correnti ioniche sono spinte dal loro gradiente elettrochimico (elettrico + concentrazione chimica).
+
+*?Come si determina il gradiente elettrochimico?* 
+
+Il gradiente elettrico cambia, l'attrazione o la repulsione ad entrare.
+
+1. calcolare il potenziale di equilibrio: valore al quale freccia blu e rossa si equivalogno (gradiente elettrico e di concentrazione si equivalgono).
+   - equazione di Nernst
+     - <img src="/home/ludo/.config/Typora/typora-user-images/image-20210322145350669.png" alt="image-20210322145350669" style="zoom:33%;" />
+     - z = numero cariche degli ioni
+     - <img src="/home/ludo/.config/Typora/typora-user-images/image-20210322145534722.png" alt="image-20210322145534722" style="zoom:33%;" />
+
+2. confrontarlo col potenziale di membrana
+   - il potassio tende a uscire
+   - <img src="/home/ludo/.config/Typora/typora-user-images/image-20210322150115297.png" alt="image-20210322150115297" style="zoom: 50%;" />
+
+Le correnti iperpolarizzanti sono perchè entra Cl o perché esce potassio.
+Calcio e sodio entrano sempre; potassio e cloro dipende dal potenziale di membrana.
+
+Per sapere la direzione del movimento degli ioni si guarda il gradiente elettrochimico, legato al potenziale di membrana e alle concentrazioni; è necessario anche il potenziale di equilibrio.
+
+Sono gli ioni che accompagnano tutte le nostre attività mentali; per fare cose mentali servono ioni, mentre per cose più complesse nel corpo macromolecole ecc..
+
+Perché il potenziale di membrana a riposo è compreso fra -60 e -70mV:
+Non è dovuto ai canali attivi, ma ai canali passivi sempre aperti, che sono selettivi e fanno passare potassio e sodio rispettivamente.
+
+Se ci fossero solo canali passivi per il potassio arriveremmo al potenziale di equilibrio poiché il potassio esce ma uscendo *iperpolarizza*. 
+
+Se ci fossero solo canali del sodio entra sempre sodio e si *depolarizza* andando verso il suo pot. equilbrio 
+
+Abbiamo un valore intermedio fra -86mV e +58mV, più vicino a -86mV perché i canali per il potassio sono più numerosi.
+
+*?Chi ci pensa a rimettere le cose a posto quando tanti ioni potassio escono e tanti ioni sodio entrano?*
+Le pompe ioniche sodio-potassio; da dentro prende il sodio e lo butta furoi e il potassio lo ributta dentro.
+
+Darwinismo e produzione funzionale di strutture.
+
+### Proprietà elettriche passive
+
+Di quanto si modifica il potenziale di membrana iniettando?
+Quanto velocemente?
+Fino a quale distanza?
+
+Quando il neurone si depolarizza è come se il neurone si *addormentasse*. 
+Iniettando corrente (-0.1 nA) negativa il potenziale di membrana scende adagio. Quanto velocemente? l'iniezione è istantanea ma il neurone fa cambiare il potenziale di membrana più lentamente. $\tau$ costante di tempo, intervallo di tempo col quale si raggiunge il 63%, 20-50 ms
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210322153351404.png" alt="image-20210322153351404" style="zoom: 50%;" />
+
+*motivazione elettrotecnica del perché la variazione non è istantanea*
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210322153616110.png" alt="image-20210322153616110" style="zoom:50%;" />
+Nella membrana abbiamo sia condensatori che resistenze; sono dei ritardatari. Lavorano in parallelo. La massima corrente va nel condensatore. Dopo un po' la I aumenta; quando si toglie corrente la corrente accumulata viene restituita.
+
+Tutto quello che accade nel mondo esterno mette in moto i nostri neuroni ma le correnti prodotte sono *lente* => non possiamo rispondere istantaneamente agli stimoli. La nostra percezione del tempo è correlata al funzionamento dei nostri neuroni.
 
 # Dal singolo neurone al cervello
 ## Organizzazione del sistema nervoso
@@ -1719,4 +2888,7 @@ Si accetta che il cervello è correlato alle attività mentali.
   - se spezzo le teste sono le goccioline che rimangono, 
 - le vescicole che funzione hanno? che vita hanno?
 - mitocondri, hanno una membrana interna con creste che aumentano la superficie. In che senso? Perché fa il paragone con i radiatori?
+- è stato dimostrato che i cromosomi omologhi codificano gli stessi geni? hanno le stesse ricette? E se differiscono, come capiscono qual è quella giusta?
+  - i 2 cromosomi, di ogni coppia, fanno vita a se stante; se uno dei due codifica emoglobina con anemia falciforme e l'altro no avrò metà emoglobina "sbagliata" e metà giusta.
+- la volontà non potrebbe influenzare l'espressione genica e col tempo cambiare le ricette del DNA?
 

@@ -246,6 +246,28 @@ Le quote di mercato, come si può notare Amazon detiene quasi la metà del merca
 
 *Oss:* Possono essere svolti attività illegali nei server di un cloud, che sono comunque regolati sia dalle normative sia dal contratto d'uso (rimane la tracciabilità delle informazioni).
 
+**Amazon Simple Storage Service S3**
+*Everything must be made as simple as possible. But not simpler*
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210310095749514.png" alt="image-20210310095749514" style="zoom:33%;" />
+L'idea è di usare storage come "bucket" da riempire in modalità drug and drop.
+È difficile stimare la quantità di HW da utilizzare per avere storage privato. È sufficiente inserire i dati nei bucket di S3, dimenticandoci del problema di quantità di HW.
+Ci sono diverse classi di memorizzazione, a seconda di quanto l'utente prevede di usare i dati che memorizza (frequenza: standard/standard infrequent\glacier (per backup))
+
+**Dropbox**
+Lasciare oppure no Amazon? Storia del'esodo.
+500 petabytes, il limite fisico è il peso dei rack. L'esodo è durato quasi 2 anni; erano convinti di poter fare meglio, con macchine e sw ad hoc.
+
+Tecnicamente: iniziò progettando hw apposito per facilitare storage di dati, e parallelamente sviluppando un versione nuova del software (*magic pocket*). 1 giorno per trasferire 4 petabytes.
+Installare 40-50 racks di hw al giorno
+
+- sfortuna con incidenti: in 24 ore hanno avuto più incidenti dei camion che dovevano trasportare hw ai data centers
+
+Dropbox ha fatto questo in maniera simile al cambiare pneumatico mentre si sta guidando.
+
+*?È stata una buona idea fare l'esodo?*
+
+
 ## PaaS 
 
 *PaaS (Platform as a Service)*

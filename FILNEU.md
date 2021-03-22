@@ -146,6 +146,51 @@ Nel cervello abbiamo un intrecciamento delle *emiretine nasali* (metà della ret
 
 **Imaging con tensore di diffusione (DTI)**
 
+## Tecniche di registrazione dell'attività elettrica
+
+es. 2005 Quiroga
+
+## Registrazioni intracellulari
+
+Microelettrodo che entra dentro al neurone, quando si entra si entra e basta. Al posto di una micropipetta (troppo grande) si usa un microelettrodo (tipicamente di tungsteno, senza liquido, con un filo per chiudere il circuito). 
+I potenziali di azione vicino ad un microelettrodo provocano dei rumori forti.
+
+L'animale si immobilizza, con il *curaro* l'acetilcolina viene bloccata e i motoneuroni non rispondono. 
+*Blackemore, cat visual cortex*, si *spalettano* varie stimoli ottimi per stimolare i neuroni giusti che si vogliono studiare.
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210310174651689.png" alt="image-20210310174651689" style="zoom:25%;" />Come si isola l'attività dei vari neuorni? Utilizzando una soglia di frequenza. 
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210310180140763.png" alt="image-20210310180140763" style="zoom:33%;" />
+
+Campo recettivo del neurone visivo:
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210310175234572.png" alt="image-20210310175234572" style="zoom:33%;" />
+Nei + il gatto produce un potenziale d'azione per lo stimolo visivo auqnado compare; nei - produce pot. azione quando scompare lo stimolo.
+Fa una somma fra + e -, si devono tenere conto dei + e - per stimoli perpendicolari.
+C'è una computazione pre-conscia, esclusivamente chimica, somma dell'eccitazione e inibizione dei potenziali d'azione. 
+Macchine chimiche, la mente si correla con macchinette chimiche.
+
+## EEG
+
+Inion: osso occipitale, se ci tocchiamo dietro; 
+Parte dall'inion...
+
+elettrodi che numeriamo. Tutti i neuroni contribuiscono al segnale dell'EEG. Tutti contribuiscono alla stessa maniera? No, i pricnipalei sono i neuroni piramidali, corterccia cerbrale. 
+Cambiando la posizione cambia molto la carica sreigstrata anche su uno stesso neurone, zona di positività e negatività. Si hanno 2 poli, un dipolo elettrico; i dendriti generano un campo elettrico che può essere registrato all'esterno. Si spera che tanti neuroni insieme si sincronizzino. Correlato neurale migliore per trovare correlate dei fenemoni neuroali, *popolazioni di neuroni* che si sincronizzano.
+
+I dipoli elettrici devono essere tutti allineati con l'elettrodo, orientati. Potrebbero anche annullarsi i campi elettrici. Tanti dipoli in tante direzioni annullano i campi elettrici, servono campi elettrici che non si annullano, quindi neuroni paralleli.
+
+Supponendo di mettere un elettrodo, (ci sono circonvoluzioni); un elettrodo
+
+Se il dipolo è perpendicolare viene visto meglio, se è parallelo tende ad annullarsi. 
+
+Limite: nell'EEG rischia di catturare anche l'attività sotto di altre parti e non catturare quelle vicina.
+
+Onde alfa: 8-13 Hz. Il cervello 
+
+Onde Beta: durante il calcolo
+Onde Teta: 4-7Hz
+
+Onde delta <4Hz, durante il sonno
+
 ## Tecniche di Imaging
 
 ### Risonanza magnetica funzionale (fMRI)
@@ -374,8 +419,86 @@ Spostare lo sguardo verso uno stimolo
 Mantenere testa ferma e occhi fissi su un punto e prestare attenzione a un altro punto segretamente.
 <img src="/home/ludo/.config/Typora/typora-user-images/image-20210304114252570.png" alt="image-20210304114252570" style="zoom: 50%;" />
 
-
 L'attenzione visiva è come un lampione, mentre quella uditiva è un filtro.
+
+*Helmholtz*, quando si fissa qualcosa si guarda anche una parte al di fuori, presti attenzione ad una parte periferica del campo visivo in modo nascosto. Il soggetto notava una after image, il movimento degli occhi non era importante. 
+Anche nell'uditivo si nota qualcosa di analogo; durante un cocktail party lui apparentemente ascoltava l'interlocutore ma in modo nascosto dirigeva attenzione verso qualcos'altro. Esperimenti: input diversi a orecchio sinistro e destro. L'attenzione concentrata su un input di un solo orecchio non rendeva raggiungibili entrambi gli input. In qualche maniera influenzo la mia attenzione. Dove agisce?
+
+Ipotesi selezione precoce e tardiva.
+
+Le caratteristiche fisiche di tutti gli stimoli solo quelli rilevanti
+
+*?Il processo attentivo elimina davvero gli stimoli irrilevanti?*
+Ci sono tante stazioni, non sono in serie, i segnali vanno avanti e indietro. Ogni stazione successiva integra qualcosa. 
+Nella prima stazione entra tutto, più si va in là più si ha un taglio. Noi influenziamo la quantità di stimoli che passano.
+Sull'uditivo siamo più bravi, centri superiori influenzano la primissima stazione!
+
+**Posner**
+1978,1980. Esperimenti banali, 2mm, 5mm a 7 cm dal punto di fissazione una luce.
+Paradigma di Posner, paradigma del cueing spaziale
+
+Il 70/80% delle volte la freccia indica la direzione in cui comparirà un quadratino, ma a volte inganna -> distrugge l'aspettativa. Ha misurato come l'attenzione velocizza le risposte. 
+
+Il nostro gnu che sta nella prateria sentendo il leone e prestando attenzione alla direzione che si aspetta si salva, come è più probabile.
+Metafora sportiva: finte, induci l'avversario a pensare e concentrarsi ad una determinata scelta.
+
+Cosa stiamo misurando? una capacità del cervello o una capacità mentale?
+
+**Quiroga**
+
+Soglia di riconoscimento conscio. Soglia di riconoscimento ad uno stimolo di 1000 Hz.
+Per variare la soglia si aumenta l'intensità.
+
+Dopo l'immagine si fa vedere una maschera, backward masking, per rendere meno sbiadita l'immagine nel tempo poiché rimane più tempo sulla retina. 
+Il valore di *soglia* è quello per cui dici "sento/non sento", frequenza del 50%.
+
+Più si aumenta la durata più la frequenza è elevata. A 66ms si ha una maggiore apprendimento.
+Si è provato a passare ai singoli neuroni.
+
+Colore rosso: soggetto non vede. Risposte dei singoli potenziali di azione. 
+Oss: il potenziale di azione dura molto di più rispetto alla durata dello stimolo.
+
+Anche il neurone si correla con il cosciente l'ho visto, non l'ho visto.
+
+Il risultato principale è che la scarica di questi neuroni . Lo stesso input a seconda delle percezioni risponde diversamente. Se il soggetto presta o no attenzione cambia qualcosa? Secondo loro no, secondo Postner sicuramente sì. 
+Il nostro modo di riconoscimento tutto o nulla è soggettivo, possono essere stati fatti errori; il soggetto potrebbe aver detto di riconoscere una persona ma pensava ad un'altra persona. Il neurono da cui stiamo registrando risponde a ciò che lui ha visto o ciò che lui sta immaginando?
+
+Se avessi usato una risonanza avrei potuto confondere, l'area è sempre attiva e la misurazione è più lenta.
+con fMRI ci metto secondi, l'ossigeno che deve andare su => risposte dopo 5-6 secondi mentre con i singoli neuroni analizziamo i potenziali di azioni immediati.
+
+Si va "a caccia" di neuroni; stiamo cercando dei neuroni che rispondono allo stimolo della comparsa di un viso. Se risponde a troppe cose non va bene; 
+
+*segnalare la percezione*: potrebbe anche voler dire che sia necessario, forse una casualità. Non sappiamo cosa passa per la mente del soggetto; posso fare previsioni. 
+modulata: i numeri di potenz azioni siano più o meno. La percezione *causa*..
+
+nel mondo delle neuroscienze c'è un mescolamento.
+
+**Hipp**
+Ogni metodo ha dei difetti. 
+Sincronizzazioni oscillatorie su cortecce neuronali a larga scala predice la perceczione.
+
+Usano EEG, 
+Cubo di Necker: 2 percezioni diverse, a volte va in su, a volte va in giù. La domanda è: posso misurare qualcosa di oggettivo, e misurando posso dire che il soggetto sta vedendo il cubo verso su o giù?
+
+barre: non è prevedibile se il soggetto percepisce un *bounce*(scontro) o un *passaggio* delle sbarre. Sperano di predire quello che lui avrà dopo attraverso le misurazioni. 
+
+Scopo anche medico/riabilitativo, mentre qui è di ricerca. Esperimento sottile. Come se il cervello si stesse preparando a ricevere bounce o pass. 
+
+Ci sono sottoinsiemi di neuroni che si sincronizzano tra di loro. L'EEG ci fa vedere attività locali. Finora non si sono avute molte info sulla percezione; forse perchè la percezione ha bisogno di sincronizzazione contemparanea.
+
+misurano la coerenza.  I due ** probabilità con Anova avente p molto bassa. Si trova una coerenza che ci permette di dire: se è alta si ha bounce; se è bassa si ha 
+Guardando la coerenza *prima* (e non solo dopo) predico cosa
+
+Fluttuazioni a lunga distanza che precedono ambiguità sensoriale.  
+
+Non è stato contraddetto. Sono in grado di predire cosa proverai. 
+
+Coerenza: neuroni si stanno sincronizzando? rumore di fondo altroché se è correlato; materialismo che causa il mentale?
+
+Non sono tante le illusioni percettive con cui si ha la possibilità di definire un istante 0, con  cui misurare il prima e il dopo.
+
+-> controllare il concetto di coerenza.
+Tramite EEG e usando questa tecnica si mette in luce la loro bravura e una nuova modalità di usare uno stumento. 
 
 ## Nella Filosofia contemporanea
 
@@ -488,6 +611,20 @@ riprova e va bene lo stesso
 
 Una persona che dorme non è cosciente.
 
+## He, aree visive
+
+![image-20210310172200435](/home/ludo/.config/Typora/typora-user-images/image-20210310172200435.png)
+
+## Epilessia
+
+Hanno impiantato elettrodi a persone intrattabili per epilessia, e curandole le hanno anche analizzate. Hanno analizzato risposte dei neuroni dell'ippocampo, amigdala e altro.
+Stimoli, 1 secondo, random
+
+Lobo temporale mediale, possono rappresentare ifnormazioni di alto livello i namenoira astrata? caratterizaate dall'invazriazanna alle caratteristiche metriche dell'immagien.
+
+I neuroni possono correlare, si pongono il problema della *rappresentazione astratta*. 993 neuroni (343 singole e 650 multi-unit).  
+Hanno usato facce come stimole e hanno misurato 3 differenti tempi di reazione (300ms, 600ms, 1s). 
+
 # Esperimenti
 
 **Donders**
@@ -501,22 +638,22 @@ Metodo sottrattivo per misurazioni indirette del lato sinistro del Canyon.
 
 <img src="/home/ludo/.config/Typora/typora-user-images/image-20210304170815966.png" alt="image-20210304170815966" style="zoom:50%;" />
 
-## Miei grafici
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210317113117287.png" alt="image-20210317113117287" style="zoom:50%;" />
 
-**Protocollo A**
-<img src="/home/ludo/UNIVERSITY/UNI_current/FILNEU/grafici/Donders A, uno stimolo una risposta.png" style="zoom: 67%;" />
+Per fare le sottrazioni in modo da misurare tempo di elaborazione stimolo e risposta è meglio usare la mediana, poiché prendendo il valore che sta in mezzo minimizzo le differenze. 
 
-**Protocollo C**
+Cosa misuriamo con C-A? 
+Se rispondiamo prendiamo una posizione tra misura di una prestazione mentale o tempo di elaborazione di una popolazione neuronale.
 
-<img src="/home/ludo/UNIVERSITY/UNI_current/FILNEU/grafici/Donders C, due stimoli una risposta.png" style="zoom:67%;" />
+Non è un test automatico, ma un test in cui noi facciamo una scelta consapevole. 
 
-**Protocollo B**
+## Posner
 
-<img src="/home/ludo/UNIVERSITY/UNI_current/FILNEU/grafici/Donders B, due stimoli due risposta.png" style="zoom:67%;" />
+Guardare al centro, punto di fissazione.
 
 ## Un po' di statistica
 
-Data una popolazione di eventi (molti) si ottiene una distribuzione gaussiana, caratterizzata da una curva a campana
+Data una popolazione di eventi (molti) si ottiene una distribuzione gaussiana, caratterizzata da una curva a campana:
 
 <img src="https://www.okpedia.it/data/okpedia/curva-gaussiana-normale-standardizzata.gif" alt="Distribuzione normale ( statistica ) - Okpedia" style="zoom: 67%;" />La posizione della campana dipende dalla media. 
 La forma (scampanatura) dipende dalla *varianza*, ovvero la *deviazione standard* al quadrato.
@@ -535,7 +672,7 @@ Statistica *non parametrica*: richiede pochi o molti campioni, distribuzione anc
 
 ### Test statistici
 
-Vogliamo *credere* ai dati sperimentali, è un grande problema.
+Vogliamo *credere* ai dati sperimentali, ma è un grande problema.
 Si procede partendo da un *ipotesi nulla*: i dati relativi ai vari soggetti provengono dalla  stessa distribuzione (stessa popolazione), ovvero le medie dei loro tempi di reazione non sono statisticamente differenti. 
 
 Verifichiamola con 
