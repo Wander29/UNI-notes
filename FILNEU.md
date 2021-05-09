@@ -138,8 +138,6 @@ Nel cervello abbiamo un intrecciamento delle *emiretine nasali* (metà della ret
 
 # Metodi di studio in Neuroscienze
 
-
-
 ## Tecniche anatomiche
 
 **Colorazioni di Golgi, di Nissl, di Weigert**
@@ -150,7 +148,7 @@ Nel cervello abbiamo un intrecciamento delle *emiretine nasali* (metà della ret
 
 es. 2005 Quiroga
 
-## Registrazioni intracellulari
+### Registrazioni intracellulari
 
 Microelettrodo che entra dentro al neurone, quando si entra si entra e basta. Al posto di una micropipetta (troppo grande) si usa un microelettrodo (tipicamente di tungsteno, senza liquido, con un filo per chiudere il circuito). 
 I potenziali di azione vicino ad un microelettrodo provocano dei rumori forti.
@@ -168,7 +166,15 @@ Fa una somma fra + e -, si devono tenere conto dei + e - per stimoli perpendicol
 C'è una computazione pre-conscia, esclusivamente chimica, somma dell'eccitazione e inibizione dei potenziali d'azione. 
 Macchine chimiche, la mente si correla con macchinette chimiche.
 
-## EEG
+
+
+### Registrazioni extracellulari
+
+
+
+### EEG
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210324171355522.png" alt="image-20210324171355522" style="zoom:50%;" />
 
 Inion: osso occipitale, se ci tocchiamo dietro; 
 Parte dall'inion...
@@ -191,6 +197,17 @@ Onde Teta: 4-7Hz
 
 Onde delta <4Hz, durante il sonno
 
+### Potenziali evocati
+
+Si misura la differenza di potenziale elettrico fra una coppia di elettrodi:
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210324164138652.png" alt="image-20210324164138652" style="zoom:50%;" />
+
+La risposta ad uno stimolo sarebbe coperta dall'attività di tutti gli altri neuroni; si misura la riposta ad uno stimolo per N volte; si sovrappongono i grafici e si ottengono i potenziali evocati -> si fa la media, ottenendo un grafico più o meno pulito.
+
+Tra 80 e 110 msec troviamo risposta ad uno stimolo acustico.
+
+Già dopo poche stazioni si possono misurare effetti  dell'attenzione.
+
 ## Tecniche di Imaging
 
 ### Risonanza magnetica funzionale (fMRI)
@@ -201,6 +218,12 @@ Problema: risposta lenta, falsi negativi e falsi positivi
 il segnale diminuisce, poi riaumenta intorna ai neuroni. Questo perchè i vasi intorno si dilatano e gli arriva più ossigeno. 
 la risposta è ritardata di secondi.
 Falsi negativi: salmone morto ma in realtà rilevato positivamente
+
+## Stimolazione magnetica intracranica (TMS)
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210324174131786.png" alt="image-20210324174131786" style="zoom:50%;" />
+
+Eccitazione di neuroni involontaria; dove nasce la volontà se i neuroni possono fare qualcosa in modo involontario?
 
 # Filosofia della mente
 
@@ -500,11 +523,115 @@ Non sono tante le illusioni percettive con cui si ha la possibilità di definire
 -> controllare il concetto di coerenza.
 Tramite EEG e usando questa tecnica si mette in luce la loro bravura e una nuova modalità di usare uno stumento. 
 
+
+
+Attenzione 24/03
+
+**Hillyard**
+
+![image-20210324164748625](/home/ludo/.config/Typora/typora-user-images/image-20210324164748625.png)
+
+Gli ascoltatori umani sono capaci di confinare la loro attenzione ad un singolo messaggio acustico.
+Meccanismi che sopprimono informazioni provenienti da altri stimoli sensoriali
+
+Stati preparatori non selettivi. Usano una sequenza random???
+
+Correlati neurali
+
+Esperimento: 
+
+- sequenza di suoni pips a 800Hz, 50db -> tra 250 e 1250ms in un orecchio e nell'altro 1500Hz
+  - si devono contare i toni più alti
+
+hanno dimostrato che l'attenzione che viene studiata 
+
+VEP: visual evoked potentials
+
+Mastoide: osso sotto l'orecchio.
+Se avesse chiuso gli occhi le onde alfa avrebbero coperto i segnali (sarebbero state necessarie moltissime prove).  Occhi
+Con l'uditivo si devono tenere gli occhi aperti. Quando siamo attivi abbiamo un'attività Beta, desincronizzata, tipica dell'attività mentale.
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210324171006728.png" alt="image-20210324171006728" style="zoom:50%;" />
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210324171243325.png" alt="image-20210324171243325" style="zoom:50%;" />
+
+
+
+
+
+*?Anche a livello di singoli neuroni posso vedere questo?*
+**Moran & Desimone**
+Scimmie. 
+Siamo consapevoli solo di una piccola quantità di informazioni, qualcosa deve essere tagliato.
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210324171647591.png" alt="image-20210324171647591" style="zoom:50%;" />
+
+La quantià di informazione va diminuita andando centralmente (verso TEO, TE); loro paradossalmente 
+Aumento dell'attività non implica aumento dell'informazione. 
+I campi recetivi si trasformano.
+Un neurone quando viene isolato? 
+
+- dobbiamo essere sicuri che il microelettrodo sia vicino e stia registranod
+- campo recettivo sia giusto
+  - attività elettrica attribuibile solo a tale neurone
+
+vogliono trovare il campo recettivo dei neuroni: 
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210324172124424.png" alt="image-20210324172124424" style="zoom: 50%;" />
+
+Se la sbarretta è orizzontale e rosse il neurone produce pot. azione; se la mettono verde non produce pot.azione.
+Dopo 8 o 16 prove gli si "dice" concentrati sull'altro
+
+Come dirlo ad una scimmia? Math-to-sample task: 
+
+- si presenta al soggetto uno stimolo campione, poi un altro (test) e si verifica se c'è stata 
+- <img src="/home/ludo/.config/Typora/typora-user-images/image-20210324172601212.png" alt="image-20210324172601212" style="zoom:50%;" />
+
+Conclusione: cambia solo l'attenzione; quando l'attenzione è diretta/????
+Attenzione ridotta
+
+Altra prova: fuori dal campo recettivo; è necessario che lo stimolo sia nel campo recettivo. 
+
+**Bestmann, Blakemore**
+
+Nuova tecnica: stimolazione transcranica (TMS).
+Percezione conscia dipende non soltanto dall'input sensoriale ma anche dall'attenzione -> top-down influences. Percetti illusori, fosfeni. Andando direttamente in corteccia: percetti artificiali!
+Si mettono in moto meccanismi per indure percezioni.
+Fosfene cosciente (uno se ne rende conto) quando la posizione era attesa
+
+Stimolazione transcranica induce fosfeni; si pensa dalle zoni percettive precoci. Sul campo visivo controlaterale da quello stimolato; riflette eccitazione retinotropica; se accendo l'area 17 a sinistra vedo luci a destra...
+
+Percezione dei fosfeni: sonda per misurare capacità sensoriale.
+Percetti che scavalcano vie visive.. 
+Esperimento: Posner + TMS. L'intensità necessaria è la soglia (diminuire suono fino a che non lo si sente più). Il minimo rumore permette la salvezza a livello evolutivo.
+
+Se troviamo che la soglia è influenzata dall'attenzione => ha effetto diretto sulla corteccia visiva
+
+L'attenzione spaziale suggerita amplifica anche i fosfeni..
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210324175611736.png" alt="image-20210324175611736" style="zoom:50%;" />
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210324175825113.png" alt="image-20210324175825113" style="zoom:50%;" />
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210324180050018.png" alt="image-20210324180050018" style="zoom:50%;" />
+
+Stimolo nell'area occipitale. Potrei avere una consapevolezza di me illusoria?
+
+**Dennett**
+2016, What is the bandwidth of perceptual experience?
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210324180452705.png" alt="image-20210324180452705" style="zoom:67%;" />
+
+Una grande quantità di infomarzione ma ciò che possiamo percepire e immagazzinare è limitata.
+Vediamo ancora meno di quello che pensiamo. Prese insieme 
+Percepiamo un numero di stimoli ridotti rispetto a quelli a cui siamo esposti.
+It's easy to miss something if you're not looking.
+
 ## Nella Filosofia contemporanea
 
-### Chalmers 
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210331091034903.png" alt="image-20210331091034903" style="zoom:50%;" />
 
-### Dennet
+### Dennett
 
 #### The role of consciousness in self-control
 
@@ -614,6 +741,12 @@ Una persona che dorme non è cosciente.
 ## He, aree visive
 
 ![image-20210310172200435](/home/ludo/.config/Typora/typora-user-images/image-20210310172200435.png)
+![image-20210331131625899](/home/ludo/.config/Typora/typora-user-images/image-20210331131625899.png)
+
+Articolo 3: Quiroga
+Vedi anche Gazzaniga pg. 241-243.
+
+![image-20210331133141791](/home/ludo/.config/Typora/typora-user-images/image-20210331133141791.png)
 
 ## Epilessia
 
@@ -624,6 +757,12 @@ Lobo temporale mediale, possono rappresentare ifnormazioni di alto livello i nam
 
 I neuroni possono correlare, si pongono il problema della *rappresentazione astratta*. 993 neuroni (343 singole e 650 multi-unit).  
 Hanno usato facce come stimole e hanno misurato 3 differenti tempi di reazione (300ms, 600ms, 1s). 
+
+## 31 Marzo
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210331175436283.png" alt="image-20210331175436283" style="zoom: 67%;" />
+
+
 
 # Esperimenti
 
@@ -650,6 +789,8 @@ Non è un test automatico, ma un test in cui noi facciamo una scelta consapevole
 ## Posner
 
 Guardare al centro, punto di fissazione.
+
+
 
 ## Un po' di statistica
 

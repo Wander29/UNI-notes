@@ -1851,7 +1851,7 @@ Il problema è decidibile ma l'algoritmo non è completo. Non può essere usato 
 Se un problema è sottovincolato ha molte soluzioni. 
 *?Come posso misurare quanto è vincolato un problema SAT?*
 Conta il rapporto $\frac{m}{n}, m= \#clausole, n=\#simboli$. Più grande è il rapporto più vincolato è il problema.
-Es. le regine sono facili perchè il problema è sottovincoalto.
+Es. le regine sono facili perché il problema è sottovincoalto (??).
 
 <img src="/home/ludo/.config/Typora/typora-user-images/image-20210320095041088.png" alt="image-20210320095041088" style="zoom: 67%;" />
 
@@ -1918,7 +1918,7 @@ Un'unica regola: la regola di *risoluzione* (forma a clausole)
 
 È una regola corretta; meglio la notazione insiemistica così da eliminare duplicati.
 
-**Regole di risoluzione in generale**
+**Regola di risoluzione in generale**
 <img src="/home/ludo/.config/Typora/typora-user-images/image-20210320103435959.png" alt="image-20210320103435959" style="zoom: 33%;" />
 
 <img src="/home/ludo/.config/Typora/typora-user-images/image-20210320112719033.png" alt="image-20210320112719033" style="zoom: 33%;" />
@@ -2013,19 +2013,293 @@ La risposta dà un'esistenziale tipicamente è una serie di risposte (sì/no).
 
 ### Riduzione a inferenza proposizionale
 
+Denotiamo alcune regole di inferenza:
+
+- *quantificatore universale*
+  <img src="/home/ludo/.config/Typora/typora-user-images/image-20210405195702559.png" alt="image-20210405195702559" style="zoom: 33%;" />
+  - posso ottenere istanze attraverso il *grounding*
+- *esistenziale*<img src="/home/ludo/.config/Typora/typora-user-images/image-20210405195753317.png" alt="image-20210405195753317" style="zoom: 33%;" />
+  - per eliminare l'esistenziale: *skolemizzazione*!
+    <img src="/home/ludo/.config/Typora/typora-user-images/image-20210405195924204.png" alt="image-20210405195924204" style="zoom: 33%;" />
+
+**Riduzione a inferenza proposizionale**
+Si può attuare in 2 modi:
+
+- *grounding* (proposizionalizzazione)
+  - universale: creando un'istanza per ogni oggetto menzionato
+  - esistenziale: skolemizzazione
+
+Se riesco a ricondurmi dal prim'ordine al caso proposizionale posso trattare la KB come proposizionale ed essere molto più efficiente (algoritmi SAT).
+
+*Problemi*:
+
+- le costanti sono in numero *finito*, avendo funzioni il numero di istanze è potenzialmente infinito (es. John, Padre(John), Padre(Padre(John)), ... )
+
+**Teorema di Herbrand**
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210405200559082.png" alt="image-20210405200559082" style="zoom:33%;" />
+Incrementalmente:
+
+- creare istanze con costanti
+- creare quelle con un solo livello di annidamento (es. Padre(John))
+  - ripetere con 2 livelli di annidamento (es. Padre(Padre(John)))
+
+Se la KB non è conseguenza logica di A il processo non termina. È un problema *semidecidibile*, abbiamo un modo di procedere.
+
 ### Il metodo di risoluzione per FOL
+
+Per il PROP abbiamo visto prima la *regola di risoluzione*, che forma da sola un *proof system* corretto e completo (se usato con refutazione). 
+
+*?Possiamo estendere al FOL il metodo di risoluzione?*
+Sì, ma dobbiamo estendere al FOL la trasformazione in forma a clausole e dobbiamo introdurre il concetto di *unificazione*.
 
 #### Trasformazione in forma a clausole
 
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210405201732801.png" alt="image-20210405201732801" style="zoom:33%;" />
+Costanti, funzioni [termini], predicati [formule] sono come definiti precedentemente. Escludiamo formule atomiche del tipo $t_1 = t_2$.
+
+Una KB è un insieme di clausole.
+
+**Teorema (trasformazione in forma a clausole dal FOL)**
+Per ogni formula chiusa $\alpha$ del FOL è possibile trovare in maniera *effettiva* un insieme di clausole FC($\alpha$) (FC: forma a clausole) che è soddisfacibile $\iff \alpha$ lo era (e insoddisfacibile viceversa). 
+
+Questa trasformazione *preserva la soddisfacibilità*.
+
+----
+
+es svolto: 
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210405203055615.png" alt="image-20210405203055615" style="zoom:33%;" />
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210405203344182.png" alt="image-20210405203344182" style="zoom:33%;" />
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210405203511921.png" alt="image-20210405203511921" style="zoom:33%;" />
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210405203552687.png" alt="image-20210405203552687" style="zoom: 25%;" />
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210405203656233.png" alt="image-20210405203656233" style="zoom: 25%;" />
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210405203830581.png" alt="image-20210405203830581" style="zoom:33%;" />
+Qui non avevamo nulla da portare davanti (eravamo già nella forma *prenessa*), semplicemente consideriamo le variabili libere come quantificate universalmente.
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210405204001390.png" alt="image-20210405204001390" style="zoom:33%;" />
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210405204026940.png" alt="image-20210405204026940" style="zoom:33%;" />
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210405204309820.png" alt="image-20210405204309820" style="zoom:33%;" />
+
+
+
+---
+
 #### Unificazione
 
+È un'operazione per determinare se 2 espressioni possono essere rese *identiche* mediante una sostituzione di *termini* a *variabili* (in altre parole, mediante un'instanziazione parziale).
+
+Il risultato è la *sostituzione* che rende le 2 espressioni identiche, detta *unificatore*, o FAIL, se le 2 espressioni nono sono unificabili.
+
+**Sostituzione**
+Un insieme finito di associazioni tra variabili e termini (*costanti, variabili, funzioni*) in cui ogni variabile compare *una sola volta* sulla sinistra, e la stessa non può quindi comparire mai sulla destra (neanche in altre sostituzioni).   <img src="/home/ludo/.config/Typora/typora-user-images/image-20210405205206114.png" alt="image-20210405205206114" style="zoom:33%;" />
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210405205217799.png" alt="image-20210405205217799" style="zoom:33%;" />
+
+*Espressione*: un predicato o una funzione applicata a una serie di termini
+*Applicare una sostituzione*: SUBST$(\sigma, A)$, con $\sigma$ sostituzione e *A* espressione.
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210405205511024.png" alt="image-20210405205511024" style="zoom:50%;" />
+
+Oss: le variabili vengono sostituite *simultaneamente*, si esegue un solo passo di sostituzione senza considerare casi ricorsivi (motivo per le restrizioni di prima)
+
+---
+
+es. di sostituzione non normalizzata:
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210405205642221.png" alt="image-20210405205642221" style="zoom: 50%;" />
+
+---
+
+*espressioni unificabili*: se esiste una sostituzione che le rende *identiche*
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210405205930578.png" alt="image-20210405205930578" style="zoom:33%;" />ci piacerebbe che l'unificatore sia il più generico di tutti (come in questo caso $\sigma$), cerchiamo l'*MGU*(Most General Unifier).
+
+**Teorema (su MGU)**
+L'unificatore più generale è unico, a patto di trascurare i nomi delle variabili (ordine non conta).
+
+**Algoritmo di unificazione**
+input: due espressioni *p,q* 
+output: un MGU $\theta$ se esiste
+
+Esplora in parallelo le 2 espressioni e costruisce incrementalmente l'unificatore.
+Non appena trova espressioni non unificabili -> fallisce
+
+- una causa di fallimento sono sostituzioni del tipo *x=f(x)* -> *occur check*
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210405213959074.png" alt="image-20210405213959074" style="zoom: 50%;" />
+
+È una funzione ricorsiva
+
+- se $\theta$ è un fallimento -> ritorna fallimento
+- se le espressioni sono uguali -> ritorna $\theta$
+- se la 1° espressione è una variabile -> chiama *UNIFY-VAR*
+- se la 2° espressione è una variabile -> chiama *UNIFY-VAR* con primo argomento la var
+- se entrambe le espressioni sono *composte* (es. funzioni o predicati applicate a termini)
+  - ritorna una UNIFY con al'interno gli argomenti delle espressioni e una chiamata annidata a UNIFY sugli operatori
+  - questa verifica che gli operatori siano unificabili, non estende $\theta$
+- se sto unificando 2 liste -> 
+  - ritorna anche qui una chiamata a UNIFY con dentro un'altra chiamata a UNIFY annidata applicata ai primi elementi della lista
+  - se le liste sono in numero diverso ad un certo punto fallisce
+- else: failure
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210405215057995.png" alt="image-20210405215057995" style="zoom:50%;" />
+
+- se la variabile ha già un valore *val* -> cerco di unificare il valore con il 2° argomento x
+- se il 2° argomento è una variabile e ha associato il valore *val* -> vado a unificare *var* e la var. x con il valore *val*
+- *controllo di occorrenza*, vedo se la variabile compare nell'espressione x, se è così fallisce
+  - complessità quadratica
+- estende, aggiungendo alla lista dei legami {*var/x*} applicando la sostituzione *var/x* a $\theta$ (anche nei legami già costruiti), altrimenti avremmo una sostituzione non normalizzata.
+
+---
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210405220137922.png" alt="image-20210405220137922" style="zoom: 33%;" />
+
+---
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210405220818885.png" alt="image-20210405220818885" style="zoom:33%;" />
+
+---
+
+Un MGU è vuoto se le 2 espressioni sono già identiche.
+
+#### Metodo di risoluzione per il FOL
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210405221055267.png" alt="image-20210405221055267" style="zoom: 33%;" />
+
+grafo di risoluzione: vari modi per applicare la regola..
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210405221342114.png" alt="image-20210405221342114" style="zoom:33%;" />
+
+Ma il metodo di risoluzione va applicato ai *fattori* delle clausole, ovvero clausole fattorizzate.
+
+Se un sottoinsieme dei letterali di una clausola può essere unificato allora la clausola ottenuta dopo tale unificazione si dice *fattore* della clausola originaria.
+
+| <img src="/home/ludo/.config/Typora/typora-user-images/image-20210405221610068.png" alt="image-20210405221610068" style="zoom:33%;" /> | <img src="/home/ludo/.config/Typora/typora-user-images/image-20210405221616851.png" alt="image-20210405221616851" style="zoom:33%;" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+|                                                              |                                                              |
+
+**Completezza del metodo di risoluzione**
+
+Valgono gli stessi discorsi che per il PROP.
+La deduzione per risoluzione è corretta.
+La deduzione per risoluzione non è completa in generale, ma applicando il *teorema di refutazione* lo diventa.
+
+​	La risoluzione è completa rispetto alla *refutazione*.
+
+---
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210405222017245.png" alt="image-20210405222017245" style="zoom:33%;" />
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210405222155451.png" alt="image-20210405222155451" style="zoom:33%;" />
+Ci sono anche altri modi ovviamente per generare la clausola vuota. Appena incontro una clausola vuota la mia KB con il goal negato è insoddisfacibile, ciò implica che il goal è conseguenza logica.
+
+---
+
+Si può cercare di rispondere anche a domande di tipo *trova*:
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210406085041414.png" alt="image-20210406085041414" style="zoom:33%;" />
+
+---
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210406085531163.png" alt="image-20210406085531163" style="zoom:33%;" />
+
+Da questo esempio è importante *rinominare* in modo che ogni clausola usi variabili diverse 
+
+---
+
+
+
 ### Casi particolari: sistemi a regole
+
+*?Come si può rendere più efficiente l'algoritmo di risoluzione?*
+Si possono applicare strategie di risoluzione: tecniche per esplorare più efficientemente il grafo di risoluzione senza perdere la completezza.
+
+**Strategie di risoluzione**
+Strategie che consentono di potare il grafo di risoluzione guidando il processo, ve ne sono di:
+
+-  *cancellazione*: ci sono clausole che posso eliminare?
+- *restrizione:* posso usare ad ogni passo solo alcune clausole?
+- *ordinamento*: posso risolvere i letterali in un ordine specifico?
+
+1.19.00
 
 #### Backward chaining e programmazione logica
 
 #### Forward chaining e basi di dati deduttive
 
-#  Introduzione all’apprendimento automatico
+#  Introduzione all’apprendimento automatico (ML)
+
+Nuovi strumenti potenti statistici, analisi dei dati.
+Fondamenti rigorosi nelle scienze computazionali.
+Macchine che apprendono da sé stesse, perché?
+
+- crescente necessità di dati empirici e forte esigenza di analizzarli
+  - scienza *data-driven*, leggi dai dati
+- difficile fornire intelligenza alle macchine programmandole, ha più senso lasciarle apprendere da sole analizzando (Turing)
+
+L'apprendimento è la scelta strategica per dotare sistemi di intelligenza, senza programmare regole esplicitamente.
+
+- creare sistemi intelligenti adattivi
+- costruire sistemi predittivi per analisi dati intelligenti
+- modelli come tool per problemi multidisciplinari complessi
+
+**Esempi concreti semplici**
+
+- classificazione spam
+  - non è così semplice a priori, un umano lo classifica; può anche essere soggettivo (relativamente agli interessi del soggetto)
+  - milgior soluzione: macchina ad apprendimento
+- character recognition
+  - più dati ho più so riconoscere
+
+Sono casi in cui abbiamo poche regole su cui basarci ma molti dati di cui abbiamo già il risultato. 
+
+*Face recognition*: DNN (deep neural network), partendo da 4mln di immagini -> facebook. DeepFace sceglie correttamente con il 97,25% mentre gli umani il 97,53%.
+
+Gioco del GO: molto difficile con spazio di ricerca enorme (più degli scacchi); nella seconda fase impara giocando anche contro solo sé stesso.
+
+Traduzione automatica ormai utilizzano reti neurali.
+Fino a pochi anni fa erano compiti considerati inarrivabili dalle macchine (si pensa serva intelligenza artificiale *forte*).
+
+Turing award nel 2018: Bengio, Hinton, LeCun. 
+In medicina: per diagnosi, non ci si può fidare al 100% ma ha già imparato. Screening interessante.
+
+È utile per modelli predittivi di apprendimento:
+
+- quando non c'è teoria o conoscenza (difficoltà a formalizzare)
+- dati incompleti, rumorosi o incerti
+- ambienti dinamici (preferenze personali)
+
+Richieste:
+
+- insieme dati significativo (dati rappresentativi)
+- tolleranza della precisione dei risultati
+
+I problemi non formalizzabili ad oggi sono molti di più di quelli formalizzati. Con il ML possiamo affrontare nuovi problemi.
+NON è un metodo approssimato, è complementare agli algoritmi esatti. È un approccio rigoroso per approssimare una funzione al fine di risolvere problemi. Spesso sono modelli bio-ispirati(??).
+È un'opportunità di conoscere nuovi paradigmi di computazioni, è tipico dell'area del *soft computing*. 
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210414153938324.png" alt="image-20210414153938324" style="zoom:50%;" />
+
+In base ai dati il modello(agente) può migliorare (apprende, è adattivo).
+
+**Esempio pilota: riconoscimento di cifre scritte a mano**
+input: collezione di immagini di cifre scritte a mano (array-matrice di valori). 
+problema: costruire un modello che riceve in input un immagine  e predice la cifra
+
+Quello che vogliamo costruire è una *funzione*. Non conosciamo la funzione ma degli esempi.
+
+È difficile da formalizzare esattamente la soluzione del problema: possibile presenza di rumore e dati ambigui; relativamente facile collezionare esempi categorizzati.
+
+**Supervised Learning**
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210414155618504.png" alt="image-20210414155618504" style="zoom:50%;" />
+
+38:00
+Dati in input degli esempi categorizzati, per una funzione sconosciuta *f*.
 
 ## Paradigma,  “forme” e metodi dell’ apprendimento automatico
 

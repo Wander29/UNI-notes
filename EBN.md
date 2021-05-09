@@ -2501,7 +2501,7 @@ Questo porta ad una *competizione per la sopravvivenza*. A ogni generazione solo
 
 Gli individui con caratteristiche più correlate con l'ambiente in cui vivono lasciano un numero maggiore di figli in grado di sopravvivere e riprodursi. Successo riproduttivo differenziale, selezione naturale.
 
-Cambiamento delle popolazioni => evoluzione della popolazione, non i singoli individui.
+Cambiamento delle popolazioni => evoluzione della popolazione, non dei singoli individui.
 
 > È la popolazione che evolve, non i singoli individui
 > La selezione naturale non crea la variabilità, ma agisce su quella preesitente
@@ -2513,10 +2513,10 @@ Ci sono:
 - evidenze che non contraddicono, i reperti fossili
 - omologie molecolari, anatomiche
 - resistena agli insetticidi, agli antibiotici 
-  - pone problemi etici perché uccide solo una parte dei batteri, vengono selezionati quelli che restano in vita; facciamo indirettamente una selezione; se io prendo un antibiotico creo indirettamente specie batteriche ultraresistenti e quindi ho una ripercussione globale: usare 
+  - pone problemi etici perché uccide solo una parte dei batteri, vengono selezionati quelli che restano in vita; facciamo indirettamente una selezione; se io prendo un antibiotico creo indirettamente specie batteriche ultraresistenti e quindi ho una ripercussione globale
 - i fringuelli delle isole Galapagos
   - c'è chi utilizza utensili; chi è granivoro..
-  - lo spessore del becco si modificava a seconda delle annate aride; nelle annate umide ci sono molti semi piccoli; cibo sufficiente anche per fringuelli con becco piccolo
+  - lo spessore del becco si modificava a seconda delle annate aride; nelle annate umide ci sono molti semi piccoli; cibo sufficiente anche per fringuelli con becco piccolo mentre nelle annate aride ci sono pochi semi piccoli e non vi è sufficiente cibo per i fringuelli dal becco piccolo.
 
 La selezione rimaneggia le strutture che già esistono.
 
@@ -2527,60 +2527,93 @@ La selezione rimaneggia le strutture che già esistono.
 
 *pool genico*: insieme di tutti gli alleli di tutti i geni presenti in una popolazione in un determinato momento
 
-In statistica si parla di *campione rappresentativa*; in certi casi
+In statistica si parla di *campione rappresentativo* di una popolazione; in certi casi il numero degli individui è troppo basso e sorgono problemi statistici (ad es. sull'efficaciad dei farmaci).
+
+Quando una popolazione riduce drasticamente il numero dei propri individui si può realizzare la cosiddetta *deriva genetica*: un cambiamento evolutivo dovuto a eventi casuali (bottleneck) e non alla selezione naturale. (es. terremoti, eruzioni). Quandi pochi individui colonizzano un nuovo ambiente si può incorrere nell'effetto *fondatore*.
 
 <img src="/home/ludo/.config/Typora/typora-user-images/image-20210315145151149.png" alt="image-20210315145151149" style="zoom:50%;" />
 
+> L'evoluzione può essere dovuta al caso e non alla selezione
+
 **Speciazione**
-Come si formano le specie
+Come si formano le specie, origine di nuove specie. 
+
+- speciazione *allopatrica*
+  - quando il flusso genico fra 2 popolazione è ostacolato da una *barriera* geografica (es. montagne)
+  - salamandre in Nord America; una volta che le specie si sono differenziate non si assite più a incroci
+  - i pool genici delle due popolazioni differiscono così tanto da rendere impossibile un loro incrocio con produzione di progenie fertile => le due popolazioni non possono più mescolare i loro pool genici
+- 
 
 **Evo-devo**
+Evolution development, biologia evolutiva dello sviluppo; si vuole legare lo sviluppo embrionale all'evoluzione basandosi sull'idea che l'evoluzione dipende fortemente dai geni che controllano lo sviluppo embrionale.
+I geni che regolano lo sviluppo sono organizzati a cascata; se così non fosse avremmo il massimo della variaiblità genetica dato che ogni caratteristica fenotipica potrebbe mutare indipendentemente dalle altre. Con l'organizzazione gerarchica dei geni viene ristretto il numero delle possibili scelte su cui la selezione può operare.
+
+- eterocronia
+  - trasformazioni morfologiche derivate da modifiche nel tempo dello sviluppo (es. zampe salamandre)
 
 ## Origine della vita
 
-?Come è nata la prima cellula?
-L'origine è tutt'ora ignota. La maggior parte dei biologi accetta però l'ipotesi che i primi organismi si siano sviluppati sulla Terra come il risultato di un'evoluzione chimica realizzata in 4 tappe
+Secondo la teoria cellulare tutte le cellule derivano da altre cellule.
 
-- sintesi abiotica
+*?Come è nata la prima cellula?*
+L'origine è tutt'ora ignota. La maggior parte dei biologi accetta però l'ipotesi che i primi organismi si siano sviluppati sulla Terra come il risultato di un'evoluzione chimica realizzata in 4 tappe, verificabili sperimentalmente
+
+- *sintesi abiotica*
+  - di piccole molecole organiche (amminoacidi, nucleotidi), non per mano di cellule
+  - nel 1953 Miller e Urey hanno verificato sperimentalmente la sintesi abiotia di monomeri organici in atmosfera primordiale (no ossigeno => no ozono, raggi ultravioletti).
   - possiamo produrre molecole organiche a partire da componenti inorganiche<img src="/home/ludo/.config/Typora/typora-user-images/image-20210315145537920.png" alt="image-20210315145537920" style="zoom:50%;" />
   - molecole organiche trovate anche in alcuni meteoriti
-- polimerizzazione
-  - ipotesi: evaporazione dell'acqua concentra i monomeri...
-- autereplicazione
-  - con l'RNA ci si riesce, con vari catalizzatori
-  - ma anche con una proteina, *miolide* sembra in grado di autoreplicarsi, si forma spontaneamente
-- protobionti
+- *polimerizzazione*
+  - proteine, acidi nucleici
+  - se una soluzione contenente monomeri viene fatta sgocciolare su una roccia calda  l'evaporazione dell'acqua concentra i monomeri e alcuni si legano spontaneamente producendo polimeri
+- *autoreplicazione*
+  - al fine di rendere possibile l'ereditarietà
+  - forse c'è stato prima l'RNA e poi il DNA; l'RNA si riesce a produrlo abioticamente e ad usarlo per sintetizzare con vari catalizzatori
+  - ma anche con una proteina, *amiolide* sembra in grado di autoreplicarsi, si forma spontaneamente, potrebbe essere al molecole *radice* della vita
+- *protobionti*
+  - impacchettamento di macromolecole all'interno di membrane
+  - formazioni di liposomi, piccole sfere delimitate da un doppio strato fosfolipidico; potrebbero aver imprigionato macromolecole, ottenendo *protobionti*, fornendo loro un microambiente isolato dall'esterno in cui possono avvenire semplici reazioni chimiche. 
 
 *?Dove e quando?*
-Serve calore, nei fondali oceanici.. I più antichi resti fossili risalgono a 3,5 mld di anni fa.
+Serve calore, forse, in acque poco profonde, forse nei fondali oceanici.. I più antichi resti fossili risalgono a 3,5 mld di anni fa o addirittura 4mld (la Terra si formò 4,5 mld di anni fa).
+
+<img src="https://www.focus.it/site_stored/imgs/0004/020/foss1.jpg" alt="img" style="zoom:50%;" />
+
+La comparsa di *cianobatteri* capaci di compiere la fotosintesi generatrice di ossigeno sarebbe avvenuta circa 2,7mld di anni fa; l'ossigeno prodotto avrebbe saturato i mari e si sarebbe gradualmente accumulato nell'atmosfera.
 
 I più antichi fossili di eucarioti risalgono a 2,2 mld di anni fa.
-I mitocondri vengono inglobati, è un buon indizio
+I mitocondri vengono inglobati e si sarebbero evoluti a partire da endosimbionti, cioè procarioti viventi in simbiosi all'interno di procarioti più grandi.
 
-Il DNA mitocondriale, mtDNA è utilizzato come orologio molecolare per tornare indietro nel tempo; danneggiamento mitcondri; si replicano indipendentemente. hanno una vita a sé/
+Il DNA mitocondriale, mtDNA è utilizzato come *orologio molecolare* per tornare indietro nel tempo; danneggiamento mitcondri; si replicano indipendentemente. hanno una vita a sé.
 Nella fecondazione i mitocondri dello zigote sono solo della cellula uovo materna; i mitocondri materni. È vantaggioso avere variabilità genetica; mentre qua si deve sperare che i mitocondri della madre siano ben funzionanti. Ogni certo numero di anni si ha una mutazione; susseguendo le mutazioni.. si raggiunge l'eva mitocondriale.
+
+Sono stati proposti diversi orologi molecolari “universali”, come l’orologio mtDNA, secondo cui il DNA mitocondriale animale evolve con un tasso di divergenza pari al 2% per sequenza per milione di anni.
+
+Gli orologi molecolari hanno rivoluzionato la biologia evoluzionistica, offrendo un canovaccio su cui lavorare per ottenere le stime dei tempi di divergenza fra popolazioni e specie, di diversificazione delle famiglie geniche e dell’origine della variazione delle sequenze.
+In assenza di reperti fossili o di notizie biogeografiche, l’orologio molecolare è l’unico strumento per capire i processi e i meccanismi dell’evoluzione.
 
 # Neuroscienze
 
 *In questa parte ci concentreremo sui neuroni e sul cervello. Tratteremo molti  temi, fra cui il potenziale d'azione, i neurotrasmettitori, le sinapsi, i meccanismi della percezione, l’apprendimento, la memoria, il sonno.*
 
-Si pensava che la Terra fosse al centro dell'universo
-
-Si pensava che l'uomo fosse al centro della creazione
-
-Anche il vitalismo è stato sconfitto
+Si pensava che la Terra fosse al centro dell'universo, poi Copernico.
+Si pensava che l'uomo fosse al centro della creazione, poi Darwin.
+Anche il vitalismo è stato sconfitto.
 
 E ora è il momento dei comportamenti, dei sentimenti, dei pensieri, su cui le neuroscienze indagano con strumenti sconosciuti alla filolsofia del passato.
 
-Parleremo delle modificazioni chimiche ecc... una sorta di dualismo in cui ci concentriamo sulla rex extensa.. per comodità, rimaniamo sulla descrizione del cervello, in modo da poter avere una propria opinione sul cervello e mente.
+Parleremo delle modificazioni chimiche ed elettriche che accompagnano i processi mentali; una sorta di dualismo in cui ci concentriamo sulla rex extensa.. per comodità, rimaniamo sulla descrizione del cervello, in modo da poter avere una propria opinione su cervello e mente.
 
 ## Comunicazione cellulare
-In generale le cellule tra di loro comunicano *chimicamente*. 
+In generale le cellule tra di loro comunicano e si coordinano fra di loro, principalmente *chimicamente*. Abbiamo visto il trasporto di ossigeno, anidride carbonica, glucosio ecc.. tramite il sistema circolatorio.
 
 - per *contatto diretto*
 
-  - contatto diretto fra citoplasmi, le cellule di un organismo pluricellulare comunicano 
-  - contatto diretto fra molecole della membrana cellulare: si riconoscono
+  <img src="/home/ludo/.config/Typora/typora-user-images/image-20210326142452763.png" alt="image-20210326142452763" style="zoom: 50%;" />
+
+  - *giunzioni cellulari*: contatto diretto fra citoplasmi
+    - coniugazione batterica (pilo sessuale).
+  - *riconoscimento*: contatto diretto fra molecole della membrana cellulare
 
 - *rilasciando sostanze chimiche*
 
@@ -2588,15 +2621,18 @@ In generale le cellule tra di loro comunicano *chimicamente*.
 
     <img src="/home/ludo/.config/Typora/typora-user-images/image-20210315152049559.png" alt="image-20210315152049559" style="zoom:50%;" />
 
-    - limite: solo a breve distanza e colpisce tutte le cellule vicina che hanno un certo recettore
+    - <u>limite</u>: solo a breve distanza e colpisce tutte le cellule vicine che hanno un certo recettore
 
-  - a grande distanza, apparato circolatorio, ad es. *ormoni*
+  - a grande distanza, apparato circolatorio, ad es. *ormoni endocrini*
 
     <img src="/home/ludo/.config/Typora/typora-user-images/image-20210315152023740.png" alt="image-20210315152023740" style="zoom: 50%;" />
 
-     - limite: lenta, il segnale raggiunge tutte le cellule che possiedono quel recettore, ci affidiamo al sangue
+     - <u>limite</u>: lenta, il segnale raggiunge tutte le cellule che possiedono quel recettore, ci affidiamo al sangue
 
-Il glucosio nel sangue è costante, l'aumento viene rilevato dalle cellule Beta del pancreas che produce insulina; il fegato assume glucosio e lo immagazzina.
+Il glucosio nel sangue è costante, 
+
+- l'aumento viene rilevato dalle cellule Beta del pancreas che produce insulina; il fegato assume glucosio e lo immagazzina mentre le cellule somatiche assumono maggiori quantità di glucosio
+- l'abbassamento è rilevato dalle cellule Alfa del pancreas che secernono *glucagone* per comunicare al fegato di demolire glicogeno e rilasciare glucosio.
 
 <img src="/home/ludo/.config/Typora/typora-user-images/image-20210315152141710.png" alt="image-20210315152141710" style="zoom: 50%;" />
 
@@ -2606,83 +2642,175 @@ Calcio:
 
 <img src="/home/ludo/.config/Typora/typora-user-images/image-20210315152221763.png" alt="image-20210315152221763" style="zoom:50%;" />
 
-Questo modo di funzionare non va bene per il sistema nervoso perché vogliamo una comunicazione più veloce e più selettiva, evitando che il messaggio raggiunga le cellule adiacenti.
+Questo modo di funzionare non va bene per il sistema nervoso perché vogliamo una comunicazione *più veloce e più selettiva*, evitando che il messaggio raggiunga le cellule adiacenti a quella bersaglio, e vogliamo distanza.
 
 Il trucco sono i *neuroni*. La loro forma consente di raggiungere lunghe distanze, tramite *trasmissione elettrica* ho rapidità e tramite le sinapsi si ha selettività. Il cervello coordina i movimenti.
 
-Nel sistema nervoso ci sono 2 tipi di cellule
+Nel sistema nervoso ci sono 2 tipi di cellule:
 
-- cellule gliali
+- *neuroni*, cellule nervose: circa 80-100 miliardi
+- *cellule gliali*: da 10 a 50 volte più numerose dei neuroni (1000-5000 miliardi)
 
-  - 10-50 volte più numerosi dei neuroni
+<img src="http://jasondrees.com/wp-content/uploads/2019/03/colemanneurogliaanimation2.gif" alt="Jason Drees | Microglia in Alzheimer’s Disease" style="zoom: 67%;" />
 
-  - non partecipano attivamente alla trasmissione dei segnali nervosi
+### Cellule gliali
 
-  - microglia
+Non partecipano attivamente alla trasmissione dei segnali nervosi, ma sono fondamentali per il funzionamento dei neuroni. Si dividono in:
 
-    - risposte imunitarie
+- *microglia*
 
-  - macroglia
+  - coinvolte nelle risposte imunitarie del tessuto nervoso
 
-    - astrociti, contribuisconi alla formazione della barriera *ematoencefatica*; è importante perché non raggiunge i neuroni; non interferisce con il normale svolgimento della giornata (sonno ecc..)
+  - inglobano qualsiasi detrito, in particolare quelli formati durante lesioni cerebrali
 
-      <img src="/home/ludo/.config/Typora/typora-user-images/image-20210315153504984.png" alt="image-20210315153504984" style="zoom:50%;" />
+    <img src="/home/ludo/.config/Typora/typora-user-images/image-20210326172017023.png" alt="image-20210326172017023" style="zoom: 33%;" />
 
-      - oligodendrociti e le cellule di *Schwann* formano la *mielina*, rispettivamente nel sistema nervoso centrale e nel SN periferico
+    ![Amazing Video Shows A Brain Destroying Dead Neurons For ...](https://cdn.iflscience.com/images/d47a2ff9-3cce-5c8d-965d-0db0fdd01498/content-1593775113-ezgif-com-video-to-gif.gif)
 
-        <img src="/home/ludo/.config/Typora/typora-user-images/image-20210315153627263.png" alt="image-20210315153627263" style="zoom:50%;" />
+- *macroglia*
 
-        La mielina è un involucro che circonda gli assoni. 
+  - astrociti
 
-        <img src="/home/ludo/.config/Typora/typora-user-images/image-20210315153900178.png" alt="image-20210315153900178" style="zoom:50%;" />
-        Nella sclerosi multipla non si ha mielina.
+    - hanno una forma a stella, svolgono funzioni di sostegno, contribuiscono a mantenere costante la concentrazione di ioni potassio negli spazi intercellulari; captano i neurotrasmettitori rilasciati dai neuroni
+  - contribuisconi alla formazione della barriera *ematoencefatica*; è importante perché non permette di raggiunge i neuroni; le sostanze che non la oltrepassano non interferiscono con il normale svolgimento della giornata (sonno ecc..)
+    - agiscono sui capillari circostanti e rilevando l'attività dei neuroni regolano il flusso sanguigno in modo da rifornire i neuroni di una quantità di energia maggiore quando sono più attivi
 
-- neuroni (cellule nervose)
+    <img src="/home/ludo/.config/Typora/typora-user-images/image-20210315153504984.png" alt="image-20210315153504984" style="zoom:50%;" />
 
-  - 80-100 mld
+  - *oligodendrociti* e le cellule di *Schwann* formano la *mielina*, in parti diverse del SN.
 
-  - le forme dei neuroni
+    <img src="/home/ludo/.config/Typora/typora-user-images/image-20210315153627263.png" alt="image-20210315153627263" style="zoom:50%;" />
 
-    <img src="/home/ludo/.config/Typora/typora-user-images/image-20210315154041727.png" alt="image-20210315154041727" style="zoom: 50%;" />
+    La mielina è un involucro che circonda gli assoni; presenta delle interruzioni chimate *nodi di Ranvier*; il tratto di mielina compreso fra due nodi di Ranvier prende il nome di *internodo*.
+
+    <img src="/home/ludo/.config/Typora/typora-user-images/image-20210315153900178.png" alt="image-20210315153900178" style="zoom:50%;" />
+    Nella sclerosi multipla non si ha mielina.
+
+    - oligodentrociti -> nel SNC, un singolo oligodentrocita può formare più internodi
+
+    - cellule di Schwann -> nel SN periferico, una singola cellula di Schwann è un solo tratto internodale (==può formare un solo internodo).
+
+      <img src="http://1.bp.blogspot.com/-blY9MwesQkc/UuVuqqJWkuI/AAAAAAAAA8g/2BxwtArg7eM/s1600/Cervello_Cellula-di-Schwann_Ranghos.jpg" alt="Martina Buzzulini: IL NEURONE" style="zoom: 67%;" />
+
+      ![Rigenerazione nervi periferici](http://www.saluteme.it/images/stories/schwann_myelin_cell.jpg)
+
+### Neuroni
+
+I neuroni sono le unità elementari responsabili dei messaggi nervosi. 
+
+<img src="http://faculty.umb.edu/gary_zabel/Courses/Phil%20281/Philosophy%20of%20Magic/Paleolithic%20Art/New%20Folder%20(2)/Neurons2.jpg" alt="New Page 1 [www.faculty.umb.edu]" style="zoom:50%;" />
+
+La forma delle cellule è generalmente piuttosto semplice, mentre quella dei neuroni è più variegata: possiedono molte ramificazioni che permettono molteplici forme:
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210327095947417.png" alt="image-20210327095947417" style="zoom: 50%;" />
+
+**Le 4 zone dei neuroni**
+
+- corpo cellulare (soma)
+  - 8-20$\mu m$ di diametro (in invertebrati fino a 100$\mu m$)
+  - è il centro metabolico del neurone: contiene il nucleo e il RE, da esso si diramano dentriti e assone
+- dendriti
+  - ramificazioni che ricevono il messaggio nervoso da altri neuroni
+- assone
+  - ramificazione relativamente lunga che porta il msg nervoso alle terminazioni presinaptiche
+- terminazioni presinaptiche
+  - sono le terminazioni dell'assone dalle quali esce la sostanza chimica (neurotrasmettitore) che porta il msg anervoso ad altri neuroni
+
+**Un po' di storia**
+Prima di Ramon y Cajal si pensava che il sistema nervoso formasse un sincizio, cioè un unico grande citoplasma ottenuto dall'unione dei citoplasmi di tutti i neuroni; ognuno di essi perdeva la propria individualità.
+Cajal dimostrò che i neuroni non formano alcun sincizio: ogni neurone è separato dagli altri.
+
+Cajal intuì due principi dell'organizzazione cerebrale:
+
+- *polarizzazione dinamica*: i messaggi partono dal dendrite all'assone
+- *specificità delle connessioni*: ogni neuroni forma delle connessioni con altri neuroni per formare una rete neurale; non a caso
 
 
 
-La cellula di Scwhann si arrotolano intorno all'assone. Solo gli assoni sono arrotolati da mielina.
+Le cellula di Scwhann si arrotolano intorno all'assone. Solo gli assoni sono arrotolati da mielina.
+La trasmissione del messaggio nervoso avviene in 2 tappe: una tappa elettrica e una chimica. Quella chimica ha luogo nelle terminazioni presinaptiche ma per avvenire si ha bisogno che il messaggio elettrico arrivi fin lì.
 
+In base alla forma si dividono in
+
+- unipolari
+- bipolari
+- multipolari
+
+In base alla funzione si dividono in:
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210327100008232.png" alt="image-20210327100008232" style="zoom:50%;" />
+
+- afferenti(sensitivi)
+  - portano i segnali sensoriali al SNC (segnali visivi, uditivi...)
+- efferenti(motoneuroni)
+  - portano i messaggi dal SNC ai muscoli e alle ghiandole
+- interneuroni
+  - tutti i restanti, sono i più numerosi; di proiezione o locali
+
+**DNA e sintesi proteine**
 La sintesi proteica è molto attiva. Nei neuroni adulti non ci sono mitosi, e la replicazione del DNA è quindi assente.
-La sintesi proteica è assente nell'assone, presente solo nel corpo cellulare e nei dendriti.
+La sintesi proteica è assente nell'assone, è presente solo nel corpo cellulare e nei dendriti. Sono presenti poliribosomi.
 
-<img src="/home/ludo/.config/Typora/typora-user-images/image-20210316142843269.png" alt="image-20210316142843269" style="zoom:50%;" />
-Spina dendritica, con cui prende contatto con altri neuroni.Poliribosomi. Creiamo e perdiamo continuamente spine dendritiche. I neuroni sono dinamici!
-La balenottera azzurra può raggiungere 34m e la lunghezza stimata degli assoni più lunghi arriva a 30 metri. 
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210327100053176.png" alt="image-20210327100053176" style="zoom:50%;" />
+
+Spina dendritica, con cui prende contatto con altri neuroni. 
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Dendritic_spines.jpg" alt="https://upload.wikimedia.org/wikipedia/commons/b/b1/Dendritic_spines.jpg" style="zoom:67%;" />Creiamo e perdiamo continuamente spine dendritiche. I neuroni sono dinamici!
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210327100041807.png" alt="image-20210327100041807" style="zoom:50%;" />
+
+**Trasporto assonale**
+Poiché l'assone non ha sintesi proteica ha necessità che gli vengano fornite proteine: queste provengono dal corpo cellulare, attraverso il trasporto assonale.
+
 In questo caso useremo ancora i microtubuli e la chinesina. 
-La colchicina blocca il trasporto assonale, danneggia i microtubuli, usata per fare il cariotipo bloccando i cromosomi durante la mitosi, sulla piastra metafasica.. 
+La colchicina blocca il trasporto assonale, danneggia i microtubuli, usata per fare il cariotipo bloccando i cromosomi durante la mitosi, sulla piastra metafasica (si trova anche nel falso zafferano).
+
+La balenottera azzurra può raggiungere 34m e la lunghezza stimata degli assoni più lunghi arriva a 30 metri. 
 
 Il trasporto assonale più rapido arriva a 40cm al giorno. Arrivano in 2 giorni e mezzo per assoni lunghi 1 metro. Per la balenottera è ancora più lungo, circa 1 mese.
 
 <img src="/home/ludo/.config/Typora/typora-user-images/image-20210316143905915.png" alt="image-20210316143905915" style="zoom:50%;" />
 
-Gli scienziati utilizzano il trasporto assonale per colorare i neuroni. Trasporto retrogrado anche di virus, sostanze tetaniche.
+Gli scienziati utilizzano il trasporto assonale per colorare i neuroni (neuroanatomia). Trasporto retrogrado anche di virus, tossine tetaniche.
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210327100107846.png" alt="image-20210327100107846" style="zoom:50%;" />
 
 ## Il singolo neurone
 
 <img src="/home/ludo/.config/Typora/typora-user-images/image-20210316144129104.png" alt="image-20210316144129104" style="zoom:50%;" />
 
 Descriveremo 2 tappe: chimica ed elettrica.
+La tappa elettrica nasce nei dendriti e nel soma. Se la tappa elettrica è sufficientemente potente il segnale viene trasmesso fino alle terminazioni presinpatiche.
 
-Nelle terminazioni presinaptiche nasce una tappa chimica; nelle altre parti del neurone si hanno tappe elettriche. 
+Prima viene la tappa elettrica, poi quella chimica.
+
+Nelle terminazioni presinaptiche nasce una tappa chimica rilasciando il neurotrasmettitore; nelle altre parti del neurone si hanno tappe elettriche. 
 Il neurone, se lui lo decide (meccanicisticamente), ricevendo sostanze chimiche può produrre tappe elettriche.
-Per il muscolo, quando arriva il neurotrasmettitore contrae il muscolo; non ha capacità decisionale, lo fa e basta. 
+Per il muscolo, quando arriva il neurotrasmettitore il muscolo si contrae; non ha capacità decisionale, lo fa e basta. 
 
 ### Membrana plasmatica e canali ionici
 
-Ioni: atomi che hanno perso elettroni, quando il numero di protoni è diverso dal numero di elettroni; possiedono una carica elettrica netta.
+Gli elettrodomestici che abbiamo a casa funzionano tramite corrente elettrica, movimento di elettroni; la tappa elettrica dei neuroni è dovuta agli *ioni*, per questo si parlerà di *correnti ioniche*.
+*Ioni*: atomi che hanno perso elettroni, quando il numero di protoni è diverso dal numero di elettroni; possiedono una carica elettrica netta (positiva se il numero dei protoni è maggiore del numero degli elettroni).
 
-In particolare ci interessano: Sodio, cloro, potassio, calcio; Na+, Cl-, K+, Ca2+
+Le correnti ioniche sono dovute al rapido movimento di ioni: *sodio, cloro, potassio, calcio; Na+, Cl-, K+, Ca2+*.
+
+Parleremo di:
+
+- diffusione delle sostanze
+- membrana plasmatica
+- canali ionici
+- pompe ioniche
 
 **Diffusione delle sostanza**
 es. profumo, colorante nell'acqua 
-Le sostanze tendono a un equilibrio di concentrazione, si distribuiscono casualmente nello spazio a disposizione; *gradiente di concentrazione*, immaginarselo come una spinta. Due sostanze sono indipendenti riguardo il gradiente di concentrazione, ognuno ha la sua spinta.
+
+La *diffusione* è la tendenza delle molecole di una sostanza a distribuirsi in tutto lo spazio circostante disponibile. 
+Le sostanze tendono a un equilibrio di concentrazione, si distribuiscono casualmente nello spazio a disposizione; *gradiente di concentrazione*, lo si può immaginare come una spinta che porta le molecole a espandersi da una zona ad alta concentrazione verso una a bassa concentrazione. 
+Due sostanze sono indipendenti riguardo il gradiente di concentrazione, ognuno ha la sua spinta.
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210329115024816.png" alt="image-20210329115024816" style="zoom:33%;" />
+Se però ciò che si stanno spostando sono *ioni* allora questi saranno spinti anche dal *gradiente elettrico*, ovvero dall'attrazione elettrica (gli opposti si attraggono).
 
 I nostri neuroni devono permettere l'entrata, gli ioni saranno spinti da
 
@@ -2695,52 +2823,93 @@ Correnti ioniche, gradiente elettrochimico, Na+, Cl-, K+, Ca2+
 Ogni ione ha il proprio gradiente elettrochimico.
 
 **Membrana plasmatica**
+Ogni membrana plasmatica è formata da un doppio strato fosfolipidico, ognuno formato da una testa idrofila e una coda idrofoba, permettendo di isolare l'interno della cellula dall'ambiente esterno. Le teste idrofile sono a contatto con citoplasma e ambiente extracellulare, le code sono interne.
+Sulla memrabana plasmatica troviamo anche lipidi (es. colesterolo), carboidrati e proteine di *membrana*, che si dividono in
+
+- *integrali*: sono completamente immerse nel doppio strato fosfolipidico
+- *periferiche*: contrario
+
 <img src="/home/ludo/.config/Typora/typora-user-images/image-20210316145909715.png" alt="image-20210316145909715" style="zoom:50%;" />
 È una proteina.
 
-La membrana plasmatica, avevamo detto, è un impermeabile. È una barriera che la protegge; ma ha bisogno che ossigeno entri ed CO2 esca. Dobbiamo essere più precisi: la barriera è selettivamente permeabile. 
-È molto permeabile a molecole non polari; poco o nula per molecole polari (ioni). 
-Per rompere legami serve energia, ma per formarne altri si libera energia. Il bilancio energetico è in pareggio. Uno ione può quindi spostarsi. In mezzo alle code idrofobiche della membrana plasmatica non riesce a fare legami; non entra perchè non c'è abbastanza energia per farlo; per romprere i legami ioni-dipolo e idrogeno dell'ambiente acquoso.
+La membrana plasmatica, avevamo detto, è un impermeabile. È una barriera che la protegge; ma ha bisogno che ossigeno e glucosio entri e che la CO2 esca. Dobbiamo essere più precisi: la barriera è *selettivamente permeabile*. 
+È molto permeabile a molecole non polari; poco o nulla alle molecole polari (ioni). 
 
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210329120022988.png" alt="image-20210329120022988" style="zoom: 25%;" />
+
+Questo per una ragione di bilancio energetico. Le molecole polari hanno due *poli*, come la molecola d'acqua. Queste possono formare legami idrogeno e legami ioni-dipolo; possono formarsi *gusci d'idratazione*.
+
+Per rompere legami serve energia, ma formandone altri si libera energia. Il bilancio energetico è in pareggio. Uno ione può quindi spostarsi e formare nuovi legami ioni-dipolo con molecole d'acqua e queste possono formare legami idrogeno. 
+In mezzo alle code idrofobiche della membrana plasmatica lo ione non riesce più a fare legami;, ha dovuto utilizzare energia per muoversi ma non potendo formarne altri si ha una situazione di *bliancio energetico in difetto*.
+Uno ione sodio non riesce ad attraversare il doppio strato fosfolipidico non perché questo lo respinge ma perché non c'è abbastanza energia per romprere i legami ioni-dipolo e idrogeno dell'ambiente acquoso => rimane imprigionato nell'ambiente acquoso.
+
+Le molecole non polari non formano legami con l'ambiente acquoso per questo possono entrare ed uscire spinte dal loro gradiente di concentrazione.
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210330123714129.png" alt="image-20210330123714129" style="zoom: 33%;" />
+
+Si risolve il problema del passaggio degli ioni con i canali ionici.
 Quando ci servono forme tridimensionali come vogliamo creiamo una proteina. 
-Si risolve il problema con i canali ionici.
 
 **Canali ionici**
-Sono proteine che hanno una forma a canale per permettere il passaggio di ioni, il trucco è aprire il canale fosfolipidico nella membrana. La conducibilità è elevata. La tappa elettrica richiede movimenti rapidi di ioni. I canali fanno passare in modo specifico, *selettività ionica*.
+Sono proteine di membrana integrali, *transmembrana*, che hanno una forma a canale per permettere il rapido passaggio di ioni, il trucco è aprire il canale fosfolipidico nella membrana. Permettono il passaggio per motivi energetici, permette che al suo interno lo ione possa formare legami ione-dipolo e idrogeno consentendo un equilibrio energetivo.
+
+- La conducibilità ionica è elevata, fino a 100mln di ioni al secondo; la tappa elettrica richiede movimenti rapidi di ioni. 
+- I canali fanno passare in modo specifico, *selettività ionica*, alcuni solo il potassio, alcuni solo calcio ecc..
 
 Sono di 2 macrotipi: 
 
 - attivi 
 - passivi
 
-I canali passivi sono canali sempre aperti. Faranno entrare o uscire un certo tipo di neuroni; si muoveranno a seconda del loro gradiente elettrochimico.
+I canali *passivi* sono canali sempre aperti; fanno comunque entrare o uscire un certo tipo di ioni; si muoveranno a seconda del loro gradiente elettrochimico (lo vedremo poi).
 
-I canali attivi sono ad accesso regolato da segnali chimici:
+I canali attivi sono ad *accesso regolato* da segnali chimici, meccanici o elettrici:
 
-- Il canale è regolato da un ligando; l'interazione con un ligando fa aprire il canale. Droghetta: interagisce con canali. Sostanze non endogena disturbano apertura o chiusura. Tutto ciò che attraversa la barriera ematoencefatica.
+- chimici, regolati da *ligando*
 
-Quando ci carezziamo la pelle i canali sono collegati al citoscheletro; toccandole deformo citoscheletro e i canali si aprono o si chiudono  a seconda della deformazione; nasce segnale elettrico sensore. 
+  <img src="/home/ludo/.config/Typora/typora-user-images/image-20210330124741034.png" alt="image-20210330124741034" style="zoom: 50%;" />
 
-- Ci sono altri canali voltaggio-dipendenti.
+  - Il canale è regolato da un ligando; l'interazione con un ligando fa aprire il canale. *droghette*: interagiscono con i canali. Sostanze non endogene disturbano l'apertura o la chiusura. Tutto ciò che attraversa la barriera ematoencefatica può disturbare il normale funzionamento.
 
-  - varia il potenziale di membrana, 3 configurazioni
+- chimici, per *fosforilazione*
+
+  - gruppo fosfato interno al neurone; se il gruppo fosfato si lega al canale si apre, altrimenti se lascia il canale si chiude
+
+- meccanici, regolato da *stiramento* o *pressione*
+
+  - meccanico; lo stiramento apre il canale ionico
+  - quando ci carezziamo la pelle i canali sono collegati al citoscheletro; toccandole deformo citoscheletro e i canali si aprono o si chiudono  a seconda della deformazione; nasce segnale elettrico sensore. 
+
+- elettrici, regolato da *segnali elettrici*, *voltaggio-dipendenti*
+
+  - si aprono o si chiudono a seconda del potenziale elettrico circostante
+
+  - si possono trovare in 3 stati funzionali: *aperto, a riposo, inattivato*, proprietà derivante dall'avere 2 cancelli
+
+    - con una differenza del potenziale di membrana il canale si apre
+    - dopo un certo tempo il 2° cancello si chiude e il canale diventa chiuso ma NON attivabile; dopo un po' anche l'altro cancello si chiude
 
     <img src="/home/ludo/.config/Typora/typora-user-images/image-20210316151623928.png" alt="image-20210316151623928" style="zoom:50%;" />
 
-- canali a fosforilazione
-
-I canali ionici sono dotati di selettività ionica.
+*Oss*: i canali ionici sono dotati di selettività ionica.
 
 **Pompe ioniche**
-Sono anch'esse proteine: proteine *transmembrana*. Le pompe ioniche trasportano *contro* il gradiente elettrochimico; lo trasporta in energia opposta.
+Sono anch'esse proteine: proteine *transmembrana*. Le pompe ioniche trasportano *contro* il gradiente elettrochimico.
+I canali ionici permettono il trasferimento, le pompe ioniche *trasportano*.
 
-Gli ioni non hanno bisogno di energia seguendo il gradiente elettrochimico. trasporto passivo.
-
-Invece le pompe sono a trasporto attivo, utilizzano energia metabolica. 
+Gli ioni non hanno bisogno di energia seguendo il gradiente elettrochimico, trasporto *passivo*.
+Invece le pompe sono a trasporto *attivo*, utilizzano energia *metabolica*. 
 Ci sono pompe che lavorano su 2 tipi ionici.
 
 <img src="/home/ludo/.config/Typora/typora-user-images/image-20210316152038022.png" alt="image-20210316152038022" style="zoom:50%;" />
-Pompa sodio-potassio. Fa entrare potassio, butta fuori 3 ioni sodio. Ogni volta che i neuroni; lavora in continuazione. È presente nella membrana di tutti i neuroni. 
+*Pompa sodio-potassio*. Fa entrare potassio, butta fuori 3 ioni sodio, usando ATP. 
+La fosforilazione (gruppo fosfato derivante dalla trasformazione di ATP in ADP) determina il cambiamento della conformazione della pompa ionica facendo fuoriuscire gli ioni sodio e facendo entrare ioni potassio. Il legame degli ioni potassio provoca il rilascio del gruppo fosfato.
+Le pompe ioniche lavorano in continuazione. È presente nella membrana di tutti i neuroni. 
+
+*Attivo*
+
+- nei canali ionici, quelli attivi dipendono da un segnale elettrico, chimico o meccanico, ma il trasporto è passivo, senza energia
+- nelle pompe ioniche indica il trasporto attivo, dove si necessita di ATP
 
 **Neurone a riposo**
 In un neurone a riposo i canali attivi sono tutti chiusi. Ma è un caso teorico, sono sempre in funzione, sempre. Qualche canale è sempre aperto: rumore di fondo.
@@ -2851,27 +3020,873 @@ Nella membrana abbiamo sia condensatori che resistenze; sono dei ritardatari. La
 
 Tutto quello che accade nel mondo esterno mette in moto i nostri neuroni ma le correnti prodotte sono *lente* => non possiamo rispondere istantaneamente agli stimoli. La nostra percezione del tempo è correlata al funzionamento dei nostri neuroni.
 
+Resistenza di ingresso: $R_{in} = \frac{\Delta V}{\Delta I}$, si inietta corrente e si vede come vambia il potenziale di membrana.
+
+In neurone grande aprendo un canale si ottiene un variazione minore di voltaggio.
+
+*?Fino a quale distanza viene modificato il potenziale di membrana?*
+Mano a mano che ci allontaniamo l'effetto della variazione di tensione diminuisce:
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210323143151184.png" alt="image-20210323143151184" style="zoom:50%;" />
+
+Maggiore corrente nel percorso con minore resistenza; la resistenza aumenta allontanandoci dal puinto di inieizione.
+
+Dobbiamo trovare un trucco per oltrepassare la costante di spazio.
+
+### Proprietà elettriche attiva
+
+**Potenziale d'azione**
+Si propaga senza diminuire l'ampiezza. In qualche modo si rigenera, solo neuroni e cellule muscolari. È dovuto a 2 particolari tipi di canali ionici attivi; canali voltaggio dipendenti: si aprono quando c'è una variazione del potenziale di membrana: 
+
+- selettivi per lo ione sodio
+  - ha 2 cancelli
+- selettivi per lo ione potassio
+  - 1 cancello
+
+Concentriamoci nel punto di iniezione del microelettrodo. Con scalini più ampi di corrente negativa non accade nulla di particolare; con quella positiva -> potenziale d'azione se si raggiunge il valore soglia di -45mV. Il potenziale d'azione è rapido, 1ms, sale sopra a 0 e scende subito, poco dopo torna a riposo.
+
+l'intervallo 0-30-0 è detto inversione
+
+- depolarizzazione
+- inversione
+- ripolarizzazione
+- iperpolarizzazione postuma
+
+*?Quanto dura?*
+A metà ampiezza dura circa 0.5ms. La durata varia da un tipo di un neurone all'altro, nel cuore 200ms. 
+
+Differenza fra neurone e ricarca delle pile: le pile non invertono mai la polarità. Anche aumentando lo scalino non si ha maggiore ampiezza del potenziale d'azione. È un evento tutto o nulla. 
+
+E se subito dopo il primo scalino di corrente ne inietto un altro? Eccitabilità ridotta: periodo refrattario. 
+Hodgin e Huxley, capiscono cosa accade durante il potenziale d'azione.
+Hanno preso un assone gigante di calamaro, diametro 1mm.
+Tecnica del voltage clamp (blocco del voltaggio) per misurare . Ci sono i canali voltaggio dipendenti (sodio-potassio, sconosciuta). Danno controcorrenti per bloccare sodio-potassio. Bloccano i canali 
+TTX (tetrodotossina), veleno (sushi fugu, pesce palla) -> non comunicano più i neuroni.. 
+Film: giustizia privata
+TTX blocca canali sodio.
+Per la riattivazione 5-6 ms.
+
+Ciclo di Hodgkin, a feedback positivo. Nanoesplosione
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210323150818793.png" alt="image-20210323150818793" style="zoom: 33%;" />
+
+Apertura in rapida successione di tutti i canali sodio con un'entrata massimizzata di ioni sodio.
+È un modello matematico ancora valido dopo quasi 60 anni. 
+
+Se l'assone è mielinico il potenziale d'azione viaggia fino a 430km/h.
+
+### Sinapsi
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210329141951020.png" alt="image-20210329141951020" style="zoom:33%;" />
+
+Tante vescicolem i cerchietti, e i mitocondri.
+Come si distingue la parte presinaptica dalla parte post-sinaptica?
+pre: ci si basa sulle vescicole presinaptiche
+
+Le vescicole escono dalle zone attive, non ovunque.
+Vengono studiata nelle rane, sinapsi tra
+
+Si conclude la tappa elettrica: potenziale d (07.30)
+Escono le vescicole
+
+Studiata molto bene nel calamaro.
+
+TTX e TEA: bloccano potenziale d'azione. Lo sperimentatore inietta dentro un microelettrodo e lo depolarizza. 
+Il neurotrasmettitore esce lo stesso => non è il pot. azione che fa uscire il neurotrasmettitore.
+I canali calcio sono voltaggio dipendenti => entra calcio, si fondono le vescicole
+
+Inizia la tappa chimica: si fondono le vescicole. 
+La membrana delle vescicole fuse viene recuperata -> riciclo per mantenerle 
+
+Liberazione *quantica*: ogni vescicola contiene un certo numero di molecole di neurotrasmettitore (anche migliaia).
+
+Nella sinapsi neuromuscolare di rana la vuole muovere i muscoli => fa uscire molte
+
+Nel SNC, il neurone che comunica con altri neuroni libera una piccola quantità di neurotrasmettitore, per muovere i muscoli tanti.
+
+Quando uno deve contrarre il muscolo: il muscolo deve eseguire, necessariamente.
+Tra i neuroni le decisioni sono più pesate fra di loro.
+
+ **Recettori postsinaptici**
+Ci sono 2 tipi di recettori:
+
+- *ionotropico*: lui stesso è un canale; quando arriva il neurotrasmettitore lui si apre.
+- *metabotropico*: recettore e canale sono divisi
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210329143048822.png" alt="image-20210329143048822" style="zoom:50%;" />
+EPSP: ecci post synaptic potential
+IPSP: inybit post synaptic potential
+
+Se il potenziale |
+
+Se entra il sodio si depolarizza
+Gli effetti depolarizzanti e iperpolarizzanti non dipendono dal neurotrasmettitore ma dal recettore??
+
+Placca neuromuscolare rana:
+
+- *neurotrasmettitore*: acetilcolina
+- recettori ionotropici, nicotinici
+- fanno entrare/uscire  sodio e potassio
+- EPSP
+
+Una fibra muscolare è generalmente innervata da un solo motoneurone, riceve solo un input eccitatorio (EPSP) ampio (50mV)
+
+Studiamo una rete semplicissima di 2 neuroni:
+
+*Riflesso patellare*:
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210329143934481.png" alt="image-20210329143934481" style="zoom: 50%;" />
+
+2 neuroni: uno misura l'estensione, l'altro
+È un comportamento inconscio.
+
+Sempre acetilcolina ogni volta che abbiamo a che fare con neuroni e muscoli.
+Il neurotrasmettitore che viene liberato nel midollo spinale tra motoneurone sensitivo ed estensore è il*glutammato*, è un amminoacido.
+
+Tra interneurone inibitore e motoneurone estensore  viene rilasciata glicina, l'amminoacido con il gruppo laterale più semplici. IPSP
+
+Tra la sinapsi del neurone sensitivo e l'inter
+
+*Principio di Dale*: ogni neurone rilascia un solo tipo di neurotrasmettitore e la rilascia da tutte le sue terminazioni presinaptiche.
+
+il fatto che ci siano 2 sinapsi => ci vuole 1 ms di più, per aprire i canali calcio, fondere le vescicole ecc..
+
+Percepiamo le cose intorno a noi sempre con un certo ritardo.
+
+**Integrazione**
+
+Il neurone fa una somma tra inibitori e eccitatori; se arriva a soglia produce un pot. azione.
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210329145359834.png" alt="image-20210329145359834" style="zoom:50%;" />
+
+La decisione di produrre un pot. azione viene presa nella parte iniziale dell'assone, e per la costante di *spazio* diminuisce sempre un po'.
+La corrente entra subito ma il potenziale di membrana cresce in modo ritardato, costante di *tempo*.
+
+La costante di tempo (lunga) permette di sommare più eccitazioni, aumenta le probabilità di raggiungere la soglia:
+
+- sommazione temporale
+- sommazione spaziale, se sono vicini spazialmente
+
+Solo se si supera la soglia si ha il pot. azione; bombardamento sinaptico.
+I neuroni meccanicisticamente valutano se produrre o meno, prendono una decisione meccanicista.
+
+Asino: metafora per il bomabardamento sinaptico che non raggiunge la soglia.
+
+Oss. gli EPSP hanno ampiezza variabile; invece i pot. azioni hanno un'ampiezza costante (tutto o nulla)
+
+L'informazione è contenuta nella frequenza di scarica, cioè nel numero di potenziali di azione prodotti nell'unità di tempo e nel pattern di scarica, ovvero nella sequenza dei potenziali d'azione.
+Non ne siamo sicurissimi.
+
+Le sinapsi più comuni sono le sinaprsi *asso-somatiche*. Poi ci sono quelle *asso-dendritiche*, e quelle asso-dendritiche.
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210329151123005.png" alt="image-20210329151123005" style="zoom:50%;" />
+
+Le ultime diminuiscono o aumentano il rilascio di neurotrasmettitore.
+!C'è sempre una piccola uscita di neurotrasmettitore (a causa di una piccola entrata di calcio)!
+Circa 1 quanto ogni secondo ,rilascio spontaneo, rilascio in miniatura. Per bloccare tutto si deve esare TTX e ecanali calcio con magnesio...
+
+C'è sempre un po' di *rumore di fondo*.
+
+I recettori più veloci sono quelli *ionotropici*, quelli più duraturi sono quelli *metabotropici*.
+Spesso gli psicofarmaci agiscono su recettori metabotropici.
+
+L'EPSP 
+A volte i recettori metabotropici possono provocare effetti sulla trascrizione e sul DNA..
+Neurotrasmettitori
+
+
+
+Esistono anche le sinapsi elettriche: neuroni attaccati, con canali ionici attaccati
+Nella sinapsi chimica: il pot. azione si ferma nel term. presinaptico
+
+Nella sinapsi elettrica c'è comunicazione tra i 2 citoplasmi, passa anche il pot. azione.
+Quando vogliamo sincronizzare un gruppo di neuroni, specialmente un gruppo di motoneuroni.
+Nel colpo di coda del pesce rosso
+
+Sono molto presenti nelle cellule gliali.
+
+### Neurotrasmettitore
+
+Si parla tanto di neurotrasmettitore della felicità.. sono approssimazioni enormi.
+Si sono selezionate delle sostanze 
+
+Il neurotrasmettitore viene recuperato o riciclato in vari modi.
+
+- Neurotrasmettitori classici
+  - acetilcolina, dopamina, noradrenalina
+
+**Acetilcolina**
+Ha due tipi di recettori
+
+- ionotropici: nicotinci,  agonista nicotina, antagonista: curaro. Ci si paralizza, non si respira più.
+- metabotropici: agonista: muscarina; agonista: atropina (blocca sinapsi per far dilatare pupilla). Le sostanze che agivano su queste sinapsi
+
+come viene inattivata? c'è un'enzima
+
+- anestesia: fra le varie cose che si iniettano c'è il curaro.
+
+La tossina botulinica blocca il rilascio di acetilcolina. Far bollire 5 minuti i legumi in scatola per bloccare tossina.
+
+Malathion: colpisce zanzare, bloccando. Gas nervini: durante la guerra si usava per far contrarre e causare paralisi spastica.
+
+**Dopamina**
+
+GABA, ha effetti inibitori. 
+Non c'è un effetto selettivo che fa solo una cosa. Non c'è la corrispondenza chiave-serratura. Si combina sempre con tante molecole.
+
+Il recettore NMDA è l'unico la cui apertura dipende non solo dal legame. 
+Elevate concentrazioni di glutammato risultano tossiche per i neuroni.
+
+**Noradrenalina**
+
+
+
+## Organizzazione dei neuroni
+
+I singoli neuroni si interconnettono fra di loro e formano dei circuiti neurali.
+
+*?In che modo i circuiti neurali riescono a dare origine a tutte le varie forme di attività mentale?*
+Le neuroscienze cognitivi (neuroscienze + psicologie) cercano di rispondere tramite un approccio riduzionistico, partendo cioè dall'ipotesi che le funzioni mentali derivino dalle proprietà anatomiche e funzionali dei neuroni.
+Solo il 5-10% dei neuroni dovrebbero essere connessi alle attività mentali.
+
+Gli eventi neuronali *correla*, *accompagnano* (non causano, sono causate).
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210330142353311.png" alt="image-20210330142353311" style="zoom:50%;" />
+
+**SNC**
+Cranio e 
+
+**SNP**
+Ci porta le informazioni dall'ambiente esterno; afferenza
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210330142404795.png" alt="image-20210330142404795" style="zoom:50%;" />
+
+C'è una curvatura di 90° durante lo sviluppo.
+
+Piani:
+
+- orizzontale: sopra/sotto
+
+- coronale: superiore, posteriore
+
+- sagittale: dx, sx
+
+  <img src="/home/ludo/.config/Typora/typora-user-images/image-20210330142637261.png" alt="image-20210330142637261" style="zoom: 33%;" />
+
+  La forma (strana) deriva dallo sviluppo embrionale.
+  Nel tubo neurale si formano 3 dilatazioni, che poi diventano 5, perché la prima e la terza si suddividono.
+
+  <img src="/home/ludo/.config/Typora/typora-user-images/image-20210330142914370.png" alt="image-20210330142914370" style="zoom:50%;" />
+
+  <img src="/home/ludo/.config/Typora/typora-user-images/image-20210330143238334.png" alt="image-20210330143238334" style="zoom:50%;" />
+
+  
+
+Scissura centrale, o del Rolando: divide fra lobo frontale e parietale.
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210330143337879.png" alt="image-20210330143337879" style="zoom:33%;" />
+vista sagittale mediale lato sx.
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210330143527999.png" alt="image-20210330143527999" style="zoom:33%;" />
+bianco: corpo calloso, assoni uniscono i due emisferi.
+
+Oss: anatomia macroscopica e organizzazione microscopica spesso non coincidono: non si hanno interruzioni fisse.
+
+- Sostanza grigia: senza mielina, soma, dendriti e assoni non mielinici
+- Sostana bianca: con *mielina*, non c'è spazio per dare mielina a tutti 
+  <img src="/home/ludo/.config/Typora/typora-user-images/image-20210330143935275.png" alt="image-20210330143935275" style="zoom:33%;" />
+  Ci sono assoni mielinici e non mielinici. 
+  Nel midollo spinale gli assoni sono degli *spaghetti*, se li seziono sono dei puntini.
+
+Si pensa che la corteccia cerebrale, 6 strati, spessa 2-4 mm 
+
 # Dal singolo neurone al cervello
-## Organizzazione del sistema nervoso
 
-## Meccanismi neurofisiologici della percezione (sistemi visivo, acustico, somatosensoriale)
+Sistemi sensoriali diversi, serpenti ,pipistrelli
 
-## Reti neurali
+Gli eventi fisici esistono e sono esistiti indipendentemente dagli organismi viventi e dalle loro percezioni.
+
+Le percezioni esistono solo all'interno del cervello.
+Ci costruiamo delle *rappresentazioni mentali* del mondo esterno. 
+
+**Scomposizione e sintesi**
+
+- i vari aspetti della realtà vengono scomposti in varie modalità sensoriali
+
+- all'interno di ognuna di queste vie c'è una scomposizione dello stimolo
+- le informazioni vengono ricomposte
+
+Siamo bravi a dire come viene scomposto ma non sappiamo come davvero avviene la *sintesi*.
+
+Ogni via sensoriale è formata da molti neuroni che *rispondono* a UNA certa modalità sensoriale (unimodale).
+*risponde*: quando produce un potenziale d'azione.
+Andando avanti si arriva a certe stazioni in cui i neuroni diventano *polimodali* (non solo in risposta alla vista ma anche all'udito es.)
+
+La stimolazione di una via sensoriale produce sempre lo stesso tipo di sensazione anche se essa viene stimolata in modo artificiale.
+Stimolando artificialmente (elettricamente) determinati zone posso provocare una stimolazione visiva.
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210330150008204.png" alt="image-20210330150008204" style="zoom:50%;" />
+
+## Recettore
+Sono le prime cellule di ogni via sensoriali. Sono cellule specializzate che rilevano uno stimolo trasformandolo in una via eletrtica (trasduzione: conversione di neergia stimolo in una variazione del pot. di membrana -> potenziale di rececttore; il pot. di membrana varia)
+
+Dopo i recettori ci saranno sempre e soltanto *variazioni del potenziale di membrana* e se si supera la soglia si produrranno potenziali di azione con rilascio di neurotrasmettitore.
+
+Recettore, trasduzione, potenziale recettoriale -> variazioni del potenzialie di membrana e pot. azione.
+
+**Meccanocettori**
+Fanno una trasduzione da meccanica ad elettrica: in variazioni del potenziale di membrana: ci sono movimenti di ioni
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210330150600235.png" alt="image-20210330150600235" style="zoom: 50%;" />
+
+Quando si muove la fibra muscolare; canali delle 
+Grafici degli stiramenti:
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210330150706870.png" alt="image-20210330150706870" style="zoom:50%;" />
+La variabilità è anche data dal rumore di fondo. Le risposte saranno un po' variabili anche per lo stesso stimolo.
+
+**Chemiocettori**
+
+**Fotorecettori**
+Trasducono da energia elettromagnetica a elettrico.
+Canale ionico metabotropico
+
+Trasduttori trasformano da segnali esterni a interni.
+
+Ogni recettore risponde solo a una stretta gamma di energia dello stimolo, e all'interno di rale gamma presenta un valore *ottimale*.
+
+Se lo stimolo uditivo è un suono a 2000Hz il recettore lo trasduce anche se è debole.
+Campo recettivo: per il tatto è una regione della cute; per la vista è una zona del campo visivo.
+La scomposizione non è uniforme: non abbiamo recettori ovunque e non tutti sono uguali.
+
+**Curva di risposta**
+
+## Sistema somatosensoriale
+
+Trasporta la sensibilità tattile del corpo e propriocettiva, termica, dolorifica. Trasporta da nervi spinali e nervo trigemino.
+
+Il 1° neurone della via somatosensoriale si trova nei gangli spianli o nel ganglio semilunare (testa)
+
+Gangli spinali: piccoli rignofiamenti
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210330151917339.png" alt="image-20210330151917339" style="zoom: 33%;" />
+
+Un virus latente che può albergare nel ganglio del Gasser è l'herpes; può riattivarsi.
+
+Nel suo interno ci sono altre scomposizioni
+
+**sensibilità tattile**
+fascio di fibre nervose: insieme di assoni in pratica. 
+
+Ci sono recettori più superificiale e altri più profondi (Pacini, Ruffini).
+Proprietà spaziali e temporali.
+
+Densità di innervazione. 
+Acuità spaziale: soglia per determinazione risposta percettiva (compasso con 2 dita).
+
+Non sentiamo più i vestiti addosso perché abbiamo molti recettori a rapido adattamento.
+
+Ulteriore scomposizione => successiva ricomposizione.
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210330153715141.png" alt="image-20210330153715141" style="zoom:50%;" />
+
+Ogni zona della nostre cute è mappata verso una zona del sistema nervoso.
+Le fibre C conducono il dolore e sono molto più lente, 2m/s. 
+Il percetto arriva in tempi diversi. tatto veloce, dolore lento.
+
+L'assone entra nel midollo spinale e si biforca (riflesso patellare...), l'altra parte sale su ai centri superiori. Tutti si fermano al livello del *bulbo*. da qui parte un insieme di neuorni che sale ed arrivano tutti al livello del talamo. Si fermano tutti qui, poi rimandano alla corteccia cerebrale. C'è sempre una disposizione precisa. Anche alla fine riconosco le varie afferenze.
+
+Le informazione della parte destra vengono elaborate nella parte destra del cervello : *incrociamento*.
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210412143324858.png" alt="image-20210412143324858" style="zoom: 67%;" />
+
+Organizzazione estremamente ordinata; 3 neuroni per arrivare alla corteccia cerebrale.
+L'organizzazione è sia seriale che in parallelo (scomposizione stimoli -> modalità e sottomodalità).
+
+*?Perché tante stazioni in serie? Non rallentano la comunicazione?*
+Non sono necessarie per la distanza.
+Non facciamo un grosso e lungo assone perché le stazioni non sono semplici stazioni di ritrasmissioni(/ripetitori/amplificatori). Il motivo è che sono centri di *rielaborazione*, mantenendo la rappresentazione somatotopica.
+
+*?Cosa vuol dire elaborare le informazioni a livello neuronale?*
+I campi recettivi dei neuroni
+Divergenza, convergenza e 
+
+- *divergenza*
+  - Un singolo assone afferente si ramifica e fa sinapsi con vari neuroni
+- *convergenza*
+  - vari assoni afferenti fanno sinapsi con uno stesso neurone
+
+convergenza + divergenza = dimensione del campo recettivo *aumenta*. campo recettivo = finestra sul mondo esterno
+
+Questo primo riconoscimento è una tappa inconscia.
+C'è un terzo elemento:
+
+- *inibizione retrograda*
+  - un neurone eccita degli interneuroni che inibiscono i neuroni circostanti
+  - non varia il potenziale d'azione, l'ampiezza è fissa
+  - cambia il numero di potenziali d'azioni prodotti, il numero di volte che si raggiunge la soglia (periodo refrattario a parte) (*scarica del neurone* = numero di pot. azione)
+  - se la somma arriva a soglia allora produce un potenziale d'azione
+  - i neuroni presinaptici producono un'inibizione -> a seconda di quali ioni escono ed entrano si ha un'eccitazione o un'inibizione
+  - ogni neurone è un *sommatore*!
+
+*chi vince prende tutto*. Nel campo recettivo compare una periferia inibitoria. 
+Non abbiamo una continua eccitazione ma una struttura più complessa. Rielaborazione delle informazioni.
+
+Homunculus: densità a seconda della proporzione. Ogni aniamale ha la sua deformazione.
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210412145402673.png" alt="image-20210412145402673" style="zoom:50%;" />
+
+**Vera rielaborazione**
+Un neurone sulla mano riesce a discernere fra stimoli orizzontali/verticali..  sono intelligenti? No, è meccanicistico: dipende dalla disposizione spaziale dei campi recettivi. 
+
+Nei campi recettivi c'è una parte eccitatoria e una inibitoria.
+Quando questi neuroni vanno a fare sinapsi, produce stimoli diversi a seconda della direzione dello stimolo, di come sono allineati (+ e -). Riconoscimento puramente di circuiteria. Lo stesso con lo scorrimento.
+
+Funziona così ad ogni stazione.
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210412150605903.png" alt="image-20210412150605903" style="zoom:50%;" />
+
+La circuiteria è sempre la stessa, 
+
+## Sistema visivo
+Gli oggetti devono essere
+Le immagini vengono invertite.
+
+È una retina inversa: prima si attraversa
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210412150854617.png" alt="image-20210412150854617" style="zoom:50%;" />
+
+La luce raggiunge i fotorecettori dopo aver attraversdato gli strati delle cellule.
+
+La fovea è il punto di maggiore precisione. Fototrasduzione
+
+Rodopsina, pigmento che si trasforma chimicamente. I canali sodio sono sempre aperti al buio. Quando arriva la luce il canale si chiude e si iperpolarizza                                                                                                                                                                                         
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210412151137082.png" alt="image-20210412151137082" style="zoom:50%;" />
+
+I bastoncelli in poca luce, non distinguono colori. Coni sono meno sensibili alla luce ma distinguono i colori.
+
+La visione che abbiamo del mondo esterno è estremamente imprecisa. Le rappresentazioni mentali non sono copie fedeli del mondo.
+
+Nel punto cieco non ci sono fotorecettori. 
+
+Eccitazione: numero di potenziali di azione maggiore di 10. La zona centrale inibisce. Le vie 
+
+LGN(stazione talamica). Diencefalo. 
+La stazione visiva (area corticale) è posteriore. C'è anche qui l'incrociamento, chiasmo ottico.
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210412152555323.png" alt="image-20210412152555323" style="zoom:50%;" />
+
+È anche scambiato sopra-sotto. Deformazione
+Homunculus anche del visivo. 
+
+I campi recettivi che vanno in un certo neurone possono inibire o eccitare a seconda dell'orientamento dello stimolo. Colonne di orientamento. La pelle visiva ha colonne autonome. Ci sono colonne tra occhio destro e sinistro. 
+
+I campi recettivi si allargano salendo nella struttura e diventano sempre più complessi. 
+
+Triangolo di Kanizsa: riempimento automatico, quali sono le stazioni che lo fanno?
+Il neurone risponde a un margine reale che attraversa il suo campo recettivo. 
+
+I diversi aspetti dello stimolo vengono codificate in vie parallele lungo le quali sono intercalate serialmente in varie stazioni.
+
+C'è un'area corticale nella quale convergono tutte le informazioni?
+Problema del collegamento: *binding problem*.
+Non esiste un'area verso cui tutto converge. È logico pensare che attraverso l'interazione si faccia tutto ma non sappiamo quale sia l'interazione. 
 
 ## Sviluppo, apprendimento, memoria
 
-## Lezione sperimentale. Misurazioni psicofisiche (tempo di reazione, soglia uditiva, misurazioni soprasoglia)
+Le precise connessioni fra neuroni si formano durante lo sviluppo embrionale e postnatale.
+
+Molte cose procedono in modo diverso o più complesso.
+Vediamo cosa è genetico e cosa può cambiare a contatto con l'ambiente.
+
+È l'ectoderma a dare origine al SN. Tutto l'ectoderma ha la potenzialità di differenziarsi in tessuto nervoso. Ci sono molecole (BMP) che lo impediscono, le quali vengono a loro volta inbite da sostanze del mesoderma.
+
+ectoderma <- BMP <- mesoderma
+
+I neuroni che andranno a formare la corteccia cerebrale (6 strati). Mano a mano che si formano le nuove cellule risalgono e vanno a disporsi in cima.
+
+I neuroni che si formano vivono a lungo? 
+Fattori neurotrofici. Permettono la sopravvivenza soprattutto inibendo l'apoptosi.
+Apoptosi, Morte cellulare programmata, attiva vie biochimiche che mettono in moto programma di suicidio. 
+
+Come si formano le vie nervose? Come raggiungono in modo così preciso i bersagli?
+Come trovano la strada? È tutto meccanicistico.
+
+Esperimenti fatti sulle rane, molto creunti. 
+Se il nervo ottico di un mammifero viene sezionato l'animale diventa cieco. Se lo si fa su una rana, gli assoni retinici possono rigenerarsi e raggiungere correttamente il tetto ripristinando la visione.
+
+Esperimento di Sperry, 1940. Hanno ruotato il globo oculare di 180°, per vedere se le connessioni che si riformano.
+
+Le connessioni si ripristinano in modo indipendente dalla visione
+
+Chemiospecificità: riconoscimento solo chimico. Possono raggiugnere
+Molte fasi: prendendo «decisioni» lungo il percorso. Si inietta un colorante  vitale (compatibile con la sopravvivenza), col microscopio si vede come il neurone si evolve.
+
+Si raggiunge il bersaglio con strani percorsi, *sniffano* l'ambiente circostante, ci sono molecole che attraggono e repulsive (semaforine). I neuroni successivi seguono la strada dei neuroni pionieri.
+
+Qual è la struttura che permette di cambiare strada? *Cono di accrescimento*, parte terminale dell'assone
+
+trasduce segnali esterni in segnali interni. Verrà modificato il *citoscheletro*
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210413144307008.png" alt="image-20210413144307008" style="zoom:50%;" />
+
+**Una volta raggiunto il bersaglio, come si forma la sinapsi? Perché?**
+Molto studiata la sinapsi fra motoneuroni. Acetilcolina
+
+Una volta che arriva il miotubo 
+tante cellule muscolari primordiali
+
+Maturazione: si mettono d'accordo, spartiscono miotubi: 
+spartizione territorio: *conferenza di Yalta*(), proprietà privata
+
+Anche nel SNC c'è qualcosa del genere, ma è più complicato. Un neurone riceve tante sinapsi da tanti neuroni.
+
+Si studiano per problemi legati a lesioni del SN...
+
+**Ma allora tutto è predeterminato geneticamente?**
+L'esperienza non conta nulla?
+I segnali molecolare non determinano tutte le connessioni sinpatiche. Nel sistema visivo, i segnali determinan o la formazione delle vie visive. La regolazione *fine* dei cricuiti dipende dall'attività nervosa, quindi dall'esperienza.
+
+Le connessioni sinpatiche sono dinamiche, si modificano nel corso dello sviluppo. Si ritiene che i meccanismi fisiologici dell'apprendimento dipende 
+
+Modificano le sinapsi l'apprendimento, la memoria è fortemente correlato.
+Come si fa?
+Colonne di dominanza oculare. Queste ne risentono dell'interazione con l'ambiente?
+Hanno classificato le cellule dell'area 17 in 7 gruppi.
+1000 neuroni dell'area 17 di scimmie. La maggior parte dei neuroni risponde a entrambi gli occhi.
+Misurati con numero pot. azioni.
+
+Cosa succede se ostacoliamo la visione ad un occhio (si cucivano le palpebre... diobestia).
+Se l'animale è adulto non succede nulla; se è un cucciolo fino a 6 mesi l'animale risulta come cieco da quell'occhio. Le risposte sono tutte di un occhio. Cosa è accaduto? Periodo critico, se un occhio non vede bene (mandando un segnale alterato), gli effetti si fanno sentire in questo periodo. Si deve controllare in questo periodo che la visione sia uguale nei 2 occhi.
+Altrimeni il territorio di influenza di un occhio può prevalere sull'altro.
+
+È opportuno controllare la visione dei bambini entro il periodo ciritco (9 mesi). Queste esperienze sensoriali sono fondamentali per lo sviluppo. L'input tattile è fondamentale nei bambini.
+
+Le prestazioni cognitive erano superiori nel gruppo con interazioni tattili.
+Morrone-Burr
+
+La modulazione fine avviene durante il corso di tutta la vita.
+
+L'esperienza può modificare le connessioni funzionali. I territori si espandono.
+**Quali sono i meccanismi di modulazione delle sinapsi?**
+Ci si è concentrati sull'ippocampo.
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210413150715638.png" alt="image-20210413150715638" style="zoom:50%;" />
+
+I corpi cellulari dei neuroni sono più concentrati, uno accanto all'altro, più facile entrarci col microelettrodo. 
+Queste sinapsi si modificano o sono fisse? Bliss e Lomo. 
+Nota musicale  amolletta: stimoazione elettrica neurone artificiale
+
+Poi stimolazione tetanica, molta corrente per 50-100 ms. Piccolo shock, le risposte poi sono tremendamente aumentate. 
+
+Più neurotrasmettitore, 
+Ciò che cambia è l'elemento presinaptico. Il raddopiamento del nuerone post è dovuto al fatto che libera più neurotrasmettitore, dura molto a lungo: la sinapsi si rinforza. Nell'altra sinapsi è l'elemento post che si modifica. La modifica dura per 3-24 ore (LTP, potenziamento a lungo termine). 
+Si rischia di innescare un LTP con uno stimolo troppo forte. Quando stimolo fortemente le vie, probabilmente faccio una stimolazione tetanica: rinforzo sinapsi coinvolte in quella trasmissione.
+Il cervello funziona rinforzando le sinapsi.
+
+Post-sinaptico: modifica è stato studiato a lungo. Recettore ionotroico NMDA glutammato come neurotrasmettitore.
+
+Si aprono non soltanto quando arriva il glutammato ma sono anche voltaggio-dipendenti.
+Il recettore è sensibile anche al magnesio, che normalmente tappa il canale (non facendo passare il calcio). QUando la stimoazione`e forte, il magnesio si stacca ed entra anche il calcio (all'interno dei neuroni è tenuto basso) perché innessca tante cose tra cui *trascrizione genica*. 
+Spiegazione di oggi con cui le sinapsi possono rinforzarsi.
+
+Si misura la quantità di ordini delle ramificazioni. Ramificazioni del primo ordine non cambiano, ma quelle superiori sono molto più numerose in un ambiente arricchito. 
+
+Con input asincroni si ha perdita di input (inefficaci). Modulazioni fini
+Le modifiche sono determinate da esperienza, interazioni sociali. Capacità di acquisire e richiamare inforazioni apprese.
+
+### Memoria
+
+Capacità di acquisire e richiamare informazioni apprese.
+Soprattutto grazie a persone con lesioni.
+HM: a 27 anni hanno asportato gran parte del lobo temporale, amigdala..
+Corpo calloso: maggior parte degli assoni che connettono emisferi.
+
+Il cervelletto si è atrofizzato nel tempo. Il nostro cervello va tenuto in attività, yeee
+
+Non aveva difficoltà a ricordare eventi precedenti all'operazione, ma difficoltà a creare nuovi ricordi duraturi. Conferma della teoria della memoria a breve termine teorizzata da James.
+
+Memoria dichiaratica, e procedurale.
+
+Memoria sensoriale, immediata: perdura per qualche istante. *Iconica, ecoica, aptica*. 
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210413153326241.png" alt="image-20210413153326241" style="zoom:50%;" />
+
+Memoria sensoriale a breve termine.
+
+
+Hebb 1940: La prolungata attivazione di una sinapsi fra due neuroni aumenta l'efficacia dell'interazione.
 
 # Cervello e mente
+
+*?Quanto complete e attendibili sono le nostre percezioni?*
+
+*Completezza*
+Non sono *complete*, non vediamo gli ultravioletti. Gli insetti sono insensibili al rosso ma vedono l'ultravioletto.
+I papaveri emettono anche l'ultravioletto (per questo attraggono le api).
+Il mondo dei colori non è condiviso da tutte le specie.
+Tatto: pressione troppo lievi
+Udito: 20-20000Hz
+
+*Attendibilità*
+No non è attendibile, colori e dettagli della retina periferica. L'udito presenta maggiore sensibilità a 1000-4000Hz.
+
+*?Quanto ci possiamo fidare di queste rappresentazioni del mondo esterno?*
+
 ## Illusioni sensoriali e allucinazioni
+
+Illusione: distorsione di uno stimolo esterno realmente esistente
+
+Allucinazioni: percezione  di uno stimolo esterno non esistente
+
+**Illusione**
+Illusione ottiche conosciute già in tempi antiche (*motion aftereffect*). Studiando i circuiti neurali si spera di capire la causa delle illusioni.
+
+Anche tutta la visione potrebbe essere definita come una grande illusione (size constancy).
+Bande di *Mach*. Inibizione laterale, vediamo più bianco e più nero ai margini nonostante ci sia un gradiente lineare.
+
+Griglia di Hermann.
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210419143255616.png" alt="image-20210419143255616" style="zoom:33%;" />
+
+Contrasto simultaneo: 
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210419143418505.png" alt="image-20210419143418505" style="zoom:50%;" />
+Stesso grigio ma percepito in base a ciò che c'è intorno.
+
+Contorni illusori:
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210419143530248.png" alt="image-20210419143530248" style="zoom:33%;" />
+esperimento: ci sono segnali che tornano indietro, da area ; ritardo dovuto a questo. 
+
+**Allucinazioni**
+Allucinazioni visive anche in pazienti divenuti ciechi (sindrome di Charles Bonnet).
+Ci limiteremo alle allucinazioni da LSD e ketamina.
+
+LSD: acido lisergico, che viene utilizzato per sintetizzare LSD (Hofmann). 
+Un *trip* dura 8-12 ore. Psichicamente: euforia, sinestesie (mescolamento sensazioni, errori nell'elaborazione; sentono la musica colorata; le parole hanno una base genetica).
+
+Dove agisce nel cervello? Agisce su recettori dove agisce anche serotonina, dopamina, noradrenalina.
+Gli effetti allucinogeni sarebbero dovuti ad azione agonista su recettori 5HT2A. Ne risulta una liberazione di glutammato alla fine, ma solo la conseguenza finale. 
+
+**Ketamina**
+Agisce al contrario, antagonista dei recettori NMDA. Farmaco dissociativo: corteccia cerebrale separata dal resto del corpo. Era utilizzata in passato come anestesia. Effetti simili a PCP e DXM (farmaco contro la tosse).
+
+Effetti simili nonostante le azioni farmacologiche siano in parte opposte.
+
 ## Schizofrenia, depressione, stati d'ansia, sistemi della ricompensa, droga
+
+Quanto i nostri stati d'animo sono correlati dalla chimica del cervello..
+
+*Schizofrenia*: turbe mentale. Circa 1 persona su 100, caratterizzata da episodi psicotici. Si perde il senso della realtà. Gli episodi mentali correlati; descrive cose che non esistono. 
+Perdita del senso della realtà che si accompagna a idee deliranti (che non vengono modificate davanti alla dimostrazione della loro irragionevolezza..), illucinazioni uditive. 
+
+A beatiful mind: le allucinazioni non invecchiavano..
+
+Sintomi positivi: manifestazioni che si osservano nel corso degli episodi psicotici.
+
+Cause? Fattori gentici, età del padre. Infezioni della madre durante il primo trimestre, vita in città...
+
+I farmaci che diminuiscono l'efficacia sinpatica della dopamina sono utili nel trattameno della schizofrenia. 
+Diminuendo la quantità di dopamina fatta fuoriuscire.
+Questi farmaci possono agire ad ogni passo: 
+
+Il fatto che questi farmaci siano utili nel trattamento della schizofrenia NON dimostra che la schizofrenia sia causata da alterazioni della trasmissione dopaminergica.
+
+Morbo di Parkinson: troppo poca dopamina disponibile. 
+
+**Depressione**
+Si accetta poco che il cervello possa influenzare l'umore. Turbe dell'umore.
+Interesse filosofico della correlazione cervello-stati mentali.
+Depressione si accompagna ad una depressione del cervello.
+Depressione unipolare: turbe dell'umore caratterizzata da un continuo e persistente
+Depressione bipolare: turbe dell'umore caratterizzata da episodi depressivi intervallati da episodi maniacali.
+Vari tipi di trattamento: elettroshock, terapia elettroconvulsiva (remissione)
+Sali di litio (simili al sodio per canali ionici). I farmaci attivi nel trattamento. Aumento di rilascio di serotonina.
+
+Fluossetina: prozac. inibisce la riassunzione della serotonina: aumenta permanenza, non è localizzato, agisce su tutto il cervello.
+
+Oss: il fatto che queste due sostanze siano utili NON dimostra che la depressione sia causata da mancanze di questi neurotrasmettitori.
+
+**Stati ansiosi generalizzati**
+È una risposta normale a situazioni di minaccia.
+Tale stato assume carattere patologici, eccessivo, persistente, o quando non serve per segnalare la presenza di un pericolo.
+Attacchi di timor panico, stati di stress post-traumatico. 
+Prima scelta: psicologia. 
+Gli stati ansiosi generalizzati possono persistere per mesi..
+I farmaci esaltano l'attività del recettore GABA. Diminuzione eccitabilità. 
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210419153243909.png" alt="image-20210419153243909" style="zoom:50%;" />
+Diazepam: cloro aumenta. 
+
+**Droga**
+Il nostro comportamento è attivato dalla *motivazione*.
+Olds e Milner (1954), stimolazione dei ratti alla pressione di una leva. Poteva autostimolarsi. Premeva la leva incessantemente, rischiava di morire di stenti. In altri esperimenti davano cocaina.
+Neuroscienze: localizzere funzione o descrivere funzione.
+Varie sostanze che portano alla tossicodipendenza agiscono aumentando l'efficacia 
+Cocaina e anfetamina prolungano il tempo di permanenza della dopamina nella fessura bloccandone il reuptake.
+Frequenza sitmolazione per far si che l'animale prema la sbarretta. Più frequenza ho 
+
+Non tutte le sostanze
+
+**Cannabis and brain development, 2014**
+L'uso pesante e regolare durante l'adolescenza è associato a 
+Durante l'adolescenza interferisce, provoca un peggioramento.
+Qualità dello sperma
+Uso regolare diminuisce del 30% della concentrazione e del totale. Combinato ad altre sostanze si può arrivare al 50%.
+
+
+
 ## Sonno, sogni, coma, morte cerebrale
-## Lezione sperimentale. Misurazione di segnali elettroencefalografici di tipo cognitivo
-# Fra neuroscienze e filosofia
+
+### EEG
+EEG: registrazione attività elettrica dell'encefalo, tramite elettrodi (dal 1920+). Dall'Inion al nasion:
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210420141912726.png" alt="image-20210420141912726" style="zoom:50%;" />
+
+Elettrodo unipolare: un elettrodo è neutro
+Elettrodo bipolare: si registra da una coppia di elettrodi
+Attività lenta: 
+Perché sono onde piccole (micro-volt)? Quali neuroni generano l'EEG? Sono pot. azione?
+
+La posizione dell'elettrodo extracellulare determina l'ampiezza (molto ridotta) e polarità di EPSP/IPSP.
+La diversità di cariche fa sì che abbiamo un accumulo di cariche opposte: *dipolo elettrico*. 
+
+Internamente si ha sempre la stessa deflessione, con ampiezza che diminuisce allontanandoci dai punti focali.
+Neuroni con $\Delta V$ = dipoli elettrici
+
+Che succede quando polarizzo o depolarizzo tanti neuroni?
+Si può avere una sommazione dei neuorni? Si ma
+
+- contemporanei
+- orientati in modo da non cancellarsi
+- dipolo allineato con l'elettrodo
+
+Fra tutti i neuroni dell'encefalo solo i neuroni piramidali riescono a soddisfare sta roba
+
+La distanza è più lunga. Sono soprattutti i neuroni piramidaloni ad essere catturati dall'EEG
+Precisazione:
+
+- l'elettrodo intracellulare registra 1 solo neurone
+- extracellulare: uno o più neuroni
+
+Precisazione:
+
+- le deflessioni positive/negative dell'EEG non permettono di distinguere EPSP da IPSP.
+
+Oggi: high-density EEG: tantissimi elettrodi, 256 canali. EEG mapping
+
+<img src="/home/ludo/.config/Typora/typora-user-images/image-20210420143801014.png" alt="image-20210420143801014" style="zoom:50%;" />
+
+Pro: molto veloce la misurazione.
+L'EEG risente delle piegature dell'encefalo. 
+Paralleli: contribuisce molto poco. Perpendicolari: hanno molto effetto. 
+
+Analisi EEG: nell'uomo in genere one da 1 a 30Hz, 4 tipi di one
+
+- alpha: 8-13 Hz
+  - soggetto sveglio che chiude gli occhi; appena apro gli occhi compare attività Beta
+- attività Beta: 12-30Hz
+  - intensa attività mentale
+- Theta: 
+- Delta:
+
+Potenziali evocati: variazione dell'EEG. Nell'EEG non si da uno stimolo. Si parla di PE quando l'eeg viene registrato con uno stimolo (visivo, uditivo....)
+
+### Tronco cerebrale
+
+Nuclei motori e sensitivi di molti nervi cranici
+Formazione reticolare. Neuroni frammisti ad assoni di passaggio. 
+Parte parvicellulare e parte magnicellulare. 
+
+### Sonno
+
+Perché dormiamo?
+Si pensava che il sonno corrispondesse ad una condizione di attività cerebrale ridotta, conseguentemente all'affaticamento prodotto dall'elaborazione degli stimoli sensoriali.
+
+Anni '50: Moruzzi, Magoun: attività elettrica neuroni della fomrazione reticolare del tronco dell'encefalo.
+
+Sonno REM (*rapid eye movement* movimento occhi), NON-REM (non presenti). 
+Sonno: particolare stato cerebrale indotto attivamente, suddisivisibile in fasi distinte.
+
+I ritmi circadiani sono endogeni, richiedono un orologio interno. Nei mammiferi uno dei principali orologi interni è il nucleo sovrachiasmatico (nell'ipotalamo, collegato alla retina..)
+L'andamento temporale dell'attività dei neuroni può venire risestimata (melatonina, ormone prodotto dall'epifisi, sintesi aumentata da cannabis e LSD).
+Osservando il sonno:
+
+- posture
+- riduzione attività motoria
+- diminuzione risposte agli stimoli
+- reversibilità relativamente pronta
+
+Durante il sonno l'attività fisiologica può essere
+
+EMG (elettromiogramma, registrazione attività muscolare). EOG (elettrooculogramma, visivo)
+
+Il tono muscolare non varia durante il sonno non-REM.  
+Sonno paradosso: durante l'attività della fase REM è simile a quella della veglia; osservando l'EMG capiamo se sta dormendo o no.
+Con l'avanzamento dell'età le fasi cambiano un po'. 
+Durante il sonno REM la termoregolazione è ridotta e si ha erezione pene/clitoride (si può misurare per capire impotenza ecc..)
+Svegliare un paziente durante fase REM è easy, nelle altre fasi è difficile. Nelle fasi di sonno profondo. Se il braccio va giù in modo pesante: sonno REM
+Allattamento: «non svegliare alle 4 il bimbo..»
+
+Quali sono i meccanismi cellulare alla base del sonno?
+In un gatto
+
+Le fasi non-REM e REM si alternano ciclicamente. Il talamo durante la veglia riceve i segnali degli altri neuroni.
+
+Il sonno è necessario, conservato durante l'evoluzione. La durata del sono aumenta dopo deprivazione. La deprivazione porta alla morte dei ratti in 2-3 settimane.
+Finalità: forse per conservare engergia; forse per apprendimento e memoria; maturazione del SN.
+
+misurato 7000 sinapsi, usando microscopio tridimensionale. Interfaccia assone-spina. 
+Conclusione: durante il giorno il bombardamento fa aumentare spine dendritiche. Durante il sonno elimino alcune di queste sinapsi. Il cervello fa una pulizia delle sinapsi, altre rimangono consolidate per il giorno dopo.
+2017: 
+
+Scopo dei sogni: si sogna durante le fasi REM, ma anche durante le prime parti delle fasi non REM. 
+Finalità: 
+Il contenuto dei sogni non viene influenzato dagli stimoli presenti nell'ambiente durante il sonno... ??contro teorie psicoanalitiche di Freud??
+La cosa più interessante è che ciò che sognamo
+
+Il Coma è un  profondo stato di incoscienza.
+Il paziente non può essere svegliato, non risponde a stimoli visivi.
+Il coma può essere indotto dai medici: coma farmacologico: sostanze che tolgono coscienza. 
+Sindrome *locked-in*. 
+
+Morte cerebrale: scomparsa di tutte le funzioni cerebrali compresi i riflessi mediali...
+Stato vegetativo: 
+
+anencefalia: il tronco cerebrale può essere normale, per cui non si parla di morte cerebrale....
+
+Persone tetraplegiche. 
+
+## Fra neuroscienze e filosofia
 
 *Un paio di lezioni in cui leggeremo e  discuteremo alcuni articoli scientifici originali in cui neuroscienziati affrontano sperimentalmente le problematiche della coscienza, delle  percezioni, del libero arbitrio.*
 
-## Coscienza. Libero arbitrio. Immaginazione. Creatività
+Non possiamo avere fiducia totale nelle misurazioni delle macchine, hanno delle limitazioni. Abbiamo
+Registrazioni intracellulari: più difficile, microelettrodo dentro al neurone.
+Registrazioni extracelulari: tracciati molto numerosi, tra cui si rivelano potenziali di azioni prodotti nelle vicinanze del microelettrodo. Per isolare l'attività di un neurone si cerca di analizzare la soglia. 
+
+I potenziali di azioni non fanno rumore ma.. si può trasmettere ad un altoparlante (il neurone *spara*). Blakemore cat visual cortex.
+
+### Neuroni specchio
+
+Rizzolatti, 1996: scimmia, scatola di fronte alla scimmia; potenziali di azione durante visione di attività. Empatia? filosofi e psicologi trovano pecche in questi lavori. 
+Ma è un terreno dibattuto, 
+
+### Coscienza
+
+Si deve sempre misurare un'attività neurale che correla uno stato di coscienza, la formazione di una decisione. 
+È uno degli argomenti più di moda. Owen - vegetative state tramite fMRI, che rileva variazioni del metabolismo encefalico (pompe ioniche ecc.. ATP). Viene misurato il rapporto fra emoglobina con ossigeno e con anidride carbonica. I vasi sanguigni si dilatano per soddisfare esigenze del cervello. 
+Ma la risposta è lenta e ci sono falsi positivi e negativi. Nonostante questo sono misurazioni semplici per cui la fMRI ha molta importanza.
+
+Owen: ipotizzare nuove basi per stabilire limite della presenza di coscienza. stato vegetativo=mancanza coscienza. Sentenze ambigue dovrebbero implicare elaborazioni semantiche per la comprensione del discorso. Una risposta neurale, sebbene suggestiva, non è comunque un'evidenza inequivocabile. 
+
+La sequenza di movimento complessa delle dita attiva anche l'area premotoria mediale. Immaginando di muovere le dita non si accende l'area somatosensoriale ma l'area supplementare motoria (SMA) si attiva lo stesso. L'immaginazione si traduce/correla con un'attività veramente fisica. 
+
+Le risposte neurali non erano distinguibili da quelle osservate nei soggetti di controllo. Nonostante lo stato vegetativo (etichetta clinica) il soggetto risponde all'immaginazione. 
+
+### Libero arbitrio
+
+Esperimento di Libet, 1983. 
+Soon - 2008: il cervello decide prima che tu ne sia consapevole. L'SMA si attiva alla fine; il ritardo sono poche centinaia di ms. Le informazioni predittive primarie sono codificate in specifiche regioni della corteccia parietale e frontopolare, e non nella SMA.
+
+Critica: è una situazione forzata quella dell'esperimento.
+Posso prevedere deterministicamente il comportamento di una persona analizzando i correlati neuronali?
+
+Cronostasi, phi motion.
 
 # Bibliografia consigliata
 
